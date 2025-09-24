@@ -5,6 +5,7 @@ permalink: /archive/
 nav_order: 1
 redirect_from:
   - /maqt-archive
+  - /maqt-archive/maqt
 last_updated: September 03, 2025
 ---
 

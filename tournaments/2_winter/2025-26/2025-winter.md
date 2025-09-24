@@ -3,7 +3,7 @@ layout: page
 title: 2025 ACF Winter
 permalink: tournaments/winter/2025/
 nav_order: 2.5
-last_updated: August 21, 2025
+last_updated: September 24, 2025
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
@@ -19,7 +19,7 @@ last_updated: August 21, 2025
 
 ## Editors
 
-2025 ACF Winter is head-edited by Rachel Ezrielev. The subject breakdown by editor is:
+2025 ACF Winter is head edited by Rachel Ezrielev. The subject breakdown by editor is:
 
 | Editor            | Subjects                                                    |
 | ----------------- | ----------------------------------------------------------- |
@@ -40,7 +40,7 @@ last_updated: August 21, 2025
 
 ## Hosting
 
-If you are interested in hosting a mirror of ACF Winter, fill out [the hosting bid form](https://forms.gle/36hYVM8AsW95hTdWA) before 11:59 p.m. PT on Saturday, September 15, 2025. Mirrors of this tournament may be held in-person or online. If you have any questions about hosting, please email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](https://acf-quizbowl.com/guidelines/hosting/).
+If you are interested in hosting a mirror of ACF Winter, fill out the [hosting bid form](https://forms.gle/36hYVM8AsW95hTdWA) before 11:59 p.m. PT on Saturday, September 15, 2025. Mirrors of this tournament may be held in-person or online. If you have any questions about hosting, please email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](https://acf-quizbowl.com/guidelines/hosting/).
 
 ## Registration
 
@@ -52,15 +52,26 @@ ACF Winter uses the [standard ACF distribution](/writing/distribution), which is
 
 ## Fees
 
-| Category                                  | Fee / Discount                                       |
-| ----------------------------------------- | ---------------------------------------------------- |
-| Base fee per team                         | $150                                                 |
-| New to quizbowl discount                  | −$100                                                |
-| Shorthanded discount (1–2 players)        | −$75                                                 |
-| Travel discount                           | −$10 per 200 miles traveled one-way                  |
-| Buzzers                                   | −$10 per functional buzzer system                    |
-| Staffers                                  | −$25 per pre-registered staffer w/ functional laptop |
-| Submission discount(s) / opt-out fee      | As noted below                                       |
+The fee structure for ACF Winter is taken from [ACF's hosting guidelines](/hosting/#acf-winter--acf-regionals).
+
+{: .table-multi}
+|                    | Type                         | Team Amount                          | Host Share                          | ACF Share                            |
+| :----------------: | ---------------------------- | ------------------------------------ | ----------------------------------- | ------------------------------------ |
+|      **Fee**       | Base                         | $150                                 | $80                                 | $70                                  |
+|         ^^         | Opt-out                      | $50                                  | N/A                                 | $50                                  |
+|                    | New to quizbowl              | −$100                                | −$30                                | −$70                                 |
+|         ^^         | Shorthanded<br>(1–2 players) | −$75                                 | −$45                                | −$30                                 |
+|  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way  | −$10 per 200 miles traveled one-way | N/A                                  |
+|         ^^         | Buzzer(s)                    | −$10 per buzzer                      | −$10 per buzzer                     | N/A                                  |
+|         ^^         | Staffer(s)                   | −$25 per staffer                     | −$25 per staffer                    | N/A                                  |
+| **Fee / Discount** | Packet submission            | [-$50 to +$30](#submission-schedule) | N/A                                 | [-$50 to +$30](#submission-schedule) |
+
+> [!NOTE]
+>
+> 1. Travel discount applies to at most one team per school.
+> 2. Buzzers must be functional.
+> 3. Staffers must have functional laptop and internet connection.
+> 4. All staffers, including moderators, must register with ACF in advance.
 
 The new-to-quizbowl discount is for schools that have not sent a team to any regular collegiate academic tournament since September 1, 2024, and have no one on the team(s) claiming this discount who played those tournaments for another school. Exclusively novice tournaments do not count as regular collegiate academic tournaments.
 
@@ -98,7 +109,7 @@ The opt-out fee is $50. If a team does not submit a half-packet by October 19, 2
 
 ### Packet Distribution & Authorship
 
-If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. The Winter head editor will respond with a half-packet or quarter-packet template specifying which categories you are assigned to write.
+If your team is going to submit a half-packet, whether required or not, email [winter@acf-quizbowl.com](mailto:winter@acf-quizbowl.com) to request a distribution. The head editor(s) will respond with a half-packet or quarter-packet template specifying which categories you are assigned to write.
 
 Your assigned half-packet may ask for questions from more specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on 20th-century American poetry, or an Economics bonus instead of “Social Science/Philosophy.”
 
@@ -128,23 +139,24 @@ For information on who is eligible to play non-Fall ACF tournaments, see [ACF’
 
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2025 ACF Winter in the following [regions](/guidelines/hosting#regions-according-to-acf):
 
-| Region                            | Site |
-| --------------------------------- | ---- |
-| Northeast                         | TBA  |
-| Upper Mid-Atlantic                | TBA  |
-| Upstate New York                  | TBA  |
-| Lower Mid-Atlantic                | TBA  |
-| Southeast                         | TBA  |
-| Florida                           | TBA  |
-| Great Lakes                       | TBA  |
-| Midwest                           | TBA  |
-| North                             | TBA  |
-| South Central                     | TBA  |
-| Pacific Northwest / Mountain West | TBA  |
-| Northern California               | TBA  |
-| Eastern Canada                    | TBA  |
-| United Kingdom                    | TBA  |
-| Overflow (Online)                 | TBA  |
+| Region                            | Site                  |
+| --------------------------------- | --------------------- |
+| Northeast                         | Harvard               |
+| Upper Mid-Atlantic                | Johns Hopkins; Lehigh |
+| Upstate New York                  | Syracuse              |
+| Lower Mid-Atlantic                | Virginia Tech         |
+| Southeast                         | TBA                   |
+| Florida                           | Florida               |
+| Great Lakes                       | Kenyon                |
+| Lower Midwest                     | Missouri S&T          |
+| Upper Midwest                     | Purdue                |
+| North                             | Minnesota             |
+| South Central                     | Texas                 |
+| Pacific Northwest / Mountain West | British Columbia      |
+| Northern California               | Claremont             |
+| Eastern Canada                    | Waterloo              |
+| United Kingdom                    | Warwick               |
+| Overflow (Online)                 | TBA                   |
 
 ## Past Tournaments
 
@@ -153,6 +165,3 @@ Sample questions from previous iterations of ACF Winter are on the [Collegiate Q
 Announcements and information about previous iterations of ACF Winter are archived below:
 
 * [2024 ACF Winter](/tournaments/winter/2024/)
-* [2023 ACF Winter](/tournaments/winter/2023/)
-* [2022 ACF Winter](/tournaments/winter/2022/)
-* [2021 ACF Winter](/tournaments/winter/2021/)

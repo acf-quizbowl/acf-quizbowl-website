@@ -8,7 +8,7 @@ post_date: January 6, 2020
 
 <img src="/blog/images/rahul-keyal.png" style="width:350px;"/>
 
-*Rahul Keyal, a junior studying computer science at the University of California-Berkeley, is co-president of the Cal Quiz Bowl Club. He is a frequent writer and editor who subject-edited 2018 ACF Fall and head-edited 2019 ACF Fall. ACF representative Caroline Mao spoke with him about his editing experiences.*
+*Rahul Keyal, a junior studying computer science at the University of California-Berkeley, is co-president of the Cal Quiz Bowl Club. He is a frequent writer and editor who subject-edited 2018 ACF Fall and head edited 2019 ACF Fall. ACF representative Caroline Mao spoke with him about his editing experiences.*
 
 **CM: Let’s talk about your editing journey and writing. Where did you start with that, and how’s it been going?**
 

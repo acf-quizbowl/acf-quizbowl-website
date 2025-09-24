@@ -26,7 +26,7 @@ For details about the bidding process and policy specifically for ACF Nationals,
 For the purposes of selecting ACF tournament sites only, ACF generally considers North America to contain these regions:
 
 | Region Name        | Areas                                                                   |
-|--------------------|-------------------------------------------------------------------------|
+| ------------------ | ----------------------------------------------------------------------- |
 | Northeast          | Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut |
 | Upper Mid-Atlantic | New York, New Jersey, Eastern Pennsylvania, Delaware                    |
 | Lower Mid-Atlantic | Maryland, District of Columbia, Virginia, North Carolina                |
@@ -49,12 +49,12 @@ When there is more than one bid in a region, the Site Coordinator will choose th
 
 {: .table-multi}
 | Approximate time               | Task                                                                                          |
-|--------------------------------|-----------------------------------------------------------------------------------------------|
+| ------------------------------ | --------------------------------------------------------------------------------------------- |
 | 12 weeks before tournament     | Bids received for tournament                                                                  |
-| 10 weeks before tournament\*   |    * ACF announces sites for tournament Database                                              |
+| 10 weeks before tournament\*   | * ACF announces sites for tournament Database                                                 |
 | ^^                             | ^^ * Hosts publish announcements on Forums and Database                                       |
 | 8 weeks before tournament      | First packet submission deadline                                                              |
-| 2 weeks before tournament      |    * Deadline to contact Site Coordinator to provide trophies for site                        |
+| 2 weeks before tournament      | * Deadline to contact Site Coordinator to provide trophies for site                           |
 | ^^                             | ^^ * Deadline to contact Site Coordinator to opt out of Undergraduate or Division II trophies |
 | ^^                             | ^^ * ACF notifies hosts of which schools’ packets used in set                                 |
 | 1 week before tournament       | Deadline for Site Coordinator to approve tournament format                                    |
@@ -168,27 +168,30 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 
 {: .table-multi}
 |                    | Type                         | Team Amount                         | Host Share                          | ACF Share              |
-|:------------------:|------------------------------|-------------------------------------|-------------------------------------|------------------------|
-| **Fee**            | Base                         | $150                                | $80                                 | $70                    |
+| :----------------: | ---------------------------- | ----------------------------------- | ----------------------------------- | ---------------------- |
+|      **Fee**       | Base                         | $150                                | $80                                 | $70                    |
+|         ^^         | Opt-out                      | amount as applicable                | N/A                                 | amount as applicable   |
 |                    | New to quizbowl              | −$100                               | −$30                                | −$70                   |
-| ^^                 | Shorthanded<br>(1–2 players) | −$75                                | −$45                                | −$30                   |
-| ^^ **Discounts**   | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A                    |
-| ^^                 | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A                    |
-| ^^                 | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A                    |
+|         ^^         | Shorthanded<br>(1–2 players) | −$75                                | −$45                                | −$30                   |
+|  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A                    |
+|         ^^         | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A                    |
+|         ^^         | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A                    |
 | **Fee / Discount** | Packet submission            | ± amount as applicable              | N/A                                 | ± amount as applicable |
+
+<br>
 
 ##### ACF Fall
 
 {: .table-multi}
-|                    | Type                         | Team Amount                         | Host Share                          | ACF Share              |
-|:------------------:|------------------------------|-------------------------------------|-------------------------------------|------------------------|
-| **Fee**            | Base                         | $120                                | $60                                 | $60                    |
-|                    | New to quizbowl              | −$80                                | −$20                                | −$60                   |
-| ^^                 | Shorthanded<br>(1–2 players) | −$60                                | −$40                                | −$20                   |
-| ^^ **Discounts**   | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A                    |
-| ^^                 | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A                    |
-| ^^                 | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A                    |
-| **Fee / Discount** | Packet submission            | ± amount as applicable              | N/A                                 | ± amount as applicable |
+|                  | Type                         | Team Amount                         | Host Share                          | ACF Share   |
+| :--------------: | ---------------------------- | ----------------------------------- | ----------------------------------- | ----------- |
+|     **Fee**      | Base                         | $120                                | $60                                 | $60         |
+|                  | New to quizbowl              | −$80                                | −$20                                | −$60        |
+|        ^^        | Shorthanded<br>(1–2 players) | −$60                                | −$40                                | −$20        |
+| ^^ **Discounts** | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A         |
+|        ^^        | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A         |
+|        ^^        | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A         |
+|        ^^        | Packet submission            | -$60 to -$5                         | N/A                                 | -$60 to -$5 |
 
 > [!NOTE]
 >
@@ -232,7 +235,7 @@ The rest of the entry fees for ACF Nationals goes to ACF. ACF will provide staff
 ### Penalties for egregious hosting violations
 
 | Violation                                                                                                                                               | Penalty                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Fewer than 10 meaningful games offered to each team\* (or fewer than 9 for Fall, or fewer than 7 for online tournaments)                                | $10 per team affected                                                   |
 | Host has delay in paperwork causing egregious payment delay                                                                                             | $50                                                                     |
 | Host fails to play off or award titles and trophies (including Undergraduate and Division II), despite having enough teams to award any of those titles | $50 for each title not awarded                                          |

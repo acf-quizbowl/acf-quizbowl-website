@@ -3,7 +3,7 @@ layout: page
 title: 2026 ACF Regionals
 permalink: tournaments/regionals/2026/
 nav_order: 2.5
-last_updated: August 21, 2025
+last_updated: September 24, 2025
 ---
 
 **ACF Regionals** is a difficult tournament that serves as a qualifier for ACF Nationals. ACF Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience. Many players will find ACF Regionals to be a significant but rewarding challenge.
@@ -15,31 +15,52 @@ last_updated: August 21, 2025
 
 # 2026 ACF Regionals
 
-2026 ACF Regionals will be held on a date TBA.
+2026 ACF Regionals will be held on January 31, 2026.
 
 ## Editors
 
-2026 ACF Regionals is head-edited by Erik Christensen.
+2026 ACF Regionals is head edited by Erik Christensen. The subject breakdown by editor is:
+
+| Editor            | Subjects                                                      |
+| ----------------- | ------------------------------------------------------------- |
+| Allan Lee         | Biology, Chemistry                                            |
+| Claire Jones      | European History, “Other” History                             |
+| Daniel Ma         | World History                                                 |
+| Eva Wang          | Visual Fine Arts                                              |
+| Forrest Weintraub | Auditory Fine Arts, Other Fine Arts (Auditory)                |
+| Geoffrey Chen     | Physics, Other Science                                        |
+| Jay Kim           | British Literature                                            |
+| Jim Fan           | World Literature, European Literature                         |
+| Kevin Thomas      | Religion, Myth, Current Events                                |
+| Noah Sheidlower   | American History, Social Science                              |
+| Tim Morrison      | American Literature, Other Fine Arts (Visual), Other Academic |
+| Erik Christensen  | Philosophy, Geography, Pop Culture                            |
 
 ## Hosting
 
+If you are interested in hosting a mirror of ACF Winter, fill out the [hosting bid form](https://forms.gle/xKxNpd8ZRdpBhKKP8) before 11:59 p.m. PT on Saturday, November 15, 2025. Mirrors of this tournament may be held in-person or online. If you have any questions about hosting, please email ACF’s Site Coordinator at [hosting@acf-quizbowl.com](mailto:hosting@acf-quizbowl.com). Hosts must abide by [ACF’s Hosting Guidelines](https://acf-quizbowl.com/guidelines/hosting/).
+
 ## Registration
+
+Registration will open after host bids have been adjudicated. The registration form will be available here.
 
 ## Distribution
 
-ACF Regionals uses the [standard ACF distribution](/writing/distribution), which is the same distribution as ACF Regionals.
+ACF Regionals uses the [standard ACF distribution](/writing/distribution).
 
 ## Fees
 
-| Category                                  | Fee / Discount                                         |
-| ----------------------------------------- | ------------------------------------------------------ |
-| Base fee per team                         | $150                                                   |
-| New to quizbowl discount                  | −$100                                                  |
-| Shorthanded discount (1–2 players)        | −$75                                                   |
-| Travel discount                           | −$10 per 200 miles traveled one-way                    |
-| Buzzers                                   | −$10 per functional buzzer system                      |
-| Staffers                                  | −$25 per pre-registered staffer with functional laptop |
-| Submission discount(s) / opt-out fee | As noted below                                         |
+{: .table-multi}
+|                    | Type                         | Team Amount                          | Host Share                          | ACF Share                            |
+| :----------------: | ---------------------------- | ------------------------------------ | ----------------------------------- | ------------------------------------ |
+|      **Fee**       | Base                         | $150                                 | $80                                 | $70                                  |
+|         ^^         | Opt-out                      | $75                                  | N/A                                 | $75                                  |
+|                    | New to quizbowl              | −$100                                | −$30                                | −$70                                 |
+|         ^^         | Shorthanded<br>(1–2 players) | −$75                                 | −$45                                | −$30                                 |
+|  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way  | −$10 per 200 miles traveled one-way | N/A                                  |
+|         ^^         | Buzzer(s)                    | −$10 per buzzer                      | −$10 per buzzer                     | N/A                                  |
+|         ^^         | Staffer(s)                   | −$25 per staffer                     | −$25 per staffer                    | N/A                                  |
+| **Fee / Discount** | Packet submission            | [-$75 to +$75](#submission-schedule) | N/A                                 | [-$75 to +$75](#submission-schedule) |
 
 The new-to-quizbowl discount is for schools that have not sent a team to any regular collegiate academic tournament since September 1, 2024, and have no one on the team(s) claiming this discount who played those tournaments for another school. Exclusively novice tournaments do not count as regular collegiate academic tournaments.
 
@@ -52,7 +73,7 @@ The minimum fee is $0 per team.
 Any team with at least two people on it who played a regular, collegiate, academic quizbowl tournament* (either as a college student or high school student) prior to September 1st, 2024, is required to either (a) submit a half-packet, or (b) pay an opt-out fee. ACF is using an opt-out fee to reduce the number of late submissions received. High school teams attending a high school-only mirror are exempt from this requirement.
 
 > [!NOTE]
-> For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.
+> For these purposes, all ACF tournaments, NAQT SCT (Division I or Division II), NAQT ICT, and typical college-level academic invitationals count as regular collegiate academic quizbowl tournaments. Pop culture or “hybrid” tournaments, HCASC, and tournaments played on NAQT’s Collegiate Novice series sets do not.
 
 Please email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com) if you are unsure whether your team is required to submit a half-packet. A team that is not required to submit a packet may submit an optional half-packet by the ±0 deadline for a $50 discount.
 
@@ -60,30 +81,30 @@ If a team wishes to outsource part of its packet to a player not expected to pla
 
 ### Submission Schedule
 
-| Submission Deadline | Packet Discount / Fee |
-| ------------------- | --------------------- |
-| TBA                 | -$75                  |
-| TBA                 | -$50                  |
-| TBA                 | -$25                  |
-| TBA                 | ±$0                   |
-| TBA                 | +$25                  |
-| TBA                 | +$50                  |
-| TBA                 | +$75                  |
+| Submission Deadline  | Packet Discount / Fee |
+| -------------------- | --------------------- |
+| October 31           | -$75                  |
+| November 14          | -$50                  |
+| November 29          | -$25                  |
+| December 12          | ±$0                   |
+| December 26          | +$25                  |
+| January 9            | +$50                  |
+| Afterwards / Opt-out | +$75                  |
 
 The opt-out fee is $50. If a team does not submit a half-packet by October 19, 2025 and is required to submit per the criteria above, they must instead pay the opt-out fee; submissions will not be accepted following this date.
 
 ### Packet Distribution & Authorship
 
-If your team is going to submit a half-packet, whether required or not, email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com) to request a distribution. The Winter head editor will respond with a half-packet or quarter-packet template specifying which categories you are assigned to write.
+If your team is going to submit a packet, whether required or not, email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com) to request a distribution. The head editor(s) will respond with a half-packet or quarter-packet template specifying which categories you are assigned to write.
 
-Your assigned half-packet may ask for questions from more specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on 20th-century American poetry, or an Economics bonus instead of “Social Science/Philosophy.”
+Your assigned packet may ask for questions from more specific categories within the distribution. For instance, instead of being assigned an “American Literature” tossup, you might be asked to write a question on 20th-century American poetry, or an Economics bonus instead of “Social Science/Philosophy.”
 
 Before writing, please review [ACF’s packet submission guidelines](/guidelines/packet-sub) and stick to the format provided. Questions should be written in 10 pt Times New Roman with one-inch margins. Although you may submit longer questions, tossups will be capped at 7 lines for the tournament. Each bonus part should be a maximum of 3 lines in length, with the majority being 1 or 2 lines long. Teams may be asked to edit submissions, which may lead to them missing deadlines, if multiple questions are much too short or much too long.
 
-When finished, submit your half-packet by emailing it to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
+When finished, submit your packet by emailing it to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
-* Please format the half-packet as a `.docx` or `.doc` before sending it.
-* The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet.”
+* Please format the packet as a `.docx` or `.doc` before sending it.
+* The email subject line should list the name of the school, the team number (if applicable), and the word “half-packet” or “quarter packet.”
 * To to meet a given deadline, the finished packet must be sent to that email before 11:59 Pacific Time on the corresponding listed day.
 
 If multiple teams from one school are submitting packets, they should NOT be aware of each others’ questions. Any roster changes that entail an author for one packet playing for another (e.g., if a player on Team B moves to Team A) should be flagged to the TD and to [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
@@ -129,7 +150,3 @@ Sample questions from previous iterations of ACF Regionals are on the [Collegiat
 Announcements and information about previous iterations of ACF Regionals are archived below:
 
 * [2025 ACF Regionals](/tournaments/regionals/2025/)
-* [2024 ACF Regionals](/tournaments/regionals/2024/)
-* [2023 ACF Regionals](/tournaments/regionals/2023/)
-* [2022 ACF Regionals](/tournaments/regionals/2022/)
-* [2021 ACF Regionals](/tournaments/regionals/2021/)

@@ -15,7 +15,7 @@ last_updated: June 16, 2024
 
 # 2025 ACF Regionals
 
-2025 ACF Regionals will be head-edited by Ani Perumalla and Jeremy Cummings.
+2025 ACF Regionals will be head edited by Ani Perumalla and Jeremy Cummings.
 
 If you have any questions, email [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 

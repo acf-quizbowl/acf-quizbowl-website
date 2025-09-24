@@ -19,7 +19,7 @@ last_updated: October 6, 2024
 
 ## Editors
 
-2024 ACF Winter is head-edited by Christopher Sims.
+2024 ACF Winter is head edited by Christopher Sims.
 
 The subject breakdown by editor is:
 
