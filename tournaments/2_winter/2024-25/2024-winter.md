@@ -62,7 +62,7 @@ ACF Winter uses the [standard ACF distribution](/writing/distribution), which is
 | Staffers                                | −$15 per staffer with functional laptop. Staffers must register with ACF in advance. |
 | Submission discount(s)/opt-out fee | As noted below                                                                       |
 
-The new-to-quizbowl discount is for schools that have not sent a team to any regular collegiate academic tournament (exclusively Novice tournaments do not count) since September 2022, and have no one on the team(s) claiming this discount who played those tournaments for another school.
+The new to quizbowl discount is for schools that have not sent a team to any regular collegiate academic tournament (exclusively Novice tournaments do not count) since September 2022, and have no one on the team(s) claiming this discount who played those tournaments for another school.
 
 Host sites will bill teams as soon as possible after the teams register. Teams should pay their host sites by whatever method is convenient for the hosts, who will in turn pay ACF by check, cash, or PayPal.
 
