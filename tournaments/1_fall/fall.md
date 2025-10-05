@@ -8,7 +8,7 @@ redirect_from:
 last_updated: August 21, 2025
 ---
 
-**ACF Fall** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Fall was revived in 2020; the original iterations of ACF Fall were held in 2009 and 2010.
+**ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
 
 **[2025 ACF Fall](2025)**
 
