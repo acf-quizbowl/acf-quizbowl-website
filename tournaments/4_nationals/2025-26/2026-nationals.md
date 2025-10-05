@@ -104,7 +104,7 @@ Before writing, please review [ACF’s packet submission guidelines](/guidelines
 When finished, submit your packet by emailing it to [nationals@acf-quizbowl.com](mailto:nationals@acf-quizbowl.com).
 
 * Please format the packet as a `.docx` or `.doc` before sending it.
-* The email subject line should list the name of the school, the team number (if applicable), and the word “half-packet” or “quarter packet.”
+* The email subject line should list the name of the school, the team number (if applicable), and the words “half-packet” or “quarter packet.”
 * To to meet a given deadline, the finished packet must be sent to that email before 11:59 Pacific Time on the corresponding listed day.
 
 If multiple teams from one school are submitting packets, they should NOT be aware of each others’ questions. Any roster changes that entail an author for one packet playing for another (e.g., if a player on Team B moves to Team A) should be flagged to the [Nationals TD](mailto:td@acf-quizbowl.com) AND to [nationals@acf-quizbowl.com](mailto:nationals@acf-quizbowl.com).

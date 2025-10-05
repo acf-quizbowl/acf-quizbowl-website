@@ -4,374 +4,497 @@ title: ACF Packet Distribution
 permalink: /writing/distribution/
 redirect_from:
   - /distribution
-last_updated: April 4, 2021
+last_updated: October 04, 2025
 ---
-
-This page lists full-packet distributions for each ACF tournament. Teams submitting full packets to ACF tournaments should follow the prescribed distribution for the tournament they are submitting a packet to.
-
-For tournaments with half-packet submissions, teams will only submit a half-packet of 12/12. Teams that request to submit a half-packet will be given a half-packet submission template containing a list of pre-assigned categories.
 
 > [!NOTE]
 > The notation “X/Y” refers to X tossups and Y bonuses (per packet).
 
-<table id="top" class="table table-striped table-hover table-responsive table-condensed distribution">
- <thead>
-  <tr>
-   <th>Category</th>
-   <th>Fall</th>
-   <th>Winter</th>
-   <th>Regionals</th>
-   <th>Nationals</th>
-  </tr>
- </thead>
-<tbody>
-  <tr class="category">
-   <td><a href="#literature">Literature</a> (total*)</td>
-   <td>5/5</td>
-   <td>5/5</td>
-   <td>5/5</td>
-   <td>5/5</td>
-  </tr>
-  <tr class="subcategory">
-   <td>American Literature</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>British Literature</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>European Literature after 500 CE</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#world-literature">World Literature</a></td>
-   <td>1/0 or 0/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#any-literature">Any Literature</a></td>
-   <td>2/1 or 1/2</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="category">
-   <td><a href="#history">History</a> (total*)</td>
-   <td>5/5</td>
-   <td>5/5</td>
-   <td>5/5</td>
-   <td>5/5</td>
-  </tr>
-  <tr class="subcategory">
-   <td>American History</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#european-history">European History</a></td>
-   <td>2/1 or 1/2</td>
-   <td>2/1 or 1/2</td>
-   <td>2/1 or 1/2</td>
-   <td>2/1 or 1/2</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#world-history">World History</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#any-history">Any History</a></td>
-   <td>2/1 or 1/2</td>
-   <td>2/1 or 1/2</td>
-   <td>2/1 or 1/2</td>
-   <td>2/1 or 1/2</td>
-  </tr>
-  <tr class="category">
-   <td><a href="#science">Science</a> (total*)</td>
-   <td>5/5</td>
-   <td>5/5</td>
-   <td>5/5</td>
-   <td>5/5</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Biology</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Chemistry</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Physics</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#math-computer-science-astronomy-earth-science">Math, Computer Science, Astronomy, Earth Science</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#any-science">Any Science</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="category">
-   <td><a href="#fine-arts">Fine Arts</a> (total)</td>
-   <td>3/3</td>
-   <td>3/3</td>
-   <td>3/3</td>
-   <td>3/3</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#painting-and-sculpture">Painting and Sculpture</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Classical Music</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#other-fine-arts">Other Fine Arts</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="category">
-   <td><a href="#religion-and-mythology">Religion and Mythology</a> (total)</td>
-   <td>2/2</td>
-   <td>2/2</td>
-   <td>2/2</td>
-   <td>2/1 or 1/2</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#religion">Religion</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>at least 1/0 or 0/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#mythology">Mythology</a></td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>at least 1/0 or 0/1</td>
-  </tr>
-  <tr class="category">
-   <td><a href="#social-science-and-philosophy">Social Science and Philosophy</a> (total)</td>
-   <td>2/1 or 1/2</td>
-   <td>2/2</td>
-   <td>2/2</td>
-   <td>2/2</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#social-science">Social Science</a></td>
-   <td>1/0, 0/1, or 1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#philosophy">Philosophy</a></td>
-   <td>1/0, 0/1, or 1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-   <td>1/1</td>
-  </tr>
-  <tr class="category">
-   <td><a href="#other">Other</a> (total*)</td>
-   <td>3/2 or 2/3</td>
-   <td>2/2</td>
-   <td>2/2</td>
-   <td>3/2 or 2/3</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Geography</td>
-   <td>1/0, 0/1, or 1/1</td>
-   <td>1/0 or 0/1</td>
-   <td>1/0 or 0/1</td>
-   <td>at least 1/0 or 0/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Current Events</td>
-   <td>1/0, 0/1, or 1/1</td>
-   <td>1/0 or 0/1</td>
-   <td>1/0 or 0/1</td>
-   <td>at least 1/0 or 0/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td><a href="#other-academic">Other Academic</a></td>
-   <td>1/0, 0/1, or 1/1</td>
-   <td>1/0 or 0/1</td>
-   <td>1/0 or 0/1</td>
-   <td>at least 1/0 or 0/1</td>
-  </tr>
-  <tr class="subcategory">
-   <td>Popular Culture</td>
-   <td>1/0, 0/1, or 1/1</td>
-   <td>1/0 or 0/1</td>
-   <td>1/0 or 0/1</td>
-   <td>0/0</td>
-  </tr>
-  <tr class="category">
-   <td>Submitted packet</td>
-   <td>24/24*</td>
-   <td>24/24*</td>
-   <td>24/24*</td>
-   <td>24/24*</td>
-  </tr>
-  <tr class="category">
-   <td>Final packet</td>
-   <td>20/20</td>
-   <td>20/20</td>
-   <td>20/20</td>
-   <td>20/20</td>
-  </tr>
-</tbody>
-</table>
+This page lists the distribution for a **full packet (24/24)** for each ACF tournament. Teams submitting a full packet to an ACF tournament should see the column of the distribution table corresponding to that tournament.
+
+ACF tournaments may *also* or *instead* provide the option for submission of a **half-packet (12/12)** or a **quarter packet (7/7)** instead of a full packet. The half- and quarter packet distribution template, as assigned by the tournament head editor on a team-by-team basis, will be a unique subset of the categories that make up the full packet distribution.
+
+## Distribution Table
 
 > [!NOTE]
-> The submitted full-packet distribution adds up to 24/24 in total. To produce final packets of 20/20, the editors will remove 1/1 Literature, 1/1 History, 1/1 Science, and 1/1 Other.
+> In total, the full-packet distribution is 24/24, even though the edited packets are 20/20. To produce an edited packet from a given submission, the editors will remove 1/1 Literature, 1/1 History, 1/1 Science, and 1/1 Other.
+
+{: .table-multi}
+|                                                                      | Category                                     | Fall             | Winter     | Regionals  | Nationals           |
+| :------------------------------------------------------------------: | -------------------------------------------- | ---------------- | ---------- | ---------- | ------------------- |
+|                                                                      | [American Literature](#american-literature)  | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [British Literature](#british-literature)    | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                   ^^ [**Literature**](#literature)                   | [European Literature](#european-literature)  | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [World Literature](#world-literature)        | 1/0 or 0/1       | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Misc. Literature](#misc-literature)         | 2/1 or 1/2       | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
+|                                                                      | [American History](#american-history)        | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [European History](#european-history)        | 2/1 or 1/2       | 2/1 or 1/2 | 2/1 or 1/2 | 2/1 or 1/2          |
+|                      ^^ [**History**](#history)                      | [World History](#world-history)              | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Other History](#other-history)              | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Misc. History](#misc-history)               | 1/0 or 0/1       | 1/0 or 0/1 | 1/0 or 0/1 | 1/0 or 0/1          |
+|                                  ^^                                  | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
+|                                                                      | [Biology](#biology)                          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Chemistry](#chemistry)                      | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                      ^^ [**Science**](#science)                      | [Physics](#physics)                          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Other Science](#other-science)              | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Misc. Science](#misc-science)               | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
+|                                                                      | [Painting & Sculpture](#painting--sculpture) | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                    ^^ [**Fine Arts**](#fine-arts)                    | [Classical Music](#classical-music)          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | [Other Fine Arts](#other-fine-arts)          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | **Total**                                    | **3/3**          | **3/3**    | **3/3**    | **3/3**             |
+|                                                                      | [Religion](#religion)                        | 1/1              | 1/1        | 1/1        | at least 1/0 or 0/1 |
+|       ^^ [**Religion<br>& Mythology**](#religion\--mythology)        | [Mythology](#mythology)                      | 1/1              | 1/1        | 1/1        | at least 1/0 or 0/1 |
+|                                  ^^                                  | **Total**                                    | **2/2**          | **2/2**    | **2/2**    | **2/1 or 1/2**      |
+|                                                                      | [Social Science](#social-science)            | 1/0, 0/1, or 1/1 | 1/1        | 1/1        | 1/1                 |
+| ^^ [**Social Science<br>& Mythology**](#social-science\--philosophy) | [Philosophy](#philosophy)                    | 1/0, 0/1, or 1/1 | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                  | **Total**                                    | **2/1 or 1/2**   | **2/2**    | **2/2**    | **2/2**             |
+|                                                                      | [Geography](#geography)                      | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
+|                                  ^^                                  | [Current Events](#current-events)            | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
+|                        ^^ [**Other**](#other)                        | [Other Academic](other-academic)             | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
+|                                  ^^                                  | [Popular Culture](#popular-culture)          | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | 0/0                 |
+|                                  ^^                                  | **Total**                                    | **3/2 or 2/3**   | **2/2**    | **2/2**    | **3/2 or 2/3**      |
+|                       **Submitted<br>Packet**                        | **Total**                                    | **24/24**        | **24/24**  | **24/24**  | **24/24**           |
+|                         **Edited<br>Packet**                         | **Total**                                    | **20/20**        | **20/20**  | **20/20**  | **20/20**           |
 
 ## Category Guidelines
 
 ### Literature
 
-Vary your literature questions across time periods, genre, (novels, poetry, drama, short stories, etc.), and type of answer (authors, individual works, characters, common links, etc.).
+A submission's Literature questions should vary in the following attributes:
+
+* Time period(s)
+* Genre
+  * Novel
+  * Poetry
+  * Drama
+  * Short story
+* Answerline class
+  * Author
+  * Individual work
+  * Character
+  * Common link
+
+#### American Literature
+
+This category is for literature by authors from the United States, including *but not limited to*:
+
+* Authors from the continental United States
+* Literature by Indigenous/Native American authors
+* Non-English-language literature by American authors
+
+#### British Literature
+
+This category is for literature by authors from the following geographic regions:
+
+* United Kingdom
+  * England
+  * Scotland
+  * Wales
+  * Northern Ireland
+* Ireland
+
+#### European Literature
+
+This category is for questions on literature (generally non-English) by European authors, including *but not limited to*:
+
+* Western, Southern, & Central Europe
+* Russia (and Soviet Union)
+* Scandinavia
+* Balkan countries
+* Island territories of the above countries
+
+This category also includes Classical literature from Ancient Greece and Rome.
 
 #### World Literature
 
-This includes all geographic regions not listed above.
+This category is for questions on *English and non-English* literature by authors from all geographic regions not listed above, including:
 
-#### Any Literature
+* <mark>Canada</mark>
+* Central & South America
+* Africa
+  * <mark>South Africa</mark>
+* Indian subcontinent
+* Middle East
+* Israel
+* Turkey
+* Central, East, & Southeast Asia
+* <mark>Australia</mark>
+* <mark>New Zealand</mark>
+* Polynesia
+* <mark>US territories</mark>
+  * Puerto Rico
 
-This includes ancient European literature, more of any of the geographic regions above, or questions that don’t neatly fit into a single geographic region.
+> [!IMPORTANT]
+> Generally, questions on authors from the <mark>highlighted regions</mark> are assigned to this category.
+> However, this assignment is ultimately the decision of each set's head editor and editing team.
+> <br>
+> Therefore, teams writing questions on literature from the <mark>highlighted regions</mark> are recommended to contact the set's editing team if they would like clarification on this topic.
+
+> [!WARNING]
+> Since literature from the <mark>highlighted regions</mark> are generally English-language, teams should avoid writing questions on multiple of the <mark>highlighted regions</mark>. E.g., avoid writing both an Australian literature tossup and Canadian literature bonus.
+
+#### Misc. Literature
+
+This category includes questions on topics that fall under any of the above categories of Literature (American, British, European, World).
+
+Hence, you may choose to simply write another question in any of the above categories of Literature.
+
+This category is also for other areas of literature, including *but not limited to*:
+
+* Non-Classical ancient literature, regardless of geographical region
+* Non-fiction
+  * Literary theory and criticism
+  * Essays
+  * Biographies
+  * Journalism
+* Literature spanning multiple geographical regions (and/or time periods) (e.g. common links)
 
 ### History
 
-Vary your history questions across time periods and type of history (political, social, military, cultural, etc.). In particular, do not write more than 4 total questions on military history.
+A submission's History questions should vary in the following attributes:
+
+* Time period(s)
+* Type
+  * Political
+  * Social
+  * Military
+  * Cultural
+
+> [!WARNING]
+> Do not write more than 4 total questions on military history.
+
+#### American History
+
+This category is for the history of the United States, including:
+
+* History of Indigenous/Native American peoples
+* History of American foreign policy
+* History of American military activity across the world
 
 #### European History
 
-One question should be on British/Irish/Canadian/Australian/New Zealand history, the other two should be on continental Europe.
+Two submitted questions *must* be on continental European history.
+
+The other submitted question *must* be on the history of one of the following geographical regions:
+
+* United Kingdom
+* Ireland
+* Canada
+* Australia
+* New Zealand
 
 #### World History
 
-This includes all geographic regions not listed above. Do not write your two questions on history from the same region/continent.
+This category is for questions on the history of all geographic regions not listed above.
 
-#### Any History
+> [!WARNING]
+> Do not write both World History questions on the history of the same continent or region.
 
-This includes more of any of the areas of the world covered above, historiography, and questions that don’t neatly fit into a single area listed here.
+#### Other History
+
+Topics for this category include:
+
+* Ancient history
+  * Classical history of Ancient Greek and Rome
+* Historiography
+* Archaeology
+
+#### Misc. History
+
+This category includes questions on topics that fall under any of the above categories of History (American, European, World, Other).
+
+Hence, you may choose to simply write another question in any of the above categories of History.
+
+This category is also for questions spanning history of multiple geographical regions and/or time periods (e.g. common links).
 
 ### Science
 
-#### Math, Computer Science, Astronomy, Earth Science
+#### Biology
 
-Write questions on two different areas of study.
+Topics for this category may include, *but are not limited to*:
 
-#### Any Science
+* Anatomy & physiology
+* Genetics
+* Evolutionary biology
+* Microbiology
+* Cell biology
+* Botany
+* Zoology
+* Ecology
+* Bioinformatics
+* Biomedical research
+* Bioengineering
 
-This includes engineering and technology questions that don’t fit into any of the fields above, and questions that mix clues/concepts from multiple fields.
+#### Chemistry
 
-You may also write additional questions from one of the “major” fields (biology/chemistry/physics), or you may write a question on a “minor” field (math/computer science/astronomy/earth science) that you didn’t already write on above.
+Topics for this category may include, *but are not limited to*:
+
+* Organic & inorganic chemistry
+* Analytical chemistry
+* Biochemistry
+* Physical chemistry
+* Chemical engineering
+
+#### Physics
+
+Topics for this category may include, *but are not limited to*:
+
+* Classical mechanics
+  * Statics
+  * Dynamics
+  * Fluid mechanics
+  * Statistical mechanics
+* Thermodynamics
+* Electromagnetism
+* Relativity
+* Quantum mechanics
+* Atomic physics
+* Molecular physics
+* Optics
+* Acoustics
+* Cosmology
+
+#### Other Science
+
+> [!WARNING]
+> A submission's Other Science questions **must** be materially different from its Biology, Chemistry, and Physics questions.
+> <br>
+> Submitted Other Science questions that are on Biology, Chemistry, or Physics answerlines solely written using clues from Biology, Chemistry, or Physics topics **will be rejected**.
+
+Topics for this category include:
+
+* Mathematics
+* Computer science
+* Astronomy
+* Earth science
+* Engineering
+
+> [!WARNING]
+> A submission's Other Science questions **must** be on two different areas from the high-level subcategories listed above.
+> <br>
+> E.g.: writing a Math tossup and an Astronomy bonus is acceptable, but writing both a tossup and bonus on Astronomy is unacceptable.
+
+#### Misc. Science
+
+This category includes questions on topics that fall under any of the above categories of Science (Biology, Chemistry, Physics, Other Science).
+
+Hence, you may choose to simply write another question in any of the above categories of Science.
+
+> [!WARNING]
+> If you choose to write another Other Science question, it *must* be on a different topic than the primary Other Science question.
+
+This category is also for other areas of science and technology, including *but not limited to*:
+
+* Artificial intelligence
+* Data analysis
+* Cybersecurity
+* Communication
+* Robotics
+* Manufacturing
+* Energy
+* Infrastructure
+* Science history
+* Questions spanning multiple areas of science and technology (e.g. common links)
 
 ### Fine Arts
 
-#### Painting and Sculpture
+> [!NOTE]
+> Other question producers separate arts into the categories <mark class="red">"Visual Fine Arts"</mark> ("VFA") and <mark class="yellow">"Auditory Fine Arts"</mark> ("AFA"). ACF uses the categories "Painting & Sculpture" and "Classical Music," which are roughly synonymous with the common definitions of <mark class="red">VFA</mark> and <mark class="yellow">AFA</mark>, but *not* identical.
 
-You may either write one painting and one sculpture question, or two painting questions.
+#### Painting & Sculpture
+
+Apart from the primary topics of painting and sculpture, other topics for this category may include:
+
+* Installation art
+* Land art
+* Collage
+* Printmaking
+* Art criticism
+* Art history
+* <mark class="red">"Visual"</mark> topics under [Other Fine Arts](#other-fine-arts)
+* <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts)
+
+> [!WARNING]
+> At least one of the submitted Painting & Sculpture questions *must* be on painting.
+> <br>
+> *Do not* submit two questions on sculpture or two questions on alternate topics.
+
+#### Classical Music
+
+Apart from the primary topic of classical music of the Western world, other topics for this category may include:
+
+* Classical music of non-Western geographical regions (e.g. India, China, Japan)
+* Music theory
+* Musicology
+* <mark class="yellow">"Auditory"</mark> topics under [Other Fine Arts](#other-fine-arts)
+* <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts)
+
+> [!WARNING]
+> At least one of the submitted Classical Music questions *must* be on classical music of the Western world.
+> <br>
+> *Do not* submit two questions on alternate topics.
 
 #### Other Fine Arts
 
-This includes opera, jazz, architecture, photography, film, dance, etc. Do not write more of the categories above.
+> [!WARNING]
+> A submission's Other Fine Arts questions **must** be materially different from its Painting & Sculpture and Classical Music questions.
+> <br>
+> Submitted Other Fine Arts questions that are on Painting & Sculpture or Classical Music answerlines solely written using clues from Painting & Sculpture or Classical Music topics **will be rejected**.
 
-Write on one “visual” category (architecture, photography, film, etc.) and one “auditory” (opera, jazz, dance, etc.) category.
+This category includes questions on other <mark class="red">visual</mark>, <mark class="yellow">auditory</mark>, and <mark class="green">audiovisual</mark> topics, including *but not limited to*:
 
-### Religion and Mythology
+* <mark class="red">Visual</mark>
+  * Architecture
+  * Photography
+  * Fashion
+  * Design
+* <mark class="yellow">Auditory</mark>
+  * Jazz
+  * World music
+* <mark class="green">Audiovisual</mark>
+  * Film
+  * Dance
+  * Opera
+  * Musical theatre
+  * Performance art
+* Questions spanning multiple <mark class="red">visual</mark>, <mark class="yellow">auditory</mark>, and <mark class="green">audiovisual</mark> topics
 
-Write at least one and no more than two questions on non-Western topics.
+> [!WARNING]
+> The submitted Other Fine Arts questions *must* vary across <mark class="red">visual</mark>, <mark class="yellow">auditory</mark>, and <mark class="green">audiovisual</mark> topics.
+> <br>
+> *Do not* submit two questions on solely <mark class="red">visual</mark> topics or two questions on solely <mark class="yellow">auditory</mark> topics.
+
+### Religion & Mythology
+
+> [!WARNING]
+> The submitted Religion & Mythology questions *must* include at least one question and no more than 2 questions on a non-Western topic.
+> <br>
+> *Do not* submit more than 2 questions on non-Western topics.
 
 #### Religion
 
+Topics for this category may include:
+
+* Religious practices
+  * Worship
+  * Rituals
+  * Festivals
+* Religious texts
+* Religious jurisprudence
+* Religious history
+* Theology
+* Comparative religion
+
 > [!WARNING]
-> Do not write two questions on the same religion.
+> *Do not* write two questions on the same religion.
 
 #### Mythology
 
-> [!WARNING]
-> Do not write two questions on the same mythological system.
+This category is for questions on mythological narratives, including *but not limited to*:
 
-### Social Science and Philosophy
+* Mythological texts
+* Mythological figures
+  * Deities
+  * Heros
+  * Mortals
+  * Animals
+  * Legendary creatures
+* Folk tales
+* Fables
+* Cryptids
+
+> [!WARNING]
+> *Do not* write two questions on the same mythological system.
+
+### Social Science & Philosophy
 
 #### Social Science
 
 Topics for this category include:
 
 * Economics
-* Psychology
-* Sociology
-* Anthropology
-* Linguistics
+* Finance
 * Political science
+* Law
+  * Questions on individual Supreme Court cases go in [History](#history)
+* Public policy
+* Anthropology
+* Sociology
+* Psychology
+* Linguistics
 * Social criticism
-* Law (although questions on individual Supreme Court cases go in [History](#history-))
+* Gender studies
+* Management
 
-> [!IMPORTANT]
-> Write questions on two different fields of study.
+> [!WARNING]
+> A submission's Social Science questions *must* be on two different fields of study.
 
 #### Philosophy
 
-Write questions on two different movements/time periods in philosophical history.
+Topics for this category include:
+
+* Aesthetics
+* Epistemology
+* Ethics
+* Logic
+* Metaphysics
+
+> [!WARNING]
+> A submission's Philosophy questions *must* be on two different movements / time periods in philosophical history.
 
 ### Other
 
-**For Fall, Winter, and Regionals:** Write one question in each of Geography, Current Events, Other Academic, and Popular Culture.
+**For Fall, Winter, and Regionals:** Submissions *must* include exactly one question in each of [Geography](#geography), [Current Events](#current-events), [Other Academic](#other-academic), and [Popular Culture](#popular-culture).
 
-**For Nationals:** Write at least one question in each of Geography, Current Events, and Other Academic.
+**For Nationals:** Submissions *must* include at least one question in each of [Geography](#geography), [Current Events](#current-events), and [Other Academic](#other-academic).
+
+#### Geography
+
+Topics for this category include:
+
+* Physical geography
+* Cultural geography
+* Political geography
+
+#### Current Events
+
+This category is for questions on events that took place in *recent history*, normally *1 to 2 years*, before the date on which the set is first played.
+
+> [!WARNING]
+> The definition of "recent history" is set at the editing team's discretion. Hence, it may range as far back as 10 years.
 
 #### Other Academic
 
-“Other Academic” comprises questions that don’t neatly fit into any of the above categories, such as:
+This category includes questions on topics that fall under any of the above categories.
 
-* Interdisciplinary common links
+Hence, you may choose to simply write another question in any of the above categories.
+
+This category is also for other areas of academic study, including *but not limited to*:
+
 * Miscellaneous thought
-* Science history
-* etc.
+* General knowledge
+* Interdisciplinary common links on academic subjects
 
-You may also choose to write an additional question in any category here instead.
+> [!WARNING]
+> An ACF Nationals submission's Other Academic questions *may not* include topics on [popular culture](#popular-culture), since the set itself does not include popular culture.
+
+#### Popular Culture
+
+Topics for this category include:
+
+* Popular music
+* Sports
+* Film
+* Television
+* Online media
+  * Podcasts
+* Popular literature
+  * Comic books
+* Food
+* Video games
+* Online culture
+
+> [!WARNING]
+> ACF Nationals submissions must not include any questions on popular culture.
