@@ -91,7 +91,7 @@ If a team wishes to outsource part of its packet to a player not expected to pla
 | January 9            | +$50                  |
 | Afterwards / Opt-out | +$75                  |
 
-The opt-out fee is $50. If a team does not submit a half-packet by October 19, 2025 and is required to submit per the criteria above, they must instead pay the opt-out fee; submissions will not be accepted following this date.
+The opt-out fee is $50. If a team does not submit a half-packet by January 9, 2026 and is required to submit per the criteria above, they must instead pay the opt-out fee; submissions will not be accepted following this date.
 
 ### Packet Distribution & Authorship
 
