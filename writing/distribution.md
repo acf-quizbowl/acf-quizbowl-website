@@ -20,43 +20,43 @@ ACF tournaments may *also* or *instead* provide the option for submission of a *
 > In total, the full-packet distribution is 24/24, even though the edited packets are 20/20. To produce an edited packet from a given submission, the editors will remove 1/1 Literature, 1/1 History, 1/1 Science, and 1/1 Other.
 
 {: .table-multi}
-|                                                                      | Category                                     | Fall             | Winter     | Regionals  | Nationals           |
-| :------------------------------------------------------------------: | -------------------------------------------- | ---------------- | ---------- | ---------- | ------------------- |
-|                                                                      | [American Literature](#american-literature)  | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [British Literature](#british-literature)    | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                   ^^ [**Literature**](#literature)                   | [European Literature](#european-literature)  | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [World Literature](#world-literature)        | 1/0 or 0/1       | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Misc. Literature](#misc-literature)         | 2/1 or 1/2       | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
-|                                                                      | [American History](#american-history)        | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [European History](#european-history)        | 2/1 or 1/2       | 2/1 or 1/2 | 2/1 or 1/2 | 2/1 or 1/2          |
-|                      ^^ [**History**](#history)                      | [World History](#world-history)              | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Other History](#other-history)              | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Misc. History](#misc-history)               | 1/0 or 0/1       | 1/0 or 0/1 | 1/0 or 0/1 | 1/0 or 0/1          |
-|                                  ^^                                  | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
-|                                                                      | [Biology](#biology)                          | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Chemistry](#chemistry)                      | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                      ^^ [**Science**](#science)                      | [Physics](#physics)                          | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Other Science](#other-science)              | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Misc. Science](#misc-science)               | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
-|                                                                      | [Painting & Sculpture](#painting--sculpture) | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                    ^^ [**Fine Arts**](#fine-arts)                    | [Classical Music](#classical-music)          | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | [Other Fine Arts](#other-fine-arts)          | 1/1              | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | **Total**                                    | **3/3**          | **3/3**    | **3/3**    | **3/3**             |
-|                                                                      | [Religion](#religion)                        | 1/1              | 1/1        | 1/1        | at least 1/0 or 0/1 |
-|       ^^ [**Religion<br>& Mythology**](#religion\--mythology)        | [Mythology](#mythology)                      | 1/1              | 1/1        | 1/1        | at least 1/0 or 0/1 |
-|                                  ^^                                  | **Total**                                    | **2/2**          | **2/2**    | **2/2**    | **2/1 or 1/2**      |
-|                                                                      | [Social Science](#social-science)            | 1/0, 0/1, or 1/1 | 1/1        | 1/1        | 1/1                 |
-| ^^ [**Social Science<br>& Mythology**](#social-science\--philosophy) | [Philosophy](#philosophy)                    | 1/0, 0/1, or 1/1 | 1/1        | 1/1        | 1/1                 |
-|                                  ^^                                  | **Total**                                    | **2/1 or 1/2**   | **2/2**    | **2/2**    | **2/2**             |
-|                                                                      | [Geography](#geography)                      | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
-|                                  ^^                                  | [Current Events](#current-events)            | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
-|                        ^^ [**Other**](#other)                        | [Other Academic](other-academic)             | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
-|                                  ^^                                  | [Popular Culture](#popular-culture)          | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | 0/0                 |
-|                                  ^^                                  | **Total**                                    | **3/2 or 2/3**   | **2/2**    | **2/2**    | **3/2 or 2/3**      |
-|                       **Submitted<br>Packet**                        | **Total**                                    | **24/24**        | **24/24**  | **24/24**  | **24/24**           |
-|                         **Edited<br>Packet**                         | **Total**                                    | **20/20**        | **20/20**  | **20/20**  | **20/20**           |
+|                                                                       | Category                                     | Fall             | Winter     | Regionals  | Nationals           |
+| :-------------------------------------------------------------------: | -------------------------------------------- | ---------------- | ---------- | ---------- | ------------------- |
+|                                                                       | [American Literature](#american-literature)  | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [British Literature](#british-literature)    | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                   ^^ [**Literature**](#literature)                    | [European Literature](#european-literature)  | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [World Literature](#world-literature)        | 1/0 or 0/1       | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Misc. Literature](#misc-literature)         | 1/2 or 2/1       | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
+|                                                                       | [American History](#american-history)        | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [European History](#european-history)        | 2/1 or 1/2       | 2/1 or 1/2 | 2/1 or 1/2 | 2/1 or 1/2          |
+|                      ^^ [**History**](#history)                       | [World History](#world-history)              | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Other History](#other-history)              | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Misc. History](#misc-history)               | 0/1 or 1/0       | 0/1 or 1/0 | 0/1 or 1/0 | 0/1 or 1/0          |
+|                                  ^^                                   | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
+|                                                                       | [Biology](#biology)                          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Chemistry](#chemistry)                      | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                      ^^ [**Science**](#science)                       | [Physics](#physics)                          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Other Science](#other-science)              | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Misc. Science](#misc-science)               | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | **Total**                                    | **5/5**          | **5/5**    | **5/5**    | **5/5**             |
+|                                                                       | [Painting & Sculpture](#painting--sculpture) | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                    ^^ [**Fine Arts**](#fine-arts)                     | [Classical Music](#classical-music)          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | [Other Fine Arts](#other-fine-arts)          | 1/1              | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | **Total**                                    | **3/3**          | **3/3**    | **3/3**    | **3/3**             |
+|                                                                       | [Religion](#religion)                        | 1/1              | 1/1        | 1/1        | at least 1/0 or 0/1 |
+|        ^^ [**Religion<br>& Mythology**](#religion\--mythology)        | [Mythology](#mythology)                      | 1/1              | 1/1        | 1/1        | at least 1/0 or 0/1 |
+|                                  ^^                                   | **Total**                                    | **2/2**          | **2/2**    | **2/2**    | **2/1 or 1/2**      |
+|                                                                       | [Social Science](#social-science)            | 1/0, 0/1, or 1/1 | 1/1        | 1/1        | 1/1                 |
+| ^^ [**Social Science<br>& Philosophy**](#social-science\--philosophy) | [Philosophy](#philosophy)                    | 1/0, 0/1, or 1/1 | 1/1        | 1/1        | 1/1                 |
+|                                  ^^                                   | **Total**                                    | **2/1 or 1/2**   | **2/2**    | **2/2**    | **2/2**             |
+|                                                                       | [Geography](#geography)                      | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
+|                                  ^^                                   | [Current Events](#current-events)            | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
+|                        ^^ [**Other**](#other)                         | [Other Academic](other-academic)             | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | at least 1/0 or 0/1 |
+|                                  ^^                                   | [Popular Culture](#popular-culture)          | 1/0, 0/1, or 1/1 | 1/0 or 0/1 | 1/0 or 0/1 | 0/0                 |
+|                                  ^^                                   | **Total**                                    | **3/2 or 2/3**   | **2/2**    | **2/2**    | **3/2 or 2/3**      |
+|                        **Submitted<br>Packet**                        | **Total**                                    | **24/24**        | **24/24**  | **24/24**  | **24/24**           |
+|                         **Edited<br>Packet**                          | **Total**                                    | **20/20**        | **20/20**  | **20/20**  | **20/20**           |
 
 ## Category Guidelines
 
@@ -202,7 +202,7 @@ The other submitted question *must* be on the history of one of the following ge
 
 #### World History
 
-This category is for questions on the history of all geographic regions not listed above, with the exception of the highlighted geographic regions in [Other History](#other-history).
+This category is for questions on the history of all geographic regions not listed above, with the exception of the <mark>highlighted geographic regions</mark> in [Other History](#other-history).
 
 > [!WARNING]
 > Do not write both World History questions on the history of the same continent or region.
@@ -446,7 +446,7 @@ Topics for this category may include:
 * Finance
 * Political science
 * Law
-  * Questions on individual Supreme Court cases go in [History](#history).
+  * Questions on individual Supreme Court cases are more suited for [History](#history).
 * Public policy
 * Anthropology
 * Sociology
