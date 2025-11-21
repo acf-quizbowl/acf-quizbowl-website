@@ -145,7 +145,7 @@ In addition to awarding individual book prizes as specified, hosts of tournament
 
 #### Qualifying for ACF Nationals
 
-ACF Regionals serves as a qualifying tournament for ACF Nationals (see [ACF’s procedures for determining which teams qualify for ACF Nationals](tournaments/nationals/qualification)). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
+ACF Regionals serves as a qualifying tournament for ACF Nationals (see [ACF’s procedures for determining which teams qualify for ACF Nationals](/tournaments/nationals/qualification)). As with any ACF tournament, failing to play off or award any applicable Undergraduate and Division II titles at Regionals will incur a penalty (see [Penalties](#penalties-for-egregious-hosting-violations)). In the event that a host’s failure to play off or award Undergraduate and Division II titles precludes awarding Nationals bids normally, ACF will handle bids on a case-by-case basis.
 
 ### Miscellaneous
 

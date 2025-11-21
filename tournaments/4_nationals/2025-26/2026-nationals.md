@@ -47,7 +47,7 @@ See ACF's [Hosting Guidelines page](/guidelines/hosting) for more information ab
 
 ## Qualification
 
-See the [ACF Nationals Qualification page](nationals/qualification) for more detailed information on how teams qualify for ACF Nationals based on their performance at ACF Regionals and/or by hosting ACF Regionals.
+See the [ACF Nationals Qualification page](/tournaments/nationals/qualification) for more detailed information on how teams qualify for ACF Nationals based on their performance at ACF Regionals and/or by hosting ACF Regionals.
 
 ## Registration
 
