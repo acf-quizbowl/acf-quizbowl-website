@@ -5,7 +5,7 @@ permalink: /guidelines/hosting/
 redirect_from:
   - /hosting
   - /hosting-guidelines
-last_updated: August 25, 2025
+last_updated: December 14, 2025
 ---
 
 <!-- need to rewrite so "host team" is not ambiguous with club vs. competing house team -->
@@ -204,7 +204,7 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 
 Hosts must pay a minimum of $25 to staffers (including logistics staffers) who staff all essential rounds (not counting finals or tiebreakers). This may either be paid directly to staffers, or may count for a competing team’s staffer discount (if the staffer is affiliated with that team). Hosts are not required to pay in-house staffers (i.e. staffers affiliated with the host), as it is generally expected of members of clubs to staff the tournaments they host in order to raise money to attend events.
 
-The new to quizbowl discount is intended for schools that did not send a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) before September of the competition year prior to the current one, and which have no players who competed in non-novice collegiate tournaments during that same period. Hosts do not owe ACF any money for teams receiving the new to quizbowl discount. Any money they do pay is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
+The new to quizbowl discount is intended for schools that have not sent a team to any mainstream collegiate academic tournament (not counting exclusively novice tournaments) since September of the competition year prior to the current one, and that have no players who competed in non-novice collegiate tournaments during that same period. Hosts do not owe ACF any money for teams receiving the new to quizbowl discount; any revenue from those teams is the host’s. Normally, such teams will pay around $50. ACF asks for the cooperation of tournament directors in welcoming new teams into quizbowl by taking significantly less money from such teams.
 
 Host teams (also called “house teams”) do not owe ACF anything and are not required to write packets. However, they have the option of writing a packet for the host team to save money. If the host team (or any combination of the host team and host-provided staff) writes an acceptable packet by the no-penalty deadline, then they will receive a $50 discount from the total amount that they owe to ACF.
 
