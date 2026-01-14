@@ -13,23 +13,30 @@ The static website is built using Jekyll, a Ruby Gem.
   * If you have a Windows machine, use [`rbenv-for-windows`](https://github.com/RubyMetric/rbenv-for-windows).
 * Once `rbenv` is set up, install the latest version of Ruby (as of September 2024, the website runs on Ruby 3.4.5).
   * Mac / Linux:
+
     ```{bash}
     $ rbenv install -l # List latest stable versions
     $ rbenv install YOUR_CHOSEN_VERSION # Install the version of your choice from the list produced by the previous command
     ```
+
   * Windows:
+
     ```{bash}
     $ rbenv install head # Install the latest version
     ```
+
 * Add Ruby and Gems to your path:
   * Mac / Linux:
     * Add the following to your `.bashrc` or `.zshrc` file:
+
       ```{bash}
       export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
       export PATH="$PATH:$GEM_HOME/bin"
       ```
+
   * Windows:
     * Add the following to your `$profile` (use `> echo $profile` in PowerShell to find where this is, it's usually `Documents\PowerShell\Microsoft.PowerShell_profile.ps1`):
+
       ```
       $env:RBENV_ROOT = "C:\Ruby-on-Windows"
       & "$env:RBENV_ROOT\rbenv\bin\rbenv.ps1" init
@@ -38,10 +45,13 @@ The static website is built using Jekyll, a Ruby Gem.
 ### Jekyll
 
 * [Install Jekyll](https://jekyllrb.com/docs/installation/):
+
   ```{bash}
   $ gem install jekyll
   ```
+
 * Install [Bundler](https://bundler.io/).
+
   ```{bash}
   $ gem install bundler
   ```
@@ -51,10 +61,13 @@ The static website is built using Jekyll, a Ruby Gem.
 * Clone this repository.
 * Enter the repository folder.
 * Install all the Gems in the `Gemfile`:
+
   ```{bash}
   $ bundle install
   ```
+
 * Run locally:
+
   ```{bash}
   $ bundle exec jekyll serve
   ```

@@ -15,7 +15,7 @@ last_updated: September 24, 2025
 
 # 2026 ACF Regionals
 
-2026 ACF Regionals will be held on January 31, 2026.
+[2026 ACF Regionals](https://hsquizbowl.org/forums/viewtopic.php?t=29321) will be held on January 31, 2026.
 
 ## Editors
 
@@ -42,7 +42,9 @@ If you are interested in hosting a mirror of ACF Winter, fill out the [hosting b
 
 ## Registration
 
-Registration will open after host bids have been adjudicated. The registration form will be available here.
+Teams may register for 2026 ACF Regionals by filling out the central [team registration form](https://forms.gle/JARMfNxVmmfzQ4CP9).
+
+If possible, teams should register for the site that is geographically closest to them and/or is in the region where they would normally play. After the field cap for their site is reached, teams will be placed on a waitlist or potentially assigned to another site.
 
 ## Distribution
 
@@ -91,7 +93,7 @@ If a team wishes to outsource part of its packet to a player not expected to pla
 | January 9            | +$50                  |
 | Afterwards / Opt-out | +$75                  |
 
-The opt-out fee is $50. If a team does not submit a half-packet by January 9, 2026 and is required to submit per the criteria above, they must instead pay the opt-out fee; submissions will not be accepted following this date.
+If a team does not submit a half-packet by January 9, 2026 and is required to submit per the criteria above, they must instead pay the opt-out fee; submissions will not be accepted following this date.
 
 ### Packet Distribution & Authorship
 
@@ -125,23 +127,23 @@ For information on who is eligible to play non-Fall ACF tournaments, see [ACF’
 
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2026 ACF Regionals in the following [regions](/guidelines/hosting#regions-according-to-acf):
 
-| Region                            | Site |
-| --------------------------------- | ---- |
-| Northeast                         | TBA  |
-| Upper Mid-Atlantic                | TBA  |
-| Upstate New York                  | TBA  |
-| Lower Mid-Atlantic                | TBA  |
-| Southeast                         | TBA  |
-| Florida                           | TBA  |
-| Great Lakes                       | TBA  |
-| Midwest                           | TBA  |
-| North                             | TBA  |
-| South Central                     | TBA  |
-| Pacific Northwest / Mountain West | TBA  |
-| Northern California               | TBA  |
-| Eastern Canada                    | TBA  |
-| United Kingdom                    | TBA  |
-| Overflow (Online)                 | TBA  |
+| Region                            | Site                                             |
+| --------------------------------- | ------------------------------------------------ |
+| Northeast                         | Boston University (BU)                           |
+| Upper Mid-Atlantic                | University of Pennsylvania (Penn)                |
+| Upstate New York                  | Cornell University                               |
+| Lower Mid-Atlantic                | University of North Carolina (UNC)               |
+| Southeast                         | Vanderbilt University                            |
+| Florida                           | University of Florida (UF)                       |
+| Great Lakes                       | Case Western Reserve University (CWRU)           |
+| Midwest                           | Northwestern University                          |
+| North                             | University of Minnesota (UMN)                    |
+| South Central                     | University of Texas, Austin (UT Austin)          |
+| Pacific Northwest / Mountain West | N/A                                              |
+| Northern California               | University of California, Berkeley (UC Berkeley) |
+| Eastern Canada                    | University of Toronto (U of T)                   |
+| United Kingdom                    | Imperial College London                          |
+| Overflow (Online)                 | University of Washington (UW)                    |
 
 ## Past Tournaments
 
