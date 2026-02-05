@@ -55,7 +55,7 @@ Registration will open after bids have been adjudicated. The registration form w
 
 ## Distribution
 
-ACF Regionals uses the [standard ACF distribution](/writing/distribution).
+ACF Nationals uses the [standard ACF distribution](/writing/distribution).
 
 ## Fees
 
