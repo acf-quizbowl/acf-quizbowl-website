@@ -20,7 +20,7 @@ See the [About page](/about#how-can-i-become-an-acf-member) for information on t
 ACF’s officers also serve as ACF’s board of directors.
 
 | Officer             | Position                          | Contact                           |
-|---------------------|-----------------------------------|-----------------------------------|
+| ------------------- | --------------------------------- | --------------------------------- |
 | Zac Bennett         | President                         | <president@acf-quizbowl.com>      |
 | Michael Kearney     | Communications                    | <communications@acf-quizbowl.com> |
 | Alexandra Hardwick  | Editor-in-Chief                   | <editing@acf-quizbowl.com>        |
@@ -32,7 +32,7 @@ ACF’s officers also serve as ACF’s board of directors.
 ## Head Editors
 
 | Head Editor      | Tournament         | Contact                      |
-|------------------|--------------------|------------------------------|
+| ---------------- | ------------------ | ---------------------------- |
 | Eva Wang         | 2025 ACF Fall      | <fall@acf-quizbowl.com>      |
 | Rachel Ezrielev  | 2025 ACF Winter    | <winter@acf-quizbowl.com>    |
 | Erik Christensen | 2026 ACF Regionals | <regionals@acf-quizbowl.com> |
@@ -40,1028 +40,1033 @@ ACF’s officers also serve as ACF’s board of directors.
 
 ## Other Contacts
 
-| Position                   | Member(s)                         | Contact                        |
-|----------------------------|-----------------------------------|--------------------------------|
-| ACF Nationals Staffing     | ACF Nationals TD                  | <staffing@acf-quizbowl.com>    |
-| Eligibility Committee      | Editor-in-Chief, Head Editors     | <eligibility@acf-quizbowl.com> |
-| Misconduct Representatives | Ganon Evans, Caroline Mao         | <misconduct@acf-quizbowl.com>  |
+| Position                   | Member(s)                     | Contact                        |
+| -------------------------- | ----------------------------- | ------------------------------ |
+| ACF Nationals Staffing     | ACF Nationals TD              | <staffing@acf-quizbowl.com>    |
+| Eligibility Committee      | Editor-in-Chief, Head Editors | <eligibility@acf-quizbowl.com> |
+| Misconduct Representatives | Ganon Evans, Caroline Mao     | <misconduct@acf-quizbowl.com>  |
 
 ## Full Members
 
 Full members can vote in all ACF elections and on all constitutional amendments.
 
 <table class="table-ruled member-list" id="full-member-table">
-    <thead>
-    <tr>
-        <th class="name">Name</th>
-        <th class="affiliations">Affiliation</th>
-        <th class="contributions">Contributions</th>
-    </tr>
-    </thead>
+<thead>
+<tr>
+    <th class="name">Name</th>
+    <th class="affiliations">Affiliation</th>
+    <th class="contributions">Contributions</th>
+</tr>
+</thead>
+
 <tbody>
+
 <tr>
     <td>Will Alston</td>
     <td>
         <ul>
-        <li>M.B.A., Columbia University</li>
-        <li>Alumnus, Dartmouth College</li>
+            <li>M.B.A., Columbia University</li>
+            <li>Alumnus, Dartmouth College</li>
         </ul>
     </td>
     <td>
         <ul>
-        <li>2024 ACF Regionals Editor</li>
-        <li>2022 ACF Nationals Editor</li>
+            <li>2024 ACF Regionals Editor</li>
+            <li>2022 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
+
 <tr>
-<td>Ethan Ashbrook</td>
-<td>
-<ul>
-<li>Alumnus, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Winter Head Editor</li>
-<li>2022 ACF Winter Editor</li>
-<li>2021 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Ethan Ashbrook</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Winter Head Editor</li>
+            <li>2022 ACF Winter Editor</li>
+            <li>2021 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Zac Bennett</td>
-<td>
-<ul>
-<li>University of Oklahoma</li>
-<li>Formerly The Ohio State University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Tournament Director</li>
-<li>2024 ACF Nationals Assistant Tournament Director</li>
-<li>2023 ACF Nationals Assistant Tournament Director</li>
-<li>2022 ACF Fall Tournament Director</li>
-<li>2021 ACF Winter Tournament Director</li>
-</ul>
-</td>
+    <td>Zac Bennett</td>
+    <td>
+        <ul>
+            <li>University of Oklahoma</li>
+            <li>Formerly The Ohio State University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Tournament Director</li>
+            <li>2024 ACF Nationals Assistant Tournament Director</li>
+            <li>2023 ACF Nationals Assistant Tournament Director</li>
+            <li>2022 ACF Fall Tournament Director</li>
+            <li>2021 ACF Winter Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Matt Bollinger</td>
-<td>
-<ul>
-<li>Georgia Institute of Technology</li>
-<li>Alumnus, University of Virginia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Editor-in-Chief, 2023-24</li>
-<li>2021 ACF Nationals Co-Head Editor</li>
-<li>Editor-in-Chief, 2020-21</li>
-<li>Communications Officer, 2019-20</li>
-<li>2019 ACF Nationals Editor</li>
-<li>2017 ACF Nationals Head Editor</li>
-<li>2012 ACF Fall Head Editor</li>
-<li>2011 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Jordan Brownstein</td>
-<td>
-<ul>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-<li>2021 ACF Nationals Editor</li>
-<li>2021 ACF Regionals Editor</li>
-<li>2020 ACF Regionals Editor</li>
-<li>2019 ACF Nationals Editor</li>
-<li>2018 ACF Nationals Editor</li>
-<li>2014 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Matt Bollinger</td>
+    <td>
+        <ul>
+            <li>Georgia Institute of Technology</li>
+            <li>Alumnus, University of Virginia</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Editor-in-Chief, 2023-24</li>
+            <li>2021 ACF Nationals Co-Head Editor</li>
+            <li>Editor-in-Chief, 2020-21</li>
+            <li>Communications Officer, 2019-20</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2017 ACF Nationals Head Editor</li>
+            <li>2012 ACF Fall Head Editor</li>
+            <li>2011 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Eric Chang</td>
-<td>
-<ul>
-<li>Virginia Tech</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Fall Editor</li>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Jordan Brownstein</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+            <li>2021 ACF Nationals Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+            <li>2020 ACF Regionals Editor</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2014 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Raymond Chen</td>
-<td>
-<ul>
-<li>University of Toronto</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Winter Editor</li>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Eric Chang</td>
+    <td>
+        <ul>
+            <li>Virginia Tech</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Fall Editor</li>
+            <li>2023 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Erik Christensen</td>
-<td>
-<ul>
-<li>Alumnus, University of Waterloo</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2024 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Raymond Chen</td>
+    <td>
+        <ul>
+            <li>University of Toronto</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Winter Editor</li>
+            <li>2022 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Alex Damisch</td>
-<td>
-<ul>
-<li>M.S., DePaul University</li>
-<li>Alumna, Lawrence University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>President, 2020-21</li>
-<li>Site Coordinator, 2019-20</li>
-<li>Treasurer, 2018-19</li>
-<li>2019 ACF Nationals Editor</li>
-<li>2018 ACF Nationals Logistics</li>
-</ul>
-</td>
+    <td>Erik Christensen</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Waterloo</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2024 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jordan Davidsen</td>
-<td>
-<ul>
-<li>Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Communications Officer, 2023-24</li>
-<li>2023 ACF Nationals Liveblogging/On-site Communications Coordinator</li>
-<li>2022 ACF Nationals Assistant Tournament Director</li>
-</ul>
-</td>
+    <td>Alex Damisch</td>
+    <td>
+        <ul>
+            <li>M.S., DePaul University</li>
+            <li>Alumna, Lawrence University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>President, 2020-21</li>
+            <li>Site Coordinator, 2019-20</li>
+            <li>Treasurer, 2018-19</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2018 ACF Nationals Logistics</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Justin Duffy</td>
-<td>
-<ul>
-<li>Harvard Law School</li>
-<li>Alumnus, Harvard College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Fall Editor and Oversight</li>
-<li>2020 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Jordan Davidsen</td>
+    <td>
+        <ul>
+            <li>Yale University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Communications Officer, 2023-24</li>
+            <li>2023 ACF Nationals Liveblogging/On-site Communications Coordinator</li>
+            <li>2022 ACF Nationals Assistant Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jacob Egol</td>
-<td>
-<ul>
-<li>Alumnus, Duke University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Assistant Tournament Director</li>
-<li>2023 ACF Winter Editor</li>
-<li>2021 ACF Fall Logistics</li>
-</ul>
-</td>
+    <td>Justin Duffy</td>
+    <td>
+        <ul>
+            <li>Harvard Law School</li>
+            <li>Alumnus, Harvard College</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2021 ACF Fall Editor and Oversight</li>
+            <li>2020 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ganon Evans</td>
-<td>
-<ul>
-<li>Alumnus, University of Iowa</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>President, 2023-24</li>
-<li>2023 ACF Nationals Editor</li>
-<li>Treasurer, 2021-23</li>
-<li>2022 ACF Regionals Editor</li>
-<li>2021 ACF Nationals Qualifier Tournament Director</li>
-<li>2020 ACF Winter Editor</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Jacob Egol</td>
+    <td>
+        <ul>
+            <li>Alumnus, Duke University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Assistant Tournament Director</li>
+            <li>2023 ACF Winter Editor</li>
+            <li>2021 ACF Fall Logistics</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Rachel Ezrielev</td>
-<td>
-<ul>
-<li>Georgetown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Winter Editor</li>
-<li>2023 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Ganon Evans</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Iowa</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>President, 2023-24</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>Treasurer, 2021-23</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2021 ACF Nationals Qualifier Tournament Director</li>
+            <li>2020 ACF Winter Editor</li>
+            <li>2019 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Eve Fleisig</td>
-<td>
-<ul>
-<li>PhD, University of California, Berkeley</li>
-<li>Alumna, Princeton University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Regionals Head Editor</li>
-<li>2022 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Rachel Ezrielev</td>
+    <td>
+        <ul>
+            <li>Georgetown University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Winter Editor</li>
+            <li>2023 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Halle Friedman</td>
-<td>
-<ul>
-<li>Alumna, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>2020 ACF Fall Editor</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Eve Fleisig</td>
+    <td>
+        <ul>
+            <li>PhD, University of California, Berkeley</li>
+            <li>Alumna, Princeton University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Regionals Head Editor</li>
+            <li>2022 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>William Golden</td>
-<td>
-<ul>
-<li>Alumnus, University of Texas at Austin</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Editor</li>
-<li>2020 ACF Winter Head Editor</li>
-</ul>
-</td>
+    <td>Halle Friedman</td>
+    <td>
+        <ul>
+            <li>Alumna, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>2020 ACF Fall Editor</li>
+            <li>2019 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Alexandra Hardwick</td>
-<td>
-<ul>
-<li>Alumna, Oxford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Fall Head Editor</li>
-<li>2023 ACF Regionals Editor</li>
-<li>2022 ACF Regionals Editor</li>
-<li>2020 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>William Golden</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Texas at Austin</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2020 ACF Winter Head Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Andrew Hart</td>
-<td>
-<ul>
-<li>J.D., University of Minnesota Law School</li>
-<li>Alumnus, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Carper Committee Chair, 2019-present</li>
-<li>2021 ACF Nationals Editor</li>
-<li>2019 ACF Nationals Editor</li>
-<li>2018 ACF Nationals Head Editor</li>
-<li>2017 ACF Regionals Head Editor</li>
-<li>Meeting Chair, 2010-15</li>
-<li>2013 ACF Fall Editor</li>
-<li>2010 ACF Winter Head Editor</li>
-<li>2008 ACF Fall Head Editor</li>
-<li>2007 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Alexandra Hardwick</td>
+    <td>
+        <ul>
+            <li>Alumna, Oxford University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Fall Head Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2020 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Taylor Harvey</td>
-<td>
-<ul>
-<li>Alumnus, University of Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2023 ACF Nationals Head Editor</li>
-<li>Editor-in-Chief, 2021-22</li>
-<li>2022 ACF Regionals Head Editor</li>
-<li>2020 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Andrew Hart</td>
+    <td>
+        <ul>
+            <li>J.D., University of Minnesota Law School</li>
+            <li>Alumnus, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Carper Committee Chair, 2019-present</li>
+            <li>2021 ACF Nationals Editor</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2018 ACF Nationals Head Editor</li>
+            <li>2017 ACF Regionals Head Editor</li>
+            <li>Meeting Chair, 2010-15</li>
+            <li>2013 ACF Fall Editor</li>
+            <li>2010 ACF Winter Head Editor</li>
+            <li>2008 ACF Fall Head Editor</li>
+            <li>2007 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Nick Jensen</td>
-<td>
-<ul>
-<li>M.S., University of California, Davis</li>
-<li>Alumnus, Dartmouth College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Head Editor</li>
-<li>2023 ACF Regionals Head Editor</li>
-<li>Editor-in-Chief, 2022-23</li>
-<li>2023 ACF Regionals Head Editor</li>
-<li>2022 ACF Regionals Editor</li>
-<li>2021 ACF Winter Editor</li>
-<li>2020 ACF Winter Editor</li>
-<li>2020 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Taylor Harvey</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Florida</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2023 ACF Nationals Head Editor</li>
+            <li>Editor-in-Chief, 2021-22</li>
+            <li>2022 ACF Regionals Head Editor</li>
+            <li>2020 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Kevin Jiang</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Site Coordinator, 2024-25</li>
-<li>2024 ACF Fall Editor</li>
-<li>2024 ACF Nationals Site Logistics</li>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Nick Jensen</td>
+    <td>
+        <ul>
+            <li>M.S., University of California, Davis</li>
+            <li>Alumnus, Dartmouth College</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Head Editor</li>
+            <li>2023 ACF Regionals Head Editor</li>
+            <li>Editor-in-Chief, 2022-23</li>
+            <li>2023 ACF Regionals Head Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2021 ACF Winter Editor</li>
+            <li>2020 ACF Winter Editor</li>
+            <li>2020 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Hasna Karim</td>
-<td>
-<ul>
-<li>M.D. Candidate, Medical University of South Carolina</li>
-<li>Alumna, Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Editor</li>
-<li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Kevin Jiang</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Site Coordinator, 2024-25</li>
+            <li>2024 ACF Fall Editor</li>
+            <li>2024 ACF Nationals Site Logistics</li>
+            <li>2023 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Michael Kearney</td>
-<td>
-<ul>
-<li>Alumnus, Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Tournament Director</li>
-<li>2023 ACF Nationals Editor</li>
-<li>President, 2022-23</li>
-<li>2022 ACF Nationals Tournament Director</li>
-<li>2021 Interim Site Coordinator</li>
-<li>2021 ACF Regionals Editor</li>
-<li>2020 ACF Fall and Regionals Site Tournament Director</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Rahul Keyal</td>
-<td>
-<ul>
-<li>Alumnus, University of California, Berkeley</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>Webmaster, 2024-25</li>
-<li>2023 ACF Regionals Editor</li>
-<li>2019 ACF Fall Head Editor</li>
-<li>2018 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>JinAh Kim</td>
-<td>
-<ul>
-<li>Alumna, University of Pennsylvania</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>President, 2024-25</li>
-<li>Treasurer, 2020-21</li>
-<li>2020 ACF Regionals Head Editor</li>
-<li>2019 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Hasna Karim</td>
+    <td>
+        <ul>
+            <li>M.D. Candidate, Medical University of South Carolina</li>
+            <li>Alumna, Yale University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Joseph Krol</td>
-<td>
-<ul>
-<li>University of Cambridge</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-<li>2022 ACF Winter Head Editor</li>
-<li>2021 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Michael Kearney</td>
+    <td>
+        <ul>
+            <li>Alumnus, Yale University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Tournament Director</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>President, 2022-23</li>
+            <li>2022 ACF Nationals Tournament Director</li>
+            <li>2021 Interim Site Coordinator</li>
+            <li>2021 ACF Regionals Editor</li>
+            <li>2020 ACF Fall and Regionals Site Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>John Lawrence</td>
-<td>
-<ul>
-<li>PhD, University of Chicago</li>
-<li>Alumnus, Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Head Editor</li>
-<li>2022 ACF Nationals Head Editor</li>
-<li>2021 ACF Nationals Qualifier Head Editor</li>
-<li>2016 ACF Regionals Head Editor</li>
-<li>2013 ACF Regionals Editor</li>
-<li>2013 ACF Fall Editor</li>
-<li>2012 ACF Regionals Editor</li>
-<li>2010 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Rahul Keyal</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of California, Berkeley</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>Webmaster, 2024-25</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2019 ACF Fall Head Editor</li>
+            <li>2018 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Allan Lee</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Winter Editor</li>
-<li>2023 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>JinAh Kim</td>
+    <td>
+        <ul>
+            <li>Alumna, University of Pennsylvania</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>President, 2024-25</li>
+            <li>Treasurer, 2020-21</li>
+            <li>2020 ACF Regionals Head Editor</li>
+            <li>2019 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Katherine Lei</td>
-<td>
-<ul>
-<li>MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Logistics</li>
-<li>2022 ACF Fall Proofreading</li>
-<li>2021 ACF Fall Head Editor</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Joseph Krol</td>
+    <td>
+        <ul>
+            <li>University of Cambridge</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+            <li>2022 ACF Winter Head Editor</li>
+            <li>2021 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ophir Lifshitz</td>
-<td>
-<ul>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Regionals Proofreading</li>
-<li>Webmaster, 2021-22</li>
-<li>2020 ACF Regionals Oversight, Logistics, and Advanced Stats</li>
-<li>2019 ACF Fall Proofreading and Packetizing</li>
-<li>2019 ACF Regionals Logistics and Advanced Stats</li>
-<li>2018 ACF Regionals Logistics and Advanced Stats</li>
-</ul>
-</td>
+    <td>John Lawrence</td>
+    <td>
+        <ul>
+            <li>PhD, University of Chicago</li>
+            <li>Alumnus, Yale University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Head Editor</li>
+            <li>2022 ACF Nationals Head Editor</li>
+            <li>2021 ACF Nationals Qualifier Head Editor</li>
+            <li>2016 ACF Regionals Head Editor</li>
+            <li>2013 ACF Regionals Editor</li>
+            <li>2013 ACF Fall Editor</li>
+            <li>2012 ACF Regionals Editor</li>
+            <li>2010 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Steven Liu</td>
-<td>
-<ul>
-<li>Alumnus, MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Co-Head Editor</li>
-<li>2021 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Allan Lee</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Winter Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Caroline Mao</td>
-<td>
-<ul>
-<li>Alum, Barnard College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Editor</li>
-<li>Webmaster, 2022-24</li>
-<li>2021-23 ACF Nationals Program Designer</li>
-<li>Communications Officer, 2020-21</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Katherine Lei</td>
+    <td>
+        <ul>
+            <li>MIT</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Logistics</li>
+            <li>2022 ACF Fall Proofreading</li>
+            <li>2021 ACF Fall Head Editor</li>
+            <li>2019 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Mitch McCullar</td>
-<td>
-<ul>
-<li>PhD Student, Penn State University</li>
-<li>Alumnus, University of Illinois</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Regionals Editor</li>
-<li>2021 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Ophir Lifshitz</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Regionals Proofreading</li>
+            <li>Webmaster, 2021-22</li>
+            <li>2020 ACF Regionals Oversight, Logistics, and Advanced Stats</li>
+            <li>2019 ACF Fall Proofreading and Packetizing</li>
+            <li>2019 ACF Regionals Logistics and Advanced Stats</li>
+            <li>2018 ACF Regionals Logistics and Advanced Stats</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Tim Morrison</td>
-<td>
-<ul>
-<li>PhD Student, Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2023 ACF Regionals Editor</li>
-<li>2021 ACF Winter Head Editor</li>
-<li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Steven Liu</td>
+    <td>
+        <ul>
+            <li>Alumnus, MIT</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Fall Co-Head Editor</li>
+            <li>2021 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Eric Mukherjee</td>
-<td>
-<ul>
-<li>MD/PhD, University of Pennsylvania</li>
-<li>Alumnus, Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Editor-in-Chief, 2024-25</li>
-<li>2023 ACF Winter Editor</li>
-<li>2022 ACF Winter Editor</li>
-<li>2022 ACF Nationals Editor</li>
-<li>2021 ACF Nationals Editor</li>
-<li>2010 ACF Winter Editor</li>
-<li>2009 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Caroline Mao</td>
+    <td>
+        <ul>
+            <li>Alum, Barnard College</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Editor</li>
+            <li>Webmaster, 2022-24</li>
+            <li>2021-23 ACF Nationals Program Designer</li>
+            <li>Communications Officer, 2020-21</li>
+            <li>2019 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Arjun Nageswaran</td>
-<td>
-<ul>
-<li>Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Co-Head Editor</li>
-<li>2022 ACF Regionals Editor</li>
-<li>2020 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Mitch McCullar</td>
+    <td>
+        <ul>
+            <li>PhD Student, Penn State University</li>
+            <li>Alumnus, University of Illinois</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Regionals Editor</li>
+            <li>2021 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Will Nediger</td>
-<td>
-<ul>
-<li>PhD, University of Michigan</li>
-<li>Alumnus, University of Western Ontario</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Editor</li>
-<li>2019 ACF Regionals Head Editor</li>
-<li>2014 ACF Regionals Editor</li>
-<li>2009 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Tim Morrison</td>
+    <td>
+        <ul>
+            <li>PhD Student, Stanford University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2021 ACF Winter Head Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>John Nienajadlo</td>
-<td>
-<ul>
-<li>Alumnus, University of Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Treasurer, 2023-25</li>
-<li>Site Coordinator, 2022-23</li>
-<li>2022 ACF Regionals Tournament Director</li>
-<li>2021 ACF Winter Tournament Director</li>
-</ul>
-</td>
+    <td>Eric Mukherjee</td>
+    <td>
+        <ul>
+            <li>MD/PhD, University of Pennsylvania</li>
+            <li>Alumnus, Brown University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Editor-in-Chief, 2024-25</li>
+            <li>2023 ACF Winter Editor</li>
+            <li>2022 ACF Winter Editor</li>
+            <li>2022 ACF Nationals Editor</li>
+            <li>2021 ACF Nationals Editor</li>
+            <li>2010 ACF Winter Editor</li>
+            <li>2009 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Richard Niu</td>
-<td>
-<ul>
-<li>Cornell University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Winter Editor</li>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Arjun Nageswaran</td>
+    <td>
+        <ul>
+            <li>Harvard University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Fall Co-Head Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2020 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Hari Parameswaran</td>
-<td>
-<ul>
-<li>Georgia Institute of Technology</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>2022 ACF Winter Editor</li>
-<li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Will Nediger</td>
+    <td>
+        <ul>
+            <li>PhD, University of Michigan</li>
+            <li>Alumnus, University of Western Ontario</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2019 ACF Regionals Head Editor</li>
+            <li>2014 ACF Regionals Editor</li>
+            <li>2009 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Grant Peet</td>
-<td>
-<ul>
-<li>Alumnus, University of North Carolina, Chapel Hill</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-<li>2023 ACF Nationals Editor</li>
-<li>2023 ACF Regionals Editor</li>
-<li>2022 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>John Nienajadlo</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Florida</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Treasurer, 2023-25</li>
+            <li>Site Coordinator, 2022-23</li>
+            <li>2022 ACF Regionals Tournament Director</li>
+            <li>2021 ACF Winter Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ani Perumalla</td>
-<td>
-<ul>
-<li>Penn State University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Co-Head Editor</li>
-<li>2022 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Richard Niu</td>
+    <td>
+        <ul>
+            <li>Cornell University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Winter Editor</li>
+            <li>2023 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Nitin Rao</td>
-<td>
-<ul>
-<li>J.D., Harvard Law School</li>
-<li>Alumnus, University of Pennsylvania</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Regionals Editor</li>
-<li>2020 ACF Regionals Editor</li>
-<li>2018 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Hari Parameswaran</td>
+    <td>
+        <ul>
+            <li>Georgia Institute of Technology</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>2022 ACF Winter Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Graham Reid</td>
-<td>
-<ul>
-<li>PhD, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Regionals Editor</li>
-<li>2022 ACF Regionals Editor</li>
-<li>2019 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Grant Peet</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of North Carolina, Chapel Hill</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ryan Rosenberg</td>
-<td>
-<ul>
-<li>Alumnus, University of North Carolina at Chapel Hill</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Tournament Director</li>
-<li>President, 2021-22</li>
-<li>Webmaster, 2019-21</li>
-<li>2019 ACF Nationals Tournament Director</li>
-<li>2018 ACF Nationals Assistant Tournament Director</li>
-<li>2017 ACF Fall Editor</li>
-<li>2015 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Ani Perumalla</td>
+    <td>
+        <ul>
+            <li>Penn State University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Co-Head Editor</li>
+            <li>2022 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Andrew Rout</td>
-<td>
-<ul>
-<li>PhD, University of Warwick</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>2024 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Nitin Rao</td>
+    <td>
+        <ul>
+            <li>J.D., Harvard Law School</li>
+            <li>Alumnus, University of Pennsylvania</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2021 ACF Regionals Editor</li>
+            <li>2020 ACF Regionals Editor</li>
+            <li>2018 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Eleanor Settle</td>
-<td>
-<ul>
-<li>Alumnus, University of Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-<li>2023 ACF Nationals Editor</li>
-<li>2022 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Graham Reid</td>
+    <td>
+        <ul>
+            <li>PhD, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2019 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Bryanna Shao</td>
-<td>
-<ul>
-<li>Vanderbilt University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Proofreader</li>
-<li>2020 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Ryan Rosenberg</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of North Carolina at Chapel Hill</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Tournament Director</li>
+            <li>President, 2021-22</li>
+            <li>Webmaster, 2019-21</li>
+            <li>2019 ACF Nationals Tournament Director</li>
+            <li>2018 ACF Nationals Assistant Tournament Director</li>
+            <li>2017 ACF Fall Editor</li>
+            <li>2015 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Shahar Schwartz</td>
-<td>
-<ul>
-<li>Alumnus, University of California, Berkeley</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>2024 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-<td>Munir Siddiqui</td>
-<td>
-<ul>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2024 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Andrew Rout</td>
+    <td>
+        <ul>
+            <li>PhD, University of Warwick</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>2024 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Adam Silverman</td>
-<td>
-<ul>
-<li>PhD, Northwestern University</li>
-<li>Alumnus, Georgia Tech</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Editor</li>
-<li>2022 ACF Nationals Editor</li>
-<li>2017 ACF Regionals Editor</li>
-<li>2014 ACF Regionals Editor</li>
-<li>2013 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Eleanor Settle</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Florida</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Christopher Sims</td>
-<td>
-<ul>
-<li>PhD Student, Northwestern University</li>
-<li>Alumnus, University of Toronto</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Winter Head Editor</li>
-<li>2023 ACF Regionals Editor</li>
-<li>2021 ACF Winter Editor</li>
-<li>2020 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Bryanna Shao</td>
+    <td>
+        <ul>
+            <li>Vanderbilt University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Fall Proofreader</li>
+            <li>2020 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ned Tagtmeier</td>
-<td>
-<ul>
-<li>University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Editor</li>
-<li>2021 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Shahar Schwartz</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of California, Berkeley</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>2024 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Sophie Torres</td>
-<td>
-<ul>
-<li>Alumna, University of Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Communications Officer, 2024-25</li>
-<li>2024 ACF Nationals Social Media</li>
-</ul>
-</td>
+    <td>Munir Siddiqui</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2024 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Cody Voight</td>
-<td>
-<ul>
-<li>Alumnus, Virginia Commonwealth University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Nationals Tournament Director</li>
-<li>Treasurer, 2019-20</li>
-<li>2017 ACF Regionals Editor</li>
-<li>2016 ACF Nationals Stats Director</li>
-<li>2015 ACF Nationals Assistant Tournament Director</li>
-<li>2013 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Adam Silverman</td>
+    <td>
+        <ul>
+            <li>PhD, Northwestern University</li>
+            <li>Alumnus, Georgia Tech</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2022 ACF Nationals Editor</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2014 ACF Regionals Editor</li>
+            <li>2013 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Chandler West</td>
-<td>
-<ul>
-<li>M.Ed., Vanderbilt University</li>
-<li>Alum, Auburn University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Regionals Editor</li>
-<li>2020 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Christopher Sims</td>
+    <td>
+        <ul>
+            <li>PhD Student, Northwestern University</li>
+            <li>Alumnus, University of Toronto</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Winter Head Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2021 ACF Winter Editor</li>
+            <li>2020 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Harry White</td>
-<td>
-<ul>
-<li>Alumnus, Virginia Tech</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Live Stats</li>
-<li>2022 ACF Regionals Nationals Live Stats</li>
-</ul>
-</td>
+    <td>Ned Tagtmeier</td>
+    <td>
+        <ul>
+            <li>University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Fall Editor</li>
+            <li>2021 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Maxwell Ye</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2023 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Sophie Torres</td>
+    <td>
+        <ul>
+            <li>Alumna, University of Florida</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Communications Officer, 2024-25</li>
+            <li>2024 ACF Nationals Social Media</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Cody Voight</td>
+    <td>
+        <ul>
+            <li>Alumnus, Virginia Commonwealth University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2021 ACF Nationals Tournament Director</li>
+            <li>Treasurer, 2019-20</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2016 ACF Nationals Stats Director</li>
+            <li>2015 ACF Nationals Assistant Tournament Director</li>
+            <li>2013 ACF Regionals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Chandler West</td>
+    <td>
+        <ul>
+            <li>M.Ed., Vanderbilt University</li>
+            <li>Alum, Auburn University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2020 ACF Winter Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Harry White</td>
+    <td>
+        <ul>
+            <li>Alumnus, Virginia Tech</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Live Stats</li>
+            <li>2022 ACF Regionals Nationals Live Stats</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Maxwell Ye</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2023 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 
@@ -1075,423 +1080,422 @@ Provisional members are community members who have ably assisted ACF in the past
 <table class="table-ruled member-list" id="provisional-member-table">
 <thead>
 <tr>
-<th class="name">Name</th>
-<th class="affiliations">Affiliation</th>
-<th class="contributions">Contributions</th>
+    <th class="name">Name</th>
+    <th class="affiliations">Affiliation</th>
+    <th class="contributions">Contributions</th>
 </tr>
 </thead>
 
 <tbody>
 
 <tr>
-<td>Tomás Aguilar-Fraga</td>
-<td>
-<ul>
-<li>Alumnus, Claremont Colleges</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Site Coordinator, 2023-24</li>
-<li>2023 ACF Regionals Tournament Director</li>
-<li>2022 ACF Fall Tournament Director</li>
-</ul>
-</td>
+    <td>Tomás Aguilar-Fraga</td>
+    <td>
+        <ul>
+            <li>Alumnus, Claremont Colleges</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Site Coordinator, 2023-24</li>
+            <li>2023 ACF Regionals Tournament Director</li>
+            <li>2022 ACF Fall Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Sameer Apte</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Sameer Apte</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Henry Atkins</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Henry Atkins</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Emily Bussa</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Host Logistics Contact</li>
-</ul>
-</td>
+    <td>Emily Bussa</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Host Logistics Contact</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Benjamin Chapman</td>
-<td>
-<ul>
-<li>University of Toronto</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Fall Editor</li>
-<li>2024 ACF Winter Editor</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-<td>Ophelia Cherry-Pulay</td>
-<td>
-<ul>
-<li>USN Quizbowl</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Benjamin Chapman</td>
+    <td>
+        <ul>
+            <li>University of Toronto</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Fall Editor</li>
+            <li>2024 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Vincent Du</td>
-<td>
-<ul>
-<li>University of North Carolina, Chapel Hill</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Ophelia Cherry-Pulay</td>
+    <td>
+        <ul>
+            <li>USN Quizbowl</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Sean Farrell</td>
-<td>
-<ul>
-<li>University of North Florida</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Head Editor</li>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Vincent Du</td>
+    <td>
+        <ul>
+            <li>University of North Carolina, Chapel Hill</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jeffrey Fung</td>
-<td>
-<ul>
-<li>Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Sean Farrell</td>
+    <td>
+        <ul>
+            <li>University of North Florida</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Fall Head Editor</li>
+            <li>2022 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Shourjo Ganguli</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Jeffrey Fung</td>
+    <td>
+        <ul>
+            <li>Harvard University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Henry Goff</td>
-<td>
-<ul>
-<li>Alumnus, University of North Carolina, Chapel Hill</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2022 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Shourjo Ganguli</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jason Golfinos</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Henry Goff</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of North Carolina, Chapel Hill</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2022 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Aseem Keyal</td>
-<td>
-<ul>
-<li>Alumnus, University of California, Berkeley</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Jason Golfinos</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Amogh Kulkarni</td>
-<td>
-<ul>
-<li>Georgia State</li>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-<li>2023 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Aseem Keyal</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of California, Berkeley</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Sky Li</td>
-<td>
-<ul>
-<li>Alumnus, University of Toronto</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Amogh Kulkarni</td>
+    <td>
+        <ul>
+            <li>Georgia State</li>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+            <li>2023 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Daniel Ma</td>
-<td>
-<ul>
-<li>Alumnus, Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Sky Li</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Toronto</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Logan Mathis</td>
-<td>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Assistant Tournament Director</li>
-</ul>
-</td>
+    <td>Daniel Ma</td>
+    <td>
+        <ul>
+            <li>Alumnus, Yale University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Joel Miles</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>Logan Mathis</td>
+    <td>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Assistant Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Aum Mundhe</td>
-<td>
-<ul>
-<li>Alumnus, Rutgers University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Joel Miles</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ryan Ritter</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023 ACF Nationals Assistant Tournament Director</li>
-</ul>
-</td>
+    <td>Aum Mundhe</td>
+    <td>
+        <ul>
+            <li>Alumnus, Rutgers University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Kuleen Sasse</td>
-<td>
-<ul>
-<li>Johns Hopkins University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Assistant Tournament Director</li>
-</ul>
-</td>
+    <td>Ryan Ritter</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023 ACF Nationals Assistant Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Noah Sheidlower</td>
-<td>
-<ul>
-<li>Alumnus, Columbia University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Kuleen Sasse</td>
+    <td>
+        <ul>
+            <li>Johns Hopkins University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Assistant Tournament Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ashish Subramanian</td>
-<td>
-<ul>
-<li>Alumnus, Duke University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Noah Sheidlower</td>
+    <td>
+        <ul>
+            <li>Alumnus, Columbia University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Abigail Tan</td>
-<td>
-<ul>
-<li>Alumna, University of Cambridge</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Ashish Subramanian</td>
+    <td>
+        <ul>
+            <li>Alumnus, Duke University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Eva Wang</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2023-2024 Liveblog Coordinator</li>
-</ul>
-</td>
+    <td>Abigail Tan</td>
+    <td>
+        <ul>
+            <li>Alumna, University of Cambridge</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>James Wang</td>
-<td>
-<ul>
-<li>University of Ottawa</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Eva Wang</td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2023-2024 Liveblog Coordinator</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Kevin Wang</td>
-<td>
-<ul>
-<li>Alumnus, Amherst College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>James Wang</td>
+    <td>
+        <ul>
+            <li>University of Ottawa</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ben Weiner</td>
-<td>
-<ul>
-<li>Alumnus, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li> </li>
-</ul>
-</td>
+    <td>Kevin Wang</td>
+    <td>
+        <ul>
+            <li>Alumnus, Amherst College</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Walter Zhang</td>
-<td>
-<ul>
-<li>Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Ben Weiner</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li> </li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Walter Zhang</td>
+    <td>
+        <ul>
+            <li>Brown University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 </tbody>
@@ -1504,902 +1508,923 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <table class="table-ruled member-list" id="emeritus-member-table">
 <thead>
 <tr>
-<th class="name">Name</th>
-<th class="affiliations">Affiliation</th>
-<th class="contributions">Contributions</th>
+    <th class="name">Name</th>
+    <th class="affiliations">Affiliation</th>
+    <th class="contributions">Contributions</th>
 </tr>
 </thead>
 
 <tbody>
 
 <tr>
-<td>Evan Adams</td>
-<td>
-<ul>
-<li>Alumnus, University of Virginia Law School</li>
-<li>Alumnus, Virginia Commonwealth University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2017 ACF Nationals Editor</li>
-<li>2014 ACF Regionals Head Editor</li>
-<li>2010 ACF Fall Head Editor</li>
-<li>2009 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Bruce Arthur</td>
-<td>
-<ul>
-<li>Alumnus, Harvard Law School</li>
-<li>Alumnus, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2013 ACF Nationals Editor</li>
-<li>2012 ACF Nationals Editor</li>
-<li>2011 ACF Nationals Contributor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Zeke Berdichevsky</td>
-<td>
-<ul>
-<li>J.D., George Washington University Law School</li>
-<li>M.A., PhD Candidate (ABD), English Literature, University of Michigan</li>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2010 ACF Nationals Head Editor</li>
-<li>2004 ACF Nationals Head Editor</li>
-<li>2002 ACF Regionals Head Editor</li>
-</ul>
-</td>
+    <td>Evan Adams</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Virginia Law School</li>
+            <li>Alumnus, Virginia Commonwealth University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2017 ACF Nationals Editor</li>
+            <li>2014 ACF Regionals Head Editor</li>
+            <li>2010 ACF Fall Head Editor</li>
+            <li>2009 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Billy Busse</td>
-<td>
-<ul>
-<li>M.D. Candidate, Rosalind Franklin University</li>
-<li>Alumnus, University of Illinois, Urbana-Champaign</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>President, 2019-20</li>
-<li>2020 ACF Regionals Science Oversight</li>
-<li>Meeting Chair, 2018-19</li>
-<li>2016 ACF Nationals Editor</li>
-<li>2015 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Bruce Arthur</td>
+    <td>
+        <ul>
+            <li>Alumnus, Harvard Law School</li>
+            <li>Alumnus, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2013 ACF Nationals Editor</li>
+            <li>2012 ACF Nationals Editor</li>
+            <li>2011 ACF Nationals Contributor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Will Butler</td>
-<td>
-<ul>
-<li>PhD Student, Biology, Georgia Tech</li>
-<li>Alumnus, University of Virginia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2012 ACF Regionals Editor</li>
-<li>2010 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Zeke Berdichevsky</td>
+    <td>
+        <ul>
+            <li>J.D., George Washington University Law School</li>
+            <li>M.A., PhD Candidate (ABD), English Literature, University of Michigan</li>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2010 ACF Nationals Head Editor</li>
+            <li>2004 ACF Nationals Head Editor</li>
+            <li>2002 ACF Regionals Head Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Rob Carson</td>
-<td>
-<ul>
-<li>Alumnus, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Nationals Staff Coordinator, 2019-22</li>
-<li>2019 ACF Regionals Editor</li>
-<li>2018 ACF Nationals Logistics</li>
-<li>2016 ACF Nationals Co-Head Editor</li>
-<li>2015 ACF Nationals Editor</li>
-<li>2013 ACF Regionals Editor</li>
-<li>2011 ACF Regionals Head Editor</li>
-<li>2010 ACF Winter Editor</li>
-<li>2008 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Billy Busse</td>
+    <td>
+        <ul>
+            <li>M.D. Candidate, Rosalind Franklin University</li>
+            <li>Alumnus, University of Illinois, Urbana-Champaign</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>President, 2019-20</li>
+            <li>2020 ACF Regionals Science Oversight</li>
+            <li>Meeting Chair, 2018-19</li>
+            <li>2016 ACF Nationals Editor</li>
+            <li>2015 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Tommy Casalaspi</td>
-<td>
-<ul>
-<li>PhD Student, Harvard University</li>
-<li>University of Virginia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2017 ACF Nationals Editor</li>
-<li>2015 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Trevor Davis</td>
-<td>
-<ul>
-<li>Graduate Student, University of Alberta</li>
-<li>Alumnus, Carnegie Mellon University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2015 ACF Regionals Editor</li>
-<li>2012 ACF Regionals Head Editor</li>
-<li>2010 ACF Winter Editor</li>
-<li>2008 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Will Butler</td>
+    <td>
+        <ul>
+            <li>PhD Student, Biology, Georgia Tech</li>
+            <li>Alumnus, University of Virginia</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2012 ACF Regionals Editor</li>
+            <li>2010 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Stephen Eltinge</td>
-<td>
-<ul>
-<li>PhD, Yale University</li>
-<li>Alumnus, MIT</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Nationals Editor</li>
-<li>2021 ACF Regionals Editor</li>
-<li>2018 ACF Regionals Editor</li>
-<li>Communications Officer, 2014-17</li>
-<li>2013 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Rob Carson</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Nationals Staff Coordinator, 2019-22</li>
+            <li>2019 ACF Regionals Editor</li>
+            <li>2018 ACF Nationals Logistics</li>
+            <li>2016 ACF Nationals Co-Head Editor</li>
+            <li>2015 ACF Nationals Editor</li>
+            <li>2013 ACF Regionals Editor</li>
+            <li>2011 ACF Regionals Head Editor</li>
+            <li>2010 ACF Winter Editor</li>
+            <li>2008 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Andrew Feist</td>
-<td>
-<ul>
-<li>A.M. and PhD, Duke University</li>
-<li>Alumnus, University of Central Missouri</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Treasurer, 2019-19</li>
-<li>2019 ACF Nationals Stats Director</li>
-<li>2018 ACF Nationals Stats Director</li>
-</ul>
-</td>
+    <td>Tommy Casalaspi</td>
+    <td>
+        <ul>
+            <li>PhD Student, Harvard University</li>
+            <li>University of Virginia</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2017 ACF Nationals Editor</li>
+            <li>2015 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Susan Ferrari</td>
-<td>
-<ul>
-<li>PhD, Cancer Biology, University of Chicago</li>
-<li>Alumna, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Communications Officer, 2011-14</li>
-<li>2012 ACF Nationals Editor</li>
-<li>2011 ACF Nationals Editor</li>
-<li>2010 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Carsten Gehring</td>
-<td>
-<ul>
-<li>Alumnus, Carleton College</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018 ACF Nationals Proofreader</li>
-<li>2017 ACF Regionals Proofreader</li>
-<li>2014 ACF Regionals Editor</li>
-<li>2011 ACF Fall Head Editor</li>
-<li>2010 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Ted Gioia</td>
-<td>
-<ul>
-<li>Alumnus, Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2014 ACF Nationals Editor</li>
-<li>2011 ACF Regionals Editor</li>
-<li>2010 ACF Regionals Editor</li>
-<li>2008 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>David Hamilton</td>
-<td>
-<ul>
-<li>Fellow, Casualty Actuarial Society</li>
-<li>M.B.A, Elon University Love School of Business</li>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2001 ACF Nationals Editor</li>
-<li>2000 ACF Nationals Editor</li>
-<li>1999 ACF Regionals Editor</li>
-<li>Co-founder</li>
-</ul>
-</td>
+    <td>Trevor Davis</td>
+    <td>
+        <ul>
+            <li>Graduate Student, University of Alberta</li>
+            <li>Alumnus, Carnegie Mellon University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2015 ACF Regionals Editor</li>
+            <li>2012 ACF Regionals Head Editor</li>
+            <li>2010 ACF Winter Editor</li>
+            <li>2008 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Will Holub-Moorman</td>
-<td>
-<ul>
-<li>Alumnus, Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Regionals Editor</li>
-<li>2018 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Stephen Eltinge</td>
+    <td>
+        <ul>
+            <li>PhD, Yale University</li>
+            <li>Alumnus, MIT</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Nationals Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+            <li>2018 ACF Regionals Editor</li>
+            <li>Communications Officer, 2014-17</li>
+            <li>2013 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jeff Hoppes</td>
-<td>
-<ul>
-<li>M.A., History, University of California, Berkeley</li>
-<li>Alumnus, Princeton University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2005 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Matt Jackson</td>
-<td>
-<ul>
-<li>M.S., University of Chicago</li>
-<li>Alumnus, Yale University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2025 ACF Nationals Editor</li>
-<li>2022 ACF Nationals High-Volume Writer</li>
-<li>Lead writer, August 2016 ACF rules revision</li>
-<li>2015 ACF Nationals Assistant Tournament Director</li>
-<li>2015 ACF Regionals Head Editor</li>
-<li>2014 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Dennis Jang</td>
-<td>
-<ul>
-<li>Alumnus, Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2010 ACF Winter Editor</li>
-<li>2009 ACF Winter Editor</li>
-<li>2007 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Gaurav Kandlikar</td>
-<td>
-<ul>
-<li>PhD Student, UCLA</li>
-<li>Alumnus, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2016 ACF Fall Head Editor</li>
-<li>2015 ACF Fall Co-Head Editor</li>
-<li>2014 ACF Fall Co-Head Editor</li>
-<li>2011 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Gautam Kandlikar</td>
-<td>
-<ul>
-<li>Alumnus, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Treasurer, 2015-17</li>
-<li>2014 ACF Fall Co-Head Editor</li>
-<li>2009 ACF Fall Head Editor</li>
-<li>2008 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Matt Keller</td>
-<td>
-<ul>
-<li>Alumnus, Vanderbilt University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2008 ACF Regionals Editor</li>
-<li>2006 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Eddie Kim</td>
-<td>
-<ul>
-<li>SoCal Quizbowl</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-<li>2016 ACF Fall Editor</li>
-<li>2015 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Matt Lafer</td>
-<td>
-<ul>
-<li>Alumnus, University of Michigan</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2009 ACF Nationals Editor</li>
-<li>2008 ACF Nationals Editor</li>
-<li>2006 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Paul Litvak</td>
-<td>
-<ul>
-<li>PhD, Behavioral Decision Making, Carnegie Mellon University</li>
-<li>Alumnus, University of Michigan</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2004 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Stephen Liu</td>
-<td>
-<ul>
-<li>J.D., Stanford Law School</li>
-<li>Alumnus, Harvard University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2024 ACF Nationals Editor</li>
-<li>2022 ACF Nationals Editor</li>
-<li>2018 ACF Nationals Editor</li>
-<li>2017 ACF Regionals Editor</li>
-<li>2015 ACF Regionals Editor</li>
-<li>2013 ACF Fall Head Editor</li>
-<li>2012 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Andrew Feist</td>
+    <td>
+        <ul>
+            <li>A.M. and PhD, Duke University</li>
+            <li>Alumnus, University of Central Missouri</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Treasurer, 2019-19</li>
+            <li>2019 ACF Nationals Stats Director</li>
+            <li>2018 ACF Nationals Stats Director</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Bruce Lou</td>
-<td>
-<ul>
-<li>Alumnus, University of California, Berkeley</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2019 ACF Regionals Editor</li>
-<li>2017 ACF Fall Editor</li>
-<li>2016 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Susan Ferrari</td>
+    <td>
+        <ul>
+            <li>PhD, Cancer Biology, University of Chicago</li>
+            <li>Alumna, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Communications Officer, 2011-14</li>
+            <li>2012 ACF Nationals Editor</li>
+            <li>2011 ACF Nationals Editor</li>
+            <li>2010 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Sam Luongo</td>
-<td>
-<ul>
-<li>Alum, Virginia Commonwealth University School of Education</li>
-<li>Alum, University of Virginia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Webmaster, 2018-19</li>
-<li>Meeting Chair, 2017-18</li>
-<li>2018 ACF Nationals Tournament Director</li>
-<li>2015 ACF Regionals Editor and Logistics Coordinator</li>
-<li>2011 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Carsten Gehring</td>
+    <td>
+        <ul>
+            <li>Alumnus, Carleton College</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2018 ACF Nationals Proofreader</li>
+            <li>2017 ACF Regionals Proofreader</li>
+            <li>2014 ACF Regionals Editor</li>
+            <li>2011 ACF Fall Head Editor</li>
+            <li>2010 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Evan Lynch</td>
-<td>
-<ul>
-<li>PhD Student, University of Southampton</li>
-<li>Alumnus, University of Cambridge</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Regionals Logistics Support</li>
-<li>2019 ACF Fall Logistics Support</li>
-<li>2017 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Ted Gioia</td>
+    <td>
+        <ul>
+            <li>Alumnus, Harvard University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2014 ACF Nationals Editor</li>
+            <li>2011 ACF Regionals Editor</li>
+            <li>2010 ACF Regionals Editor</li>
+            <li>2008 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Subash Maddipoti</td>
-<td>
-<ul>
-<li>Alumnus, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2004 ACF Fall Head Editor</li>
-<li>2001 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Jonathan Magin</td>
-<td>
-<ul>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Online Moderator Training</li>
-<li>Meeting Chair, 2018</li>
-<li>2017 ACF Fall Head Editor</li>
-<li>2013 ACF Nationals Head Editor</li>
-<li>2012 ACF Nationals Head Editor</li>
-<li>2011 ACF Nationals Editor</li>
-<li>2009 ACF Nationals Editor</li>
-<li>2009 ACF Regionals Head Editor</li>
-<li>2007 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Wesley Matthews</td>
-<td>
-<ul>
-<li>Alumnus, Indiana University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2008 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Trygve Meade</td>
-<td>
-<ul>
-<li>Alumnus, Southern Illinois University Law School</li>
-<li>Alumnus, University of Illinois</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2010 ACF Regionals Editor</li>
-<li>2009 ACF Winter Editor</li>
-</ul>
-</td>
+    <td>David Hamilton</td>
+    <td>
+        <ul>
+            <li>Fellow, Casualty Actuarial Society</li>
+            <li>M.B.A, Elon University Love School of Business</li>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2001 ACF Nationals Editor</li>
+            <li>2000 ACF Nationals Editor</li>
+            <li>1999 ACF Regionals Editor</li>
+            <li>Co-founder</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ben Miller</td>
-<td>
-<ul>
-<li>Alumnus, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Fall Head Editor</li>
-<li>2019 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Will Holub-Moorman</td>
+    <td>
+        <ul>
+            <li>Alumnus, Harvard University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2019 ACF Regionals Editor</li>
+            <li>2018 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Theresa Nyowheoma</td>
-<td>
-<ul>
-<li>Alumna, New York University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Site Coordinator, 2021-22</li>
-<li>2021 ACF Regionals Tournament Director</li>
-<li>2020 ACF Fall Tournament Director</li>
-</ul>
-</td>
+    <td>Jeff Hoppes</td>
+    <td>
+        <ul>
+            <li>M.A., History, University of California, Berkeley</li>
+            <li>Alumnus, Princeton University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2005 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jason Paik</td>
-<td>
-<ul>
-<li>MD/PhD, Cancer Biology, University of Alabama School of Medicine</li>
-<li>Alumnus, Washington University in St. Louis</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2004 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Matt Jackson</td>
+    <td>
+        <ul>
+            <li>M.S., University of Chicago</li>
+            <li>Alumnus, Yale University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2025 ACF Nationals Editor</li>
+            <li>2022 ACF Nationals High-Volume Writer</li>
+            <li>Lead writer, August 2016 ACF rules revision</li>
+            <li>2015 ACF Nationals Assistant Tournament Director</li>
+            <li>2015 ACF Regionals Head Editor</li>
+            <li>2014 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jonathan Pinyan</td>
-<td>
-Alumnus, Washington University in St. Louis
-</td>
-<td>
-<ul>
-<li>2019 ACF Nationals Stats Director</li>
-<li>2015 ACF Nationals Stats Director</li>
-<li>2014 ACF Nationals Stats Director</li>
-</ul>
-</td>
+    <td>Dennis Jang</td>
+    <td>
+        <ul>
+            <li>Alumnus, Brown University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2010 ACF Winter Editor</li>
+            <li>2009 ACF Winter Editor</li>
+            <li>2007 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Chris Ray</td>
-<td>
-<ul>
-<li>PhD Candidate, The Ohio State University</li>
-<li>MA, University of Chicago</li>
-<li>Alumnus, University of Maryland</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2016 ACF Regionals Editor</li>
-<li>2013 ACF Regionals Head Editor</li>
-<li>2010 ACF Regionals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Matt Reece</td>
-<td>
-<ul>
-<li>PhD, Theoretical Physics, Cornell University</li>
-<li>Alumnus, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2010 ACF Nationals Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Max Schindler</td>
-<td>
-<ul>
-<li>Alumnus, University of Chicago</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2016 ACF Regionals Editor</li>
-<li>2014 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Gaurav Kandlikar</td>
+    <td>
+        <ul>
+            <li>PhD Student, UCLA</li>
+            <li>Alumnus, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2016 ACF Fall Head Editor</li>
+            <li>2015 ACF Fall Co-Head Editor</li>
+            <li>2014 ACF Fall Co-Head Editor</li>
+            <li>2011 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Mike Sorice</td>
-<td>
-<ul>
-<li>Alumnus, University of Illinois</li>
-<li>Alumnus, Eastern Illinois University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2013 ACF Nationals Editor</li>
-<li>2006 ACF Regionals Head Editor</li>
-<li>2005 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Gautam Kandlikar</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Treasurer, 2015-17</li>
+            <li>2014 ACF Fall Co-Head Editor</li>
+            <li>2009 ACF Fall Head Editor</li>
+            <li>2008 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Bernadette Spencer</td>
-<td>
-<ul>
-<li>Alumna, University of Minnesota</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Nationals Travel Logistics</li>
-<li>2021 ACF Nationals Travel Logistics</li>
-<li>2019 ACF Nationals Travel Logistics</li>
-<li>2018 ACF Nationals Travel Logistics</li>
-<li>2017 ACF Nationals Travel Logistics</li>
-</ul>
-</td>
+    <td>Matt Keller</td>
+    <td>
+        <ul>
+            <li>Alumnus, Vanderbilt University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2008 ACF Regionals Editor</li>
+            <li>2006 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Guy Tabachnick</td>
-<td>
-<ul>
-<li>Alumnus, Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2012 ACF Regionals Editor</li>
-<li>2010 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Eddie Kim</td>
+    <td>
+        <ul>
+            <li>SoCal Quizbowl</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+            <li>2016 ACF Fall Editor</li>
+            <li>2015 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Margaret Tebbe</td>
-<td>
-<ul>
-<li>Alumna, University of Pennsylvania</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Site Coordinator, 2020-21</li>
-<li>2019 ACF Nationals Host Logistics Contact</li>
-</ul>
-</td>
+    <td>Matt Lafer</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Michigan</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2009 ACF Nationals Editor</li>
+            <li>2008 ACF Nationals Editor</li>
+            <li>2006 ACF Regionals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Seth Teitler</td>
-<td>
-<ul>
-<li>PhD, Astrophysics, University of Chicago</li>
-<li>Alumnus, University of California, Berkeley</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2009 ACF Fall Advisor</li>
-<li>2007 ACF Regionals Head Editor</li>
-<li>2005 ACF Fall Editor</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>Jerry Vinokurov</td>
-<td>
-<ul>
-<li>Alumnus, University of California, Berkeley</li>
-<li>PhD, Brown University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2015–2017 ACF Nationals Tournament Director</li>
-<li>Treasurer, 2010-15</li>
-<li>2014 ACF Nationals Head Editor</li>
-<li>2012 ACF Nationals Editor</li>
-<li>2011 ACF Nationals Head Editor / Tournament Director</li>
-<li>2010 ACF Regionals Head Editor</li>
-<li>2009 ACF Winter Head Editor</li>
-<li>2007 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Paul Litvak</td>
+    <td>
+        <ul>
+            <li>PhD, Behavioral Decision Making, Carnegie Mellon University</li>
+            <li>Alumnus, University of Michigan</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2004 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Andrew Wang</td>
-<td>
-<ul>
-<li>Alumnus, University of Illinois, Urbana-Champaign</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2020 ACF Winter Science Oversight</li>
-<li>2019 ACF Nationals Editor</li>
-<li>2018 ACF Nationals Editor</li>
-<li>2015 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Stephen Liu</td>
+    <td>
+        <ul>
+            <li>J.D., Stanford Law School</li>
+            <li>Alumnus, Harvard University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2024 ACF Nationals Editor</li>
+            <li>2022 ACF Nationals Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2015 ACF Regionals Editor</li>
+            <li>2013 ACF Fall Head Editor</li>
+            <li>2012 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Nathan Weiser</td>
-<td>
-<ul>
-<li>Alumnus, Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2018 ACF Fall Head Editor</li>
-<li>2017 ACF Regionals Editor</li>
-<li>2015 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Bruce Lou</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of California, Berkeley</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2019 ACF Regionals Editor</li>
+            <li>2017 ACF Fall Editor</li>
+            <li>2016 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Ryan Westbrook</td>
-<td>
-<ul>
-<li>J.D., Wayne State University Law School</li>
-<li>Alumnus, University of Michigan</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Nationals Co-Head Editor</li>
-<li>2018 ACF Nationals Editor</li>
-<li>2016 ACF Nationals Editor</li>
-<li>2015 ACF Nationals Head Editor</li>
-<li>2014 ACF Nationals Editor</li>
-<li>2010 ACF Nationals Editor</li>
-<li>2008 ACF Nationals Editor</li>
-<li>2007 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Sam Luongo</td>
+    <td>
+        <ul>
+            <li>Alum, Virginia Commonwealth University School of Education</li>
+            <li>Alum, University of Virginia</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Webmaster, 2018-19</li>
+            <li>Meeting Chair, 2017-18</li>
+            <li>2018 ACF Nationals Tournament Director</li>
+            <li>2015 ACF Regionals Editor and Logistics Coordinator</li>
+            <li>2011 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Dwight Wynne</td>
-<td>
-<ul>
-<li>PhD Candidate, Biomedical Engineering, University of California-Irvine</li>
-<li>Alumnus, University of California-Los Angeles</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Designer of A-value qualification system</li>
-<li>2011 ACF Regionals Editor</li>
-<li>2010 ACF Regionals Editor</li>
-<li>2009 ACF Nationals Editor</li>
-</ul>
-</td>
+    <td>Evan Lynch</td>
+    <td>
+        <ul>
+            <li>PhD Student, University of Southampton</li>
+            <li>Alumnus, University of Cambridge</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2020 ACF Regionals Logistics Support</li>
+            <li>2019 ACF Fall Logistics Support</li>
+            <li>2017 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Annabelle Yang</td>
-<td>
-<ul>
-<li>MD Candidate, Washington University in St. Louis</li>
-<li>Alumna, Duke University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2022 ACF Regionals Editor</li>
-<li>2021 ACF Regionals Editor</li>
-</ul>
-</td>
+    <td>Subash Maddipoti</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2004 ACF Fall Head Editor</li>
+            <li>2001 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Andrew Yaphe</td>
-<td>
-<ul>
-<li>J.D., Stanford University Law School</li>
-<li>University of Chicago</li>
-<li>Alumnus, University of Virginia</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2007 ACF Fall Head Editor</li>
-<li>2007 ACF Nationals Head Editor</li>
-<li>2006 ACF Nationals Head Editor</li>
-<li>2005 ACF Nationals Head Editor</li>
-<li>2005 ACF Regionals Head Editor</li>
-<li>2001 ACF Nationals Editor</li>
-<li>2000 ACF Regionals Head Editor</li>
-</ul>
-</td>
+    <td>Jonathan Magin</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2021 ACF Online Moderator Training</li>
+            <li>Meeting Chair, 2018</li>
+            <li>2017 ACF Fall Head Editor</li>
+            <li>2013 ACF Nationals Head Editor</li>
+            <li>2012 ACF Nationals Head Editor</li>
+            <li>2011 ACF Nationals Editor</li>
+            <li>2009 ACF Nationals Editor</li>
+            <li>2009 ACF Regionals Head Editor</li>
+            <li>2007 ACF Fall Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Jennie Yang</td>
-<td>
-<ul>
-<li>Alumna, Stanford University</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2021 ACF Nationals Editor</li>
-<li>2019 ACF Regionals Editor</li>
-<li>2017 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Wesley Matthews</td>
+    <td>
+        <ul>
+            <li>Alumnus, Indiana University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2008 ACF Nationals Editor</li>
+        </ul>
+    </td>
 </tr>
 
 <tr>
-<td>Richard Yu</td>
-<td>
-<ul>
-<li>Alumnus, Washington University in St. Louis</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>2017 ACF Fall Editor</li>
-<li>2015 ACF Fall Co-Head Editor</li>
-<li>2014 ACF Fall Editor</li>
-</ul>
-</td>
+    <td>Trygve Meade</td>
+    <td>
+        <ul>
+            <li>Alumnus, Southern Illinois University Law School</li>
+            <li>Alumnus, University of Illinois</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2010 ACF Regionals Editor</li>
+            <li>2009 ACF Winter Editor</li>
+        </ul>
+    </td>
 </tr>
+
+<tr>
+    <td>Ben Miller</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2020 ACF Fall Head Editor</li>
+            <li>2019 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Theresa Nyowheoma</td>
+    <td>
+        <ul>
+            <li>Alumna, New York University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Site Coordinator, 2021-22</li>
+            <li>2021 ACF Regionals Tournament Director</li>
+            <li>2020 ACF Fall Tournament Director</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Jason Paik</td>
+    <td>
+        <ul>
+            <li>MD/PhD, Cancer Biology, University of Alabama School of Medicine</li>
+            <li>Alumnus, Washington University in St. Louis</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2004 ACF Nationals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Jonathan Pinyan</td>
+    <td>
+    Alumnus, Washington University in St. Louis
+    </td>
+    <td>
+        <ul>
+            <li>2019 ACF Nationals Stats Director</li>
+            <li>2015 ACF Nationals Stats Director</li>
+            <li>2014 ACF Nationals Stats Director</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Chris Ray</td>
+    <td>
+        <ul>
+            <li>PhD Candidate, The Ohio State University</li>
+            <li>MA, University of Chicago</li>
+            <li>Alumnus, University of Maryland</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2016 ACF Regionals Editor</li>
+            <li>2013 ACF Regionals Head Editor</li>
+            <li>2010 ACF Regionals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Matt Reece</td>
+    <td>
+        <ul>
+            <li>PhD, Theoretical Physics, Cornell University</li>
+            <li>Alumnus, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2010 ACF Nationals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Max Schindler</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Chicago</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2016 ACF Regionals Editor</li>
+            <li>2014 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Mike Sorice</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Illinois</li>
+            <li>Alumnus, Eastern Illinois University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2013 ACF Nationals Editor</li>
+            <li>2006 ACF Regionals Head Editor</li>
+            <li>2005 ACF Regionals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Bernadette Spencer</td>
+    <td>
+        <ul>
+            <li>Alumna, University of Minnesota</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Nationals Travel Logistics</li>
+            <li>2021 ACF Nationals Travel Logistics</li>
+            <li>2019 ACF Nationals Travel Logistics</li>
+            <li>2018 ACF Nationals Travel Logistics</li>
+            <li>2017 ACF Nationals Travel Logistics</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Guy Tabachnick</td>
+    <td>
+        <ul>
+            <li>Alumnus, Brown University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2012 ACF Regionals Editor</li>
+            <li>2010 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Margaret Tebbe</td>
+    <td>
+        <ul>
+            <li>Alumna, University of Pennsylvania</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Site Coordinator, 2020-21</li>
+            <li>2019 ACF Nationals Host Logistics Contact</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Seth Teitler</td>
+    <td>
+        <ul>
+            <li>PhD, Astrophysics, University of Chicago</li>
+            <li>Alumnus, University of California, Berkeley</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2009 ACF Fall Advisor</li>
+            <li>2007 ACF Regionals Head Editor</li>
+            <li>2005 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Jerry Vinokurov</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of California, Berkeley</li>
+            <li>PhD, Brown University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2015–2017 ACF Nationals Tournament Director</li>
+            <li>Treasurer, 2010-15</li>
+            <li>2014 ACF Nationals Head Editor</li>
+            <li>2012 ACF Nationals Editor</li>
+            <li>2011 ACF Nationals Head Editor / Tournament Director</li>
+            <li>2010 ACF Regionals Head Editor</li>
+            <li>2009 ACF Winter Head Editor</li>
+            <li>2007 ACF Regionals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Andrew Wang</td>
+    <td>
+        <ul>
+            <li>Alumnus, University of Illinois, Urbana-Champaign</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2020 ACF Winter Science Oversight</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2015 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Nathan Weiser</td>
+    <td>
+        <ul>
+            <li>Alumnus, Stanford University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2018 ACF Fall Head Editor</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2015 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Ryan Westbrook</td>
+    <td>
+        <ul>
+            <li>J.D., Wayne State University Law School</li>
+            <li>Alumnus, University of Michigan</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2021 ACF Nationals Co-Head Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2016 ACF Nationals Editor</li>
+            <li>2015 ACF Nationals Head Editor</li>
+            <li>2014 ACF Nationals Editor</li>
+            <li>2010 ACF Nationals Editor</li>
+            <li>2008 ACF Nationals Editor</li>
+            <li>2007 ACF Regionals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Dwight Wynne</td>
+    <td>
+        <ul>
+            <li>PhD Candidate, Biomedical Engineering, University of California-Irvine</li>
+            <li>Alumnus, University of California-Los Angeles</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Designer of A-value qualification system</li>
+            <li>2011 ACF Regionals Editor</li>
+            <li>2010 ACF Regionals Editor</li>
+            <li>2009 ACF Nationals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Annabelle Yang</td>
+    <td>
+        <ul>
+            <li>MD Candidate, Washington University in St. Louis</li>
+            <li>Alumna, Duke University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Andrew Yaphe</td>
+    <td>
+        <ul>
+            <li>J.D., Stanford University Law School</li>
+            <li>University of Chicago</li>
+            <li>Alumnus, University of Virginia</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2007 ACF Fall Head Editor</li>
+            <li>2007 ACF Nationals Head Editor</li>
+            <li>2006 ACF Nationals Head Editor</li>
+            <li>2005 ACF Nationals Head Editor</li>
+            <li>2005 ACF Regionals Head Editor</li>
+            <li>2001 ACF Nationals Editor</li>
+            <li>2000 ACF Regionals Head Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Jennie Yang</td>
+    <td>
+        <ul>
+            <li>Alumna, Stanford University</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2021 ACF Nationals Editor</li>
+            <li>2019 ACF Regionals Editor</li>
+            <li>2017 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
+<tr>
+    <td>Richard Yu</td>
+    <td>
+        <ul>
+            <li>Alumnus, Washington University in St. Louis</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>2017 ACF Fall Editor</li>
+            <li>2015 ACF Fall Co-Head Editor</li>
+            <li>2014 ACF Fall Editor</li>
+        </ul>
+    </td>
+</tr>
+
 </tbody>
 </table>
-<!--gt table end-->
