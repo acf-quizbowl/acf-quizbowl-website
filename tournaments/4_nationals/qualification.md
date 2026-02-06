@@ -5,7 +5,7 @@ permalink: tournaments/nationals/qualification/
 redirect_from:
   - /nationals-qualification
   - /nationals/qualification
-last_updated: February 1, 2025
+last_updated: February 6, 2026
 ---
 
 # Table of Contents
@@ -38,7 +38,7 @@ Initial qualifying teams and teams on the waitlist will then be invited to join 
 
 ## Bid acceptance
 
-1. All teams that qualify by one of the above procedures must inform ACF of the acceptance of their bid by February 19, 2025. Note that “bid acceptance” is a completely separate process from actually submitting your optional packet—you may submit a packet before you have been officially offered a spot in the field in order to secure a larger discount, but you will only enter the field once you have accepted your bid. Furthermore, if you submit a packet before registering for the tournament and subsequently do not attend ACF Nationals, whether because you do not qualify or because you choose not to attend, that packet will be treated as a freelance submission; you may not use those questions for another future packet-submission tournament.
+1. All teams that qualify by one of the above procedures must inform ACF of the acceptance of their bid by the deadline stated in ACF's invite. Note that “bid acceptance” is a completely separate process from actually submitting an optional packet — a team may submit a packet before they have been officially offered a spot in the field (e.g., in order to secure a larger discount), but they will only enter the field once they have accepted their bid. Furthermore, if a team submits a packet before registering for the tournament and subsequently does not attend ACF Nationals, whether because they did not qualify or because they choose not to attend, that packet will be treated as a freelance submission; the team may not use those questions for another future packet-submission tournament.
 2. If the field does not fill once the bid acceptance deadline is reached, then all available bids will be awarded in order of descending A-value.
 
 ## Notes
