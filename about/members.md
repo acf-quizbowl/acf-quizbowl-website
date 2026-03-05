@@ -44,7 +44,7 @@ ACF’s officers also serve as ACF’s board of directors.
 | -------------------------- | ----------------------------- | ------------------------------ |
 | ACF Nationals Staffing     | ACF Nationals TD              | <staffing@acf-quizbowl.com>    |
 | Eligibility Committee      | Editor-in-Chief, Head Editors | <eligibility@acf-quizbowl.com> |
-| Misconduct Representatives | Ganon Evans, Caroline Mao     | <misconduct@acf-quizbowl.com>  |
+| Misconduct Representatives | Ganon Evans, John Nienajadlo  | <misconduct@acf-quizbowl.com>  |
 
 ## Full Members
 
@@ -71,8 +71,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Regionals Editor</li>
             <li>2022 ACF Nationals Editor</li>
+            <li>2024 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -86,9 +86,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Winter Head Editor</li>
-            <li>2022 ACF Winter Editor</li>
             <li>2021 ACF Winter Editor</li>
+            <li>2022 ACF Winter Editor</li>
+            <li>2023 ACF Winter Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -103,11 +103,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Tournament Director</li>
-            <li>2024 ACF Nationals Assistant Tournament Director</li>
-            <li>2023 ACF Nationals Assistant Tournament Director</li>
-            <li>2022 ACF Fall Tournament Director</li>
             <li>2021 ACF Winter Tournament Director</li>
+            <li>2022 ACF Fall Tournament Director</li>
+            <li>2023 ACF Nationals Assistant Tournament Director</li>
+            <li>2024 ACF Nationals Assistant Tournament Director</li>
+            <li>2025 ACF Nationals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -116,20 +116,20 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <td>Matt Bollinger</td>
     <td>
         <ul>
-            <li>Georgia Institute of Technology</li>
+            <li>Alumnus, Georgia Institute of Technology</li>
             <li>Alumnus, University of Virginia</li>
         </ul>
     </td>
     <td>
         <ul>
-            <li>Editor-in-Chief, 2023-24</li>
-            <li>2021 ACF Nationals Co-Head Editor</li>
-            <li>Editor-in-Chief, 2020-21</li>
-            <li>Communications Officer, 2019-20</li>
-            <li>2019 ACF Nationals Editor</li>
-            <li>2017 ACF Nationals Head Editor</li>
-            <li>2012 ACF Fall Head Editor</li>
             <li>2011 ACF Fall Editor</li>
+            <li>2012 ACF Fall Head Editor</li>
+            <li>2017 ACF Nationals Head Editor</li>
+            <li>2019-2020, Communications Officer</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2020-2021, Editor-in-Chief</li>
+            <li>2021 ACF Nationals Co-Head Editor</li>
+            <li>2023-2024, Editor-in-Chief</li>
         </ul>
     </td>
 </tr>
@@ -143,13 +143,13 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Editor</li>
+            <li>2014 ACF Fall Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2020 ACF Regionals Editor</li>
             <li>2021 ACF Nationals Editor</li>
             <li>2021 ACF Regionals Editor</li>
-            <li>2020 ACF Regionals Editor</li>
-            <li>2019 ACF Nationals Editor</li>
-            <li>2018 ACF Nationals Editor</li>
-            <li>2014 ACF Fall Editor</li>
+            <li>2024 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -163,8 +163,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Fall Editor</li>
             <li>2023 ACF Fall Editor</li>
+            <li>2024 ACF Fall Editor</li>
         </ul>
     </td>
 </tr>
@@ -178,8 +178,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Winter Editor</li>
             <li>2022 ACF Fall Editor</li>
+            <li>2023 ACF Winter Editor</li>
         </ul>
     </td>
 </tr>
@@ -193,8 +193,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
             <li>2024 ACF Regionals Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -209,11 +209,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>President, 2020-21</li>
-            <li>Site Coordinator, 2019-20</li>
-            <li>Treasurer, 2018-19</li>
-            <li>2019 ACF Nationals Editor</li>
+            <li>2018-2019, Treasurer</li>
             <li>2018 ACF Nationals Logistics</li>
+            <li>2019-2020, Site Coordinator</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2020-2021, President</li>
         </ul>
     </td>
 </tr>
@@ -227,9 +227,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>Communications Officer, 2023-24</li>
-            <li>2023 ACF Nationals Liveblogging/On-site Communications Coordinator</li>
             <li>2022 ACF Nationals Assistant Tournament Director</li>
+            <li>2023-2024, Communications Officer</li>
+            <li>2023 ACF Nationals Liveblogging/On-site Communications Coordinator</li>
         </ul>
     </td>
 </tr>
@@ -244,8 +244,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2021 ACF Fall Editor and Oversight</li>
             <li>2020 ACF Fall Editor</li>
+            <li>2021 ACF Fall Editor and Oversight</li>
         </ul>
     </td>
 </tr>
@@ -259,9 +259,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Assistant Tournament Director</li>
-            <li>2023 ACF Winter Editor</li>
             <li>2021 ACF Fall Logistics</li>
+            <li>2023 ACF Winter Editor</li>
+            <li>2024 ACF Nationals Assistant Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -275,14 +275,15 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
-            <li>President, 2023-24</li>
-            <li>2023 ACF Nationals Editor</li>
-            <li>Treasurer, 2021-23</li>
-            <li>2022 ACF Regionals Editor</li>
-            <li>2021 ACF Nationals Qualifier Tournament Director</li>
-            <li>2020 ACF Winter Editor</li>
             <li>2019 ACF Fall Editor</li>
+            <li>2020 ACF Winter Editor</li>
+            <li>2021-2023, Treasurer</li>
+            <li>2021 ACF Nationals Qualifier Tournament Director</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2022-Present, Misconduct Representative</li>
+            <li>2023-2024, President</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2025 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -296,8 +297,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Winter Editor</li>
             <li>2023 ACF Winter Editor</li>
+            <li>2024 ACF Winter Editor</li>
         </ul>
     </td>
 </tr>
@@ -312,8 +313,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Regionals Head Editor</li>
             <li>2022 ACF Winter Editor</li>
+            <li>2024 ACF Regionals Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -327,9 +328,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
-            <li>2020 ACF Fall Editor</li>
             <li>2019 ACF Fall Editor</li>
+            <li>2020 ACF Fall Editor</li>
+            <li>2025 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -343,8 +344,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Editor</li>
             <li>2020 ACF Winter Head Editor</li>
+            <li>2023 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -358,10 +359,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Fall Head Editor</li>
-            <li>2023 ACF Regionals Editor</li>
-            <li>2022 ACF Regionals Editor</li>
             <li>2020 ACF Fall Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2024 ACF Fall Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -376,16 +377,16 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>Carper Committee Chair, 2019-present</li>
-            <li>2021 ACF Nationals Editor</li>
-            <li>2019 ACF Nationals Editor</li>
-            <li>2018 ACF Nationals Head Editor</li>
-            <li>2017 ACF Regionals Head Editor</li>
-            <li>Meeting Chair, 2010-15</li>
-            <li>2013 ACF Fall Editor</li>
-            <li>2010 ACF Winter Head Editor</li>
-            <li>2008 ACF Fall Head Editor</li>
             <li>2007 ACF Fall Editor</li>
+            <li>2008 ACF Fall Head Editor</li>
+            <li>2010-2015, Meeting Chair</li>
+            <li>2010 ACF Winter Head Editor</li>
+            <li>2013 ACF Fall Editor</li>
+            <li>2017 ACF Regionals Head Editor</li>
+            <li>2018 ACF Nationals Head Editor</li>
+            <li>2019-present, Carper Committee Chair</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2021 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -399,11 +400,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
-            <li>2023 ACF Nationals Head Editor</li>
-            <li>Editor-in-Chief, 2021-22</li>
-            <li>2022 ACF Regionals Head Editor</li>
             <li>2020 ACF Regionals Editor</li>
+            <li>2021-2022, Editor-in-Chief</li>
+            <li>2022 ACF Regionals Head Editor</li>
+            <li>2023 ACF Nationals Head Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -418,14 +419,14 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Head Editor</li>
-            <li>2023 ACF Regionals Head Editor</li>
-            <li>Editor-in-Chief, 2022-23</li>
-            <li>2023 ACF Regionals Head Editor</li>
-            <li>2022 ACF Regionals Editor</li>
-            <li>2021 ACF Winter Editor</li>
             <li>2020 ACF Winter Editor</li>
             <li>2020 ACF Regionals Editor</li>
+            <li>2021 ACF Winter Editor</li>
+            <li>2022-2023, Editor-in-Chief</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2023 ACF Regionals Head Editor</li>
+            <li>2023 ACF Regionals Head Editor</li>
+            <li>2024 ACF Nationals Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -439,10 +440,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>Site Coordinator, 2024-25</li>
+            <li>2023 ACF Fall Editor</li>
+            <li>2024-2025, Site Coordinator</li>
             <li>2024 ACF Fall Editor</li>
             <li>2024 ACF Nationals Site Logistics</li>
-            <li>2023 ACF Fall Editor</li>
         </ul>
     </td>
 </tr>
@@ -457,8 +458,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Editor</li>
             <li>2021 ACF Regionals Editor</li>
+            <li>2023 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -472,13 +473,13 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Tournament Director</li>
-            <li>2023 ACF Nationals Editor</li>
-            <li>President, 2022-23</li>
-            <li>2022 ACF Nationals Tournament Director</li>
+            <li>2020 ACF Fall and Regionals Site Tournament Director</li>
             <li>2021 Interim Site Coordinator</li>
             <li>2021 ACF Regionals Editor</li>
-            <li>2020 ACF Fall and Regionals Site Tournament Director</li>
+            <li>2022-2023, President</li>
+            <li>2022 ACF Nationals Tournament Director</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2024 ACF Nationals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -492,11 +493,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
-            <li>Webmaster, 2024-25</li>
-            <li>2023 ACF Regionals Editor</li>
-            <li>2019 ACF Fall Head Editor</li>
             <li>2018 ACF Fall Editor</li>
+            <li>2019 ACF Fall Head Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2024-2025, Webmaster</li>
+            <li>2025 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -510,10 +511,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>President, 2024-25</li>
-            <li>Treasurer, 2020-21</li>
-            <li>2020 ACF Regionals Head Editor</li>
             <li>2019 ACF Nationals Editor</li>
+            <li>2020-2021, Treasurer</li>
+            <li>2020 ACF Regionals Head Editor</li>
+            <li>2024-2025, President</li>
         </ul>
     </td>
 </tr>
@@ -527,9 +528,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Editor</li>
-            <li>2022 ACF Winter Head Editor</li>
             <li>2021 ACF Winter Editor</li>
+            <li>2022 ACF Winter Head Editor</li>
+            <li>2024 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -544,14 +545,14 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Head Editor</li>
-            <li>2022 ACF Nationals Head Editor</li>
-            <li>2021 ACF Nationals Qualifier Head Editor</li>
-            <li>2016 ACF Regionals Head Editor</li>
+            <li>2010 ACF Fall Editor</li>
+            <li>2012 ACF Regionals Editor</li>
             <li>2013 ACF Regionals Editor</li>
             <li>2013 ACF Fall Editor</li>
-            <li>2012 ACF Regionals Editor</li>
-            <li>2010 ACF Fall Editor</li>
+            <li>2016 ACF Regionals Head Editor</li>
+            <li>2021 ACF Nationals Qualifier Head Editor</li>
+            <li>2022 ACF Nationals Head Editor</li>
+            <li>2025 ACF Nationals Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -580,10 +581,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Logistics</li>
-            <li>2022 ACF Fall Proofreading</li>
-            <li>2021 ACF Fall Head Editor</li>
             <li>2019 ACF Fall Editor</li>
+            <li>2021 ACF Fall Head Editor</li>
+            <li>2022 ACF Fall Proofreading</li>
+            <li>2023 ACF Nationals Logistics</li>
         </ul>
     </td>
 </tr>
@@ -597,12 +598,12 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Regionals Proofreading</li>
-            <li>Webmaster, 2021-22</li>
-            <li>2020 ACF Regionals Oversight, Logistics, and Advanced Stats</li>
+            <li>2018 ACF Regionals Logistics and Advanced Stats</li>
             <li>2019 ACF Fall Proofreading and Packetizing</li>
             <li>2019 ACF Regionals Logistics and Advanced Stats</li>
-            <li>2018 ACF Regionals Logistics and Advanced Stats</li>
+            <li>2020 ACF Regionals Oversight, Logistics, and Advanced Stats</li>
+            <li>2021-2022, Webmaster</li>
+            <li>2023 ACF Regionals Proofreading</li>
         </ul>
     </td>
 </tr>
@@ -616,8 +617,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2022 ACF Fall Co-Head Editor</li>
             <li>2021 ACF Winter Editor</li>
+            <li>2022 ACF Fall Co-Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -631,11 +632,12 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Editor</li>
-            <li>Webmaster, 2022-24</li>
-            <li>2021-23 ACF Nationals Program Designer</li>
-            <li>Communications Officer, 2020-21</li>
             <li>2019 ACF Fall Editor</li>
+            <li>2020-2021, Communications Officer</li>
+            <li>2021-23 ACF Nationals Program Designer</li>
+            <li>2022-2024, Webmaster</li>
+            <li>2022-2025, Misconduct Representative</li>
+            <li>2023 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -650,8 +652,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Regionals Editor</li>
             <li>2021 ACF Fall Editor</li>
+            <li>2024 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -665,10 +667,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
-            <li>2023 ACF Regionals Editor</li>
             <li>2021 ACF Winter Head Editor</li>
             <li>2021 ACF Regionals Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -683,13 +685,13 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>Editor-in-Chief, 2024-25</li>
-            <li>2023 ACF Winter Editor</li>
+            <li>2009 ACF Regionals Editor</li>
+            <li>2010 ACF Winter Editor</li>
+            <li>2021 ACF Nationals Editor</li>
             <li>2022 ACF Winter Editor</li>
             <li>2022 ACF Nationals Editor</li>
-            <li>2021 ACF Nationals Editor</li>
-            <li>2010 ACF Winter Editor</li>
-            <li>2009 ACF Regionals Editor</li>
+            <li>2023 ACF Winter Editor</li>
+            <li>2024-2025, Editor-in-Chief</li>
         </ul>
     </td>
 </tr>
@@ -703,9 +705,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
+            <li>2020 ACF Fall Editor</li>
             <li>2022 ACF Fall Co-Head Editor</li>
             <li>2022 ACF Regionals Editor</li>
-            <li>2020 ACF Fall Editor</li>
         </ul>
     </td>
 </tr>
@@ -720,10 +722,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Editor</li>
-            <li>2019 ACF Regionals Head Editor</li>
-            <li>2014 ACF Regionals Editor</li>
             <li>2009 ACF Fall Editor</li>
+            <li>2014 ACF Regionals Editor</li>
+            <li>2019 ACF Regionals Head Editor</li>
+            <li>2023 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -737,10 +739,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>Treasurer, 2023-25</li>
-            <li>Site Coordinator, 2022-23</li>
-            <li>2022 ACF Regionals Tournament Director</li>
             <li>2021 ACF Winter Tournament Director</li>
+            <li>2022-2023, Site Coordinator</li>
+            <li>2022 ACF Regionals Tournament Director</li>
+            <li>2023-2025, Treasurer</li>
+            <li>2025-Present, Misconduct Representative</li>
         </ul>
     </td>
 </tr>
@@ -754,8 +757,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Winter Editor</li>
             <li>2023 ACF Fall Editor</li>
+            <li>2024 ACF Winter Editor</li>
         </ul>
     </td>
 </tr>
@@ -769,9 +772,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
-            <li>2022 ACF Winter Editor</li>
             <li>2021 ACF Regionals Editor</li>
+            <li>2022 ACF Winter Editor</li>
+            <li>2025 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -785,10 +788,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
             <li>2023 ACF Nationals Editor</li>
             <li>2023 ACF Regionals Editor</li>
-            <li>2022 ACF Regionals Editor</li>
+            <li>2024 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -802,8 +805,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Co-Head Editor</li>
             <li>2022 ACF Winter Editor</li>
+            <li>2025 ACF Regionals Co-Head Editor</li>
+            <li>2025-2026, Webmaster</li>
         </ul>
     </td>
 </tr>
@@ -818,9 +822,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2021 ACF Regionals Editor</li>
-            <li>2020 ACF Regionals Editor</li>
             <li>2018 ACF Fall Editor</li>
+            <li>2020 ACF Regionals Editor</li>
+            <li>2021 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -834,9 +838,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Regionals Editor</li>
-            <li>2022 ACF Regionals Editor</li>
             <li>2019 ACF Regionals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
+            <li>2023 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -850,13 +854,13 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Tournament Director</li>
-            <li>President, 2021-22</li>
-            <li>Webmaster, 2019-21</li>
-            <li>2019 ACF Nationals Tournament Director</li>
-            <li>2018 ACF Nationals Assistant Tournament Director</li>
-            <li>2017 ACF Fall Editor</li>
             <li>2015 ACF Fall Editor</li>
+            <li>2017 ACF Fall Editor</li>
+            <li>2018 ACF Nationals Assistant Tournament Director</li>
+            <li>2019-2021, Webmaster</li>
+            <li>2019 ACF Nationals Tournament Director</li>
+            <li>2021-2022, President</li>
+            <li>2023 ACF Nationals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -870,8 +874,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
             <li>2024 ACF Fall Editor</li>
+            <li>2025 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -885,9 +889,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Editor</li>
-            <li>2023 ACF Nationals Editor</li>
             <li>2022 ACF Regionals Editor</li>
+            <li>2023 ACF Nationals Editor</li>
+            <li>2024 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -901,8 +905,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2022 ACF Fall Proofreader</li>
             <li>2020 ACF Winter Editor</li>
+            <li>2022 ACF Fall Proofreader</li>
         </ul>
     </td>
 </tr>
@@ -916,8 +920,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
             <li>2024 ACF Regionals Editor</li>
+            <li>2025 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -931,8 +935,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
             <li>2024 ACF Regionals Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -947,11 +951,11 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Editor</li>
-            <li>2022 ACF Nationals Editor</li>
-            <li>2017 ACF Regionals Editor</li>
-            <li>2014 ACF Regionals Editor</li>
             <li>2013 ACF Fall Editor</li>
+            <li>2014 ACF Regionals Editor</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2022 ACF Nationals Editor</li>
+            <li>2023 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -966,10 +970,10 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2024 ACF Winter Head Editor</li>
-            <li>2023 ACF Regionals Editor</li>
-            <li>2021 ACF Winter Editor</li>
             <li>2020 ACF Winter Editor</li>
+            <li>2021 ACF Winter Editor</li>
+            <li>2023 ACF Regionals Editor</li>
+            <li>2024 ACF Winter Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -983,8 +987,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2022 ACF Fall Editor</li>
             <li>2021 ACF Fall Editor</li>
+            <li>2022 ACF Fall Editor</li>
         </ul>
     </td>
 </tr>
@@ -998,7 +1002,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>Communications Officer, 2024-25</li>
+            <li>2024-2025, Communications Officer</li>
             <li>2024 ACF Nationals Social Media</li>
         </ul>
     </td>
@@ -1013,12 +1017,12 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2021 ACF Nationals Tournament Director</li>
-            <li>Treasurer, 2019-20</li>
-            <li>2017 ACF Regionals Editor</li>
-            <li>2016 ACF Nationals Stats Director</li>
-            <li>2015 ACF Nationals Assistant Tournament Director</li>
             <li>2013 ACF Regionals Editor</li>
+            <li>2015 ACF Nationals Assistant Tournament Director</li>
+            <li>2016 ACF Nationals Stats Director</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2019-2020, Treasurer</li>
+            <li>2021 ACF Nationals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -1033,8 +1037,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2022 ACF Regionals Editor</li>
             <li>2020 ACF Winter Editor</li>
+            <li>2022 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1048,8 +1052,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2023 ACF Nationals Live Stats</li>
             <li>2022 ACF Regionals Nationals Live Stats</li>
+            <li>2023 ACF Nationals Live Stats</li>
         </ul>
     </td>
 </tr>
@@ -1063,8 +1067,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
             <li>2023 ACF Winter Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1097,9 +1101,9 @@ Provisional members are community members who have ably assisted ACF in the past
     </td>
     <td>
         <ul>
-            <li>Site Coordinator, 2023-24</li>
-            <li>2023 ACF Regionals Tournament Director</li>
             <li>2022 ACF Fall Tournament Director</li>
+            <li>2023-2024, Site Coordinator</li>
+            <li>2023 ACF Regionals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -1198,8 +1202,8 @@ Provisional members are community members who have ably assisted ACF in the past
     </td>
     <td>
         <ul>
-            <li>2023 ACF Fall Head Editor</li>
             <li>2022 ACF Fall Editor</li>
+            <li>2023 ACF Fall Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -1241,8 +1245,8 @@ Provisional members are community members who have ably assisted ACF in the past
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
             <li>2022 ACF Winter Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1285,8 +1289,8 @@ Provisional members are community members who have ably assisted ACF in the past
     </td>
     <td>
         <ul>
-            <li>2025 ACF Regionals Editor</li>
             <li>2023 ACF Winter Editor</li>
+            <li>2025 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1334,15 +1338,10 @@ Provisional members are community members who have ably assisted ACF in the past
     <td>Joel Miles</td>
     <td>
         <ul>
-            <li> </li>
+            <li></li>
         </ul>
     </td>
-    <td>
-        <ul>
-            <li>2023 ACF Winter Editor</li>
-        </ul>
-    </td>
-</tr>
+
 
 <tr>
     <td>Aum Mundhe</td>
@@ -1479,7 +1478,7 @@ Provisional members are community members who have ably assisted ACF in the past
     </td>
     <td>
         <ul>
-            <li> </li>
+            <li></li>
         </ul>
     </td>
 </tr>
@@ -1526,10 +1525,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2017 ACF Nationals Editor</li>
-            <li>2014 ACF Regionals Head Editor</li>
-            <li>2010 ACF Fall Head Editor</li>
             <li>2009 ACF Fall Editor</li>
+            <li>2010 ACF Fall Head Editor</li>
+            <li>2014 ACF Regionals Head Editor</li>
+            <li>2017 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1544,9 +1543,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2013 ACF Nationals Editor</li>
-            <li>2012 ACF Nationals Editor</li>
             <li>2011 ACF Nationals Contributor</li>
+            <li>2012 ACF Nationals Editor</li>
+            <li>2013 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1562,9 +1561,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2010 ACF Nationals Head Editor</li>
-            <li>2004 ACF Nationals Head Editor</li>
             <li>2002 ACF Regionals Head Editor</li>
+            <li>2004 ACF Nationals Head Editor</li>
+            <li>2010 ACF Nationals Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -1579,11 +1578,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>President, 2019-20</li>
-            <li>2020 ACF Regionals Science Oversight</li>
-            <li>Meeting Chair, 2018-19</li>
-            <li>2016 ACF Nationals Editor</li>
             <li>2015 ACF Nationals Editor</li>
+            <li>2016 ACF Nationals Editor</li>
+            <li>2018-2019, Meeting Chair</li>
+            <li>2019-2020, President</li>
+            <li>2020 ACF Regionals Science Oversight</li>
         </ul>
     </td>
 </tr>
@@ -1598,8 +1597,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2012 ACF Regionals Editor</li>
             <li>2010 ACF Fall Editor</li>
+            <li>2012 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1613,15 +1612,15 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Nationals Staff Coordinator, 2019-22</li>
-            <li>2019 ACF Regionals Editor</li>
-            <li>2018 ACF Nationals Logistics</li>
-            <li>2016 ACF Nationals Co-Head Editor</li>
-            <li>2015 ACF Nationals Editor</li>
-            <li>2013 ACF Regionals Editor</li>
-            <li>2011 ACF Regionals Head Editor</li>
-            <li>2010 ACF Winter Editor</li>
             <li>2008 ACF Fall Editor</li>
+            <li>2010 ACF Winter Editor</li>
+            <li>2011 ACF Regionals Head Editor</li>
+            <li>2013 ACF Regionals Editor</li>
+            <li>2015 ACF Nationals Editor</li>
+            <li>2016 ACF Nationals Co-Head Editor</li>
+            <li>2018 ACF Nationals Logistics</li>
+            <li>2019-2022, Nationals Staff Coordinator</li>
+            <li>2019 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1636,8 +1635,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2017 ACF Nationals Editor</li>
             <li>2015 ACF Regionals Editor</li>
+            <li>2017 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1652,10 +1651,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2015 ACF Regionals Editor</li>
-            <li>2012 ACF Regionals Head Editor</li>
-            <li>2010 ACF Winter Editor</li>
             <li>2008 ACF Fall Editor</li>
+            <li>2010 ACF Winter Editor</li>
+            <li>2012 ACF Regionals Head Editor</li>
+            <li>2015 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1670,11 +1669,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2022 ACF Nationals Editor</li>
-            <li>2021 ACF Regionals Editor</li>
-            <li>2018 ACF Regionals Editor</li>
-            <li>Communications Officer, 2014-17</li>
             <li>2013 ACF Fall Editor</li>
+            <li>2014-2017, Communications Officer</li>
+            <li>2018 ACF Regionals Editor</li>
+            <li>2021 ACF Regionals Editor</li>
+            <li>2022 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1689,9 +1688,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Treasurer, 2019-19</li>
-            <li>2019 ACF Nationals Stats Director</li>
             <li>2018 ACF Nationals Stats Director</li>
+            <li>2019-2019, Treasurer</li>
+            <li>2019 ACF Nationals Stats Director</li>
         </ul>
     </td>
 </tr>
@@ -1706,10 +1705,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Communications Officer, 2011-14</li>
-            <li>2012 ACF Nationals Editor</li>
-            <li>2011 ACF Nationals Editor</li>
             <li>2010 ACF Nationals Editor</li>
+            <li>2011-2014, Communications Officer</li>
+            <li>2011 ACF Nationals Editor</li>
+            <li>2012 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1723,11 +1722,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2018 ACF Nationals Proofreader</li>
-            <li>2017 ACF Regionals Proofreader</li>
-            <li>2014 ACF Regionals Editor</li>
-            <li>2011 ACF Fall Head Editor</li>
             <li>2010 ACF Fall Editor</li>
+            <li>2011 ACF Fall Head Editor</li>
+            <li>2014 ACF Regionals Editor</li>
+            <li>2017 ACF Regionals Proofreader</li>
+            <li>2018 ACF Nationals Proofreader</li>
         </ul>
     </td>
 </tr>
@@ -1741,10 +1740,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2014 ACF Nationals Editor</li>
-            <li>2011 ACF Regionals Editor</li>
-            <li>2010 ACF Regionals Editor</li>
             <li>2008 ACF Fall Editor</li>
+            <li>2010 ACF Regionals Editor</li>
+            <li>2011 ACF Regionals Editor</li>
+            <li>2014 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1760,9 +1759,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2001 ACF Nationals Editor</li>
-            <li>2000 ACF Nationals Editor</li>
             <li>1999 ACF Regionals Editor</li>
+            <li>2000 ACF Nationals Editor</li>
+            <li>2001 ACF Nationals Editor</li>
             <li>Co-founder</li>
         </ul>
     </td>
@@ -1777,8 +1776,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2019 ACF Regionals Editor</li>
             <li>2018 ACF Regionals Editor</li>
+            <li>2019 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1808,12 +1807,12 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2025 ACF Nationals Editor</li>
-            <li>2022 ACF Nationals High-Volume Writer</li>
-            <li>Lead writer, August 2016 ACF rules revision</li>
+            <li>2014 ACF Regionals Editor</li>
             <li>2015 ACF Nationals Assistant Tournament Director</li>
             <li>2015 ACF Regionals Head Editor</li>
-            <li>2014 ACF Regionals Editor</li>
+            <li>2022 ACF Nationals High-Volume Writer</li>
+            <li>2025 ACF Nationals Editor</li>
+            <li>Lead writer, August 2016 ACF rules revision</li>
         </ul>
     </td>
 </tr>
@@ -1827,9 +1826,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2010 ACF Winter Editor</li>
-            <li>2009 ACF Winter Editor</li>
             <li>2007 ACF Fall Editor</li>
+            <li>2009 ACF Winter Editor</li>
+            <li>2010 ACF Winter Editor</li>
         </ul>
     </td>
 </tr>
@@ -1844,10 +1843,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2016 ACF Fall Head Editor</li>
-            <li>2015 ACF Fall Co-Head Editor</li>
-            <li>2014 ACF Fall Co-Head Editor</li>
             <li>2011 ACF Fall Editor</li>
+            <li>2014 ACF Fall Co-Head Editor</li>
+            <li>2015 ACF Fall Co-Head Editor</li>
+            <li>2016 ACF Fall Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -1861,10 +1860,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Treasurer, 2015-17</li>
-            <li>2014 ACF Fall Co-Head Editor</li>
-            <li>2009 ACF Fall Head Editor</li>
             <li>2008 ACF Fall Editor</li>
+            <li>2009 ACF Fall Head Editor</li>
+            <li>2014 ACF Fall Co-Head Editor</li>
+            <li>2015-2017, Treasurer</li>
         </ul>
     </td>
 </tr>
@@ -1878,8 +1877,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2008 ACF Regionals Editor</li>
             <li>2006 ACF Fall Editor</li>
+            <li>2008 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1893,9 +1892,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Editor</li>
-            <li>2016 ACF Fall Editor</li>
             <li>2015 ACF Fall Editor</li>
+            <li>2016 ACF Fall Editor</li>
+            <li>2024 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1909,9 +1908,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2009 ACF Nationals Editor</li>
-            <li>2008 ACF Nationals Editor</li>
             <li>2006 ACF Regionals Editor</li>
+            <li>2008 ACF Nationals Editor</li>
+            <li>2009 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1941,13 +1940,13 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2024 ACF Nationals Editor</li>
-            <li>2022 ACF Nationals Editor</li>
-            <li>2018 ACF Nationals Editor</li>
-            <li>2017 ACF Regionals Editor</li>
-            <li>2015 ACF Regionals Editor</li>
-            <li>2013 ACF Fall Head Editor</li>
             <li>2012 ACF Fall Editor</li>
+            <li>2013 ACF Fall Head Editor</li>
+            <li>2015 ACF Regionals Editor</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2022 ACF Nationals Editor</li>
+            <li>2024 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1961,9 +1960,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2019 ACF Regionals Editor</li>
-            <li>2017 ACF Fall Editor</li>
             <li>2016 ACF Fall Editor</li>
+            <li>2017 ACF Fall Editor</li>
+            <li>2019 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -1978,11 +1977,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Webmaster, 2018-19</li>
-            <li>Meeting Chair, 2017-18</li>
-            <li>2018 ACF Nationals Tournament Director</li>
-            <li>2015 ACF Regionals Editor and Logistics Coordinator</li>
             <li>2011 ACF Fall Editor</li>
+            <li>2015 ACF Regionals Editor and Logistics Coordinator</li>
+            <li>2017-2018, Meeting Chair</li>
+            <li>2018-2019, Webmaster</li>
+            <li>2018 ACF Nationals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -1997,9 +1996,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2020 ACF Regionals Logistics Support</li>
-            <li>2019 ACF Fall Logistics Support</li>
             <li>2017 ACF Fall Editor</li>
+            <li>2019 ACF Fall Logistics Support</li>
+            <li>2020 ACF Regionals Logistics Support</li>
         </ul>
     </td>
 </tr>
@@ -2013,8 +2012,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2004 ACF Fall Head Editor</li>
             <li>2001 ACF Nationals Editor</li>
+            <li>2004 ACF Fall Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -2028,15 +2027,15 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2021 ACF Online Moderator Training</li>
-            <li>Meeting Chair, 2018</li>
-            <li>2017 ACF Fall Head Editor</li>
-            <li>2013 ACF Nationals Head Editor</li>
-            <li>2012 ACF Nationals Head Editor</li>
-            <li>2011 ACF Nationals Editor</li>
+            <li>2007 ACF Fall Editor</li>
             <li>2009 ACF Nationals Editor</li>
             <li>2009 ACF Regionals Head Editor</li>
-            <li>2007 ACF Fall Editor</li>
+            <li>2011 ACF Nationals Editor</li>
+            <li>2012 ACF Nationals Head Editor</li>
+            <li>2013 ACF Nationals Head Editor</li>
+            <li>2017 ACF Fall Head Editor</li>
+            <li>2018, Meeting Chair</li>
+            <li>2021 ACF Online Moderator Training</li>
         </ul>
     </td>
 </tr>
@@ -2065,8 +2064,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2010 ACF Regionals Editor</li>
             <li>2009 ACF Winter Editor</li>
+            <li>2010 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -2080,8 +2079,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2020 ACF Fall Head Editor</li>
             <li>2019 ACF Fall Editor</li>
+            <li>2020 ACF Fall Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -2095,9 +2094,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Site Coordinator, 2021-22</li>
-            <li>2021 ACF Regionals Tournament Director</li>
             <li>2020 ACF Fall Tournament Director</li>
+            <li>2021-2022, Site Coordinator</li>
+            <li>2021 ACF Regionals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -2140,14 +2139,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
             <li>Alumnus, University of Maryland</li>
         </ul>
     </td>
-    <td>
-        <ul>
-            <li>2016 ACF Regionals Editor</li>
-            <li>2013 ACF Regionals Head Editor</li>
-            <li>2010 ACF Regionals Editor</li>
-        </ul>
-    </td>
-</tr>
+
 
 <tr>
     <td>Matt Reece</td>
@@ -2173,8 +2165,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2016 ACF Regionals Editor</li>
             <li>2014 ACF Fall Editor</li>
+            <li>2016 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -2189,9 +2181,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2013 ACF Nationals Editor</li>
-            <li>2006 ACF Regionals Head Editor</li>
             <li>2005 ACF Regionals Editor</li>
+            <li>2006 ACF Regionals Head Editor</li>
+            <li>2013 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -2205,11 +2197,11 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2022 ACF Nationals Travel Logistics</li>
-            <li>2021 ACF Nationals Travel Logistics</li>
-            <li>2019 ACF Nationals Travel Logistics</li>
-            <li>2018 ACF Nationals Travel Logistics</li>
             <li>2017 ACF Nationals Travel Logistics</li>
+            <li>2018 ACF Nationals Travel Logistics</li>
+            <li>2019 ACF Nationals Travel Logistics</li>
+            <li>2021 ACF Nationals Travel Logistics</li>
+            <li>2022 ACF Nationals Travel Logistics</li>
         </ul>
     </td>
 </tr>
@@ -2223,8 +2215,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2012 ACF Regionals Editor</li>
             <li>2010 ACF Fall Editor</li>
+            <li>2012 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -2238,8 +2230,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Site Coordinator, 2020-21</li>
             <li>2019 ACF Nationals Host Logistics Contact</li>
+            <li>2020-2021, Site Coordinator</li>
         </ul>
     </td>
 </tr>
@@ -2254,9 +2246,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2009 ACF Fall Advisor</li>
-            <li>2007 ACF Regionals Head Editor</li>
             <li>2005 ACF Fall Editor</li>
+            <li>2007 ACF Regionals Head Editor</li>
+            <li>2009 ACF Fall Advisor</li>
         </ul>
     </td>
 </tr>
@@ -2271,14 +2263,14 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2015–2017 ACF Nationals Tournament Director</li>
-            <li>Treasurer, 2010-15</li>
-            <li>2014 ACF Nationals Head Editor</li>
-            <li>2012 ACF Nationals Editor</li>
-            <li>2011 ACF Nationals Head Editor / Tournament Director</li>
-            <li>2010 ACF Regionals Head Editor</li>
-            <li>2009 ACF Winter Head Editor</li>
             <li>2007 ACF Regionals Editor</li>
+            <li>2009 ACF Winter Head Editor</li>
+            <li>2010-2015, Treasurer</li>
+            <li>2010 ACF Regionals Head Editor</li>
+            <li>2011 ACF Nationals Head Editor / Tournament Director</li>
+            <li>2012 ACF Nationals Editor</li>
+            <li>2014 ACF Nationals Head Editor</li>
+            <li>2015–2017 ACF Nationals Tournament Director</li>
         </ul>
     </td>
 </tr>
@@ -2292,10 +2284,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2020 ACF Winter Science Oversight</li>
-            <li>2019 ACF Nationals Editor</li>
-            <li>2018 ACF Nationals Editor</li>
             <li>2015 ACF Fall Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2019 ACF Nationals Editor</li>
+            <li>2020 ACF Winter Science Oversight</li>
         </ul>
     </td>
 </tr>
@@ -2309,9 +2301,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2018 ACF Fall Head Editor</li>
-            <li>2017 ACF Regionals Editor</li>
             <li>2015 ACF Fall Editor</li>
+            <li>2017 ACF Regionals Editor</li>
+            <li>2018 ACF Fall Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -2326,14 +2318,14 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2021 ACF Nationals Co-Head Editor</li>
-            <li>2018 ACF Nationals Editor</li>
-            <li>2016 ACF Nationals Editor</li>
-            <li>2015 ACF Nationals Head Editor</li>
-            <li>2014 ACF Nationals Editor</li>
-            <li>2010 ACF Nationals Editor</li>
-            <li>2008 ACF Nationals Editor</li>
             <li>2007 ACF Regionals Editor</li>
+            <li>2008 ACF Nationals Editor</li>
+            <li>2010 ACF Nationals Editor</li>
+            <li>2014 ACF Nationals Editor</li>
+            <li>2015 ACF Nationals Head Editor</li>
+            <li>2016 ACF Nationals Editor</li>
+            <li>2018 ACF Nationals Editor</li>
+            <li>2021 ACF Nationals Co-Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -2348,10 +2340,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>Designer of A-value qualification system</li>
-            <li>2011 ACF Regionals Editor</li>
-            <li>2010 ACF Regionals Editor</li>
             <li>2009 ACF Nationals Editor</li>
+            <li>2010 ACF Regionals Editor</li>
+            <li>2011 ACF Regionals Editor</li>
+            <li>Designer of A-value qualification system</li>
         </ul>
     </td>
 </tr>
@@ -2366,8 +2358,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2022 ACF Regionals Editor</li>
             <li>2021 ACF Regionals Editor</li>
+            <li>2022 ACF Regionals Editor</li>
         </ul>
     </td>
 </tr>
@@ -2383,13 +2375,13 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2007 ACF Fall Head Editor</li>
-            <li>2007 ACF Nationals Head Editor</li>
-            <li>2006 ACF Nationals Head Editor</li>
+            <li>2000 ACF Regionals Head Editor</li>
+            <li>2001 ACF Nationals Editor</li>
             <li>2005 ACF Nationals Head Editor</li>
             <li>2005 ACF Regionals Head Editor</li>
-            <li>2001 ACF Nationals Editor</li>
-            <li>2000 ACF Regionals Head Editor</li>
+            <li>2006 ACF Nationals Head Editor</li>
+            <li>2007 ACF Fall Head Editor</li>
+            <li>2007 ACF Nationals Head Editor</li>
         </ul>
     </td>
 </tr>
@@ -2403,9 +2395,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2021 ACF Nationals Editor</li>
-            <li>2019 ACF Regionals Editor</li>
             <li>2017 ACF Fall Editor</li>
+            <li>2019 ACF Regionals Editor</li>
+            <li>2021 ACF Nationals Editor</li>
         </ul>
     </td>
 </tr>
@@ -2419,9 +2411,9 @@ Emeritus members are former ACF full members who have decided to take a step bac
     </td>
     <td>
         <ul>
-            <li>2017 ACF Fall Editor</li>
-            <li>2015 ACF Fall Co-Head Editor</li>
             <li>2014 ACF Fall Editor</li>
+            <li>2015 ACF Fall Co-Head Editor</li>
+            <li>2017 ACF Fall Editor</li>
         </ul>
     </td>
 </tr>
