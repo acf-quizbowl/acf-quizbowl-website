@@ -25,6 +25,24 @@
     ]
   },
   {
+    "name": "Brendan Bethlehem",
+    "affiliations": [
+      "Cambridge University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
+    "name": "Jamie Burchett",
+    "affiliations": [
+      "University of Southampton"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
     "name": "Benjamin Chapman",
     "affiliations": [
       "University of Toronto"
@@ -41,6 +59,24 @@
     ],
     "contributions": [
       "2024 ACF Fall Editor"
+    ]
+  },
+  {
+    "name": "Noah Chin",
+    "affiliations": [
+      "Virginia Tech University"
+    ],
+    "contributions": [
+      "2025 ACF Fall Editor"
+    ]
+  },
+  {
+    "name": "Aiden Dartley",
+    "affiliations": [
+      "Rutgers University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
     ]
   },
   {
@@ -79,6 +115,13 @@
     ]
   },
   {
+    "name": "Lucia Gellert",
+    "affiliations": [],
+    "contributions": [
+      "2025 ACF Fall Editor"
+    ]
+  },
+  {
     "name": "Henry Goff",
     "affiliations": [
       "Alumnus, University of North Carolina, Chapel Hill"
@@ -93,6 +136,15 @@
     "affiliations": [],
     "contributions": [
       "2024 ACF Nationals Editor"
+    ]
+  },
+  {
+    "name": "Frances Hadley",
+    "affiliations": [
+      "University of Edinburgh"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
     ]
   },
   {
@@ -115,12 +167,30 @@
     ]
   },
   {
+    "name": "Rhys Lewis",
+    "affiliations": [
+      "Cambridge University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
     "name": "Sky Li",
     "affiliations": [
       "Alumnus, University of Toronto"
     ],
     "contributions": [
       "2024 ACF Winter Editor"
+    ]
+  },
+  {
+    "name": "Linus Luu",
+    "affiliations": [
+      "Cambridge University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
     ]
   },
   {
@@ -145,12 +215,41 @@
     "contributions": []
   },
   {
+    "name": "Sinecio Morales",
+    "affiliations": [
+      "Johns Hopkins University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
     "name": "Aum Mundhe",
     "affiliations": [
       "Alumnus, Rutgers University"
     ],
     "contributions": [
       "2024 ACF Fall Editor"
+    ]
+  },
+  {
+    "name": "Dan Ni",
+    "affiliations": [
+      "Alumnus, Cornell University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
+    "name": "Abhinav Rachakonda",
+    "affiliations": [
+      "Alumnus, University of Texas, Austin",
+      "University of California, Los Angeles"
+    ],
+    "contributions": [
+      "2025 ACF Regionals Writer",
+      "2025 ACF Fall Editor"
     ]
   },
   {
@@ -190,7 +289,7 @@
   {
     "name": "Abigail Tan",
     "affiliations": [
-      "Alumna, University of Cambridge"
+      "Alumnus, Cambridge University"
     ],
     "contributions": [
       "2025 ACF Regionals Editor"
@@ -220,5 +319,41 @@
       "Alumnus, University of Minnesota"
     ],
     "contributions": []
+  },
+  {
+    "name": "Forrest Weintraub",
+    "affiliations": [
+      "Alumnus, Columbia University"
+    ],
+    "contributions": [
+      "2025 ACF Fall Editor"
+    ]
+  },
+  {
+    "name": "Jacky Xu",
+    "affiliations": [
+      "Cornell University"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
+    "name": "Steven Yuan",
+    "affiliations": [
+      "University of California, Berkeley"
+    ],
+    "contributions": [
+      "2025 ACF Winter Editor"
+    ]
+  },
+  {
+    "name": "Jason Zhang",
+    "affiliations": [
+      "University of Toronto"
+    ],
+    "contributions": [
+      "2025 ACF Fall Editor"
+    ]
   }
 ]
