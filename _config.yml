@@ -30,6 +30,13 @@ markdown: kramdown
 include:
   - _redirects
 
+exclude:
+  - Gemfile
+  - CNAME
+  - "*.lock"
+  - "*.json"
+  - scripts/
+
 plugins:
   - jekyll-remote-theme
   - jekyll-swiss

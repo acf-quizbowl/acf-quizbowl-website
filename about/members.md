@@ -54,7 +54,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 <thead>
 <tr>
     <th class="name">Name</th>
-    <th class="affiliations">Affiliation</th>
+    <th class="affiliations">Affiliations</th>
     <th class="contributions">Contributions</th>
 </tr>
 </thead>
@@ -79,9 +79,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Ethan Ashbrook</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Minnesota</li>
-            </ul>
+            Alumnus, University of Minnesota
         </td>
         <td>
             <ul>
@@ -134,9 +132,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Jordan Brownstein</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Maryland</li>
-            </ul>
+            Alumnus, University of Maryland
         </td>
         <td>
             <ul>
@@ -150,13 +146,21 @@ Full members can vote in all ACF elections and on all constitutional amendments.
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>Emily Bussa</td>
+        <td></td>
+        <td>
+            <ul>
+                <li>2025 ACF Nationals Host Logistics Contact</li>
+                <li>2025 ACF Winter Editor</li>
+            </ul>
+        </td>
+    </tr>
     <!-- C -->
     <tr>
         <td>Eric Chang</td>
         <td>
-            <ul>
-                <li>Virginia Tech</li>
-            </ul>
+            Virginia Tech
         </td>
         <td>
             <ul>
@@ -168,9 +172,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Raymond Chen</td>
         <td>
-            <ul>
-                <li>University of Toronto</li>
-            </ul>
+            University of Toronto
         </td>
         <td>
             <ul>
@@ -182,9 +184,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Erik Christensen</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Waterloo</li>
-            </ul>
+            Alumnus, University of Waterloo
         </td>
         <td>
             <ul>
@@ -215,9 +215,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Jordan Davidsen</td>
         <td>
-            <ul>
-                <li>Yale University</li>
-            </ul>
+            Yale University
         </td>
         <td>
             <ul>
@@ -246,9 +244,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Jacob Egol</td>
         <td>
-            <ul>
-                <li>Alumnus, Duke University</li>
-            </ul>
+            Alumnus, Duke University
         </td>
         <td>
             <ul>
@@ -261,9 +257,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Ganon Evans</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Iowa</li>
-            </ul>
+            Alumnus, University of Iowa
         </td>
         <td>
             <ul>
@@ -282,9 +276,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Rachel Ezrielev</td>
         <td>
-            <ul>
-                <li>Georgetown University</li>
-            </ul>
+            Georgetown University
         </td>
         <td>
             <ul>
@@ -312,9 +304,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Halle Friedman</td>
         <td>
-            <ul>
-                <li>Alumna, University of Chicago</li>
-            </ul>
+            Alumna, University of Chicago
         </td>
         <td>
             <ul>
@@ -328,9 +318,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>William Golden</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Texas at Austin</li>
-            </ul>
+            Alumnus, University of Texas at Austin
         </td>
         <td>
             <ul>
@@ -343,9 +331,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Alexandra Hardwick</td>
         <td>
-            <ul>
-                <li>Alumna, Oxford University</li>
-            </ul>
+            Alumna, Oxford University
         </td>
         <td>
             <ul>
@@ -382,9 +368,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Taylor Harvey</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Florida</li>
-            </ul>
+            Alumnus, University of Florida
         </td>
         <td>
             <ul>
@@ -420,11 +404,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </tr>
     <tr>
         <td>Kevin Jiang</td>
-        <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
+        <td></td>
         <td>
             <ul>
                 <li>2023 ACF Fall Editor</li>
@@ -453,9 +433,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Michael Kearney</td>
         <td>
-            <ul>
-                <li>Alumnus, Yale University</li>
-            </ul>
+            Alumnus, Yale University
         </td>
         <td>
             <ul>
@@ -472,9 +450,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Rahul Keyal</td>
         <td>
-            <ul>
-                <li>Alumnus, University of California, Berkeley</li>
-            </ul>
+            Alumnus, University of California, Berkeley
         </td>
         <td>
             <ul>
@@ -489,9 +465,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>JinAh Kim</td>
         <td>
-            <ul>
-                <li>Alumna, University of Pennsylvania</li>
-            </ul>
+            Alumna, University of Pennsylvania
         </td>
         <td>
             <ul>
@@ -505,9 +479,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Joseph Krol</td>
         <td>
-            <ul>
-                <li>University of Cambridge</li>
-            </ul>
+            University of Cambridge
         </td>
         <td>
             <ul>
@@ -541,11 +513,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </tr>
     <tr>
         <td>Allan Lee</td>
-        <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
+        <td></td>
         <td>
             <ul>
                 <li>2023 ACF Winter Editor</li>
@@ -556,9 +524,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Katherine Lei</td>
         <td>
-            <ul>
-                <li>MIT</li>
-            </ul>
+            MIT
         </td>
         <td>
             <ul>
@@ -572,9 +538,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Ophir Lifshitz</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Maryland</li>
-            </ul>
+            Alumnus, University of Maryland
         </td>
         <td>
             <ul>
@@ -590,9 +554,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Steven Liu</td>
         <td>
-            <ul>
-                <li>Alumnus, MIT</li>
-            </ul>
+            Alumnus, MIT
         </td>
         <td>
             <ul>
@@ -605,9 +567,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Caroline Mao</td>
         <td>
-            <ul>
-                <li>Alum, Barnard College</li>
-            </ul>
+            Alum, Barnard College
         </td>
         <td>
             <ul>
@@ -638,9 +598,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Tim Morrison</td>
         <td>
-            <ul>
-                <li>PhD Student, Stanford University</li>
-            </ul>
+            PhD Student, Stanford University
         </td>
         <td>
             <ul>
@@ -675,9 +633,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Arjun Nageswaran</td>
         <td>
-            <ul>
-                <li>Harvard University</li>
-            </ul>
+            Harvard University
         </td>
         <td>
             <ul>
@@ -707,9 +663,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>John Nienajadlo</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Florida</li>
-            </ul>
+            Alumnus, University of Florida
         </td>
         <td>
             <ul>
@@ -724,9 +678,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Richard Niu</td>
         <td>
-            <ul>
-                <li>Cornell University</li>
-            </ul>
+            Cornell University
         </td>
         <td>
             <ul>
@@ -739,9 +691,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Hari Parameswaran</td>
         <td>
-            <ul>
-                <li>Georgia Institute of Technology</li>
-            </ul>
+            Georgia Institute of Technology
         </td>
         <td>
             <ul>
@@ -754,9 +704,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Grant Peet</td>
         <td>
-            <ul>
-                <li>Alumnus, University of North Carolina, Chapel Hill</li>
-            </ul>
+            Alumnus, University of North Carolina, Chapel Hill
         </td>
         <td>
             <ul>
@@ -770,9 +718,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Ani Perumalla</td>
         <td>
-            <ul>
-                <li>Penn State University</li>
-            </ul>
+            Penn State University
         </td>
         <td>
             <ul>
@@ -802,9 +748,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Graham Reid</td>
         <td>
-            <ul>
-                <li>PhD, University of Maryland</li>
-            </ul>
+            PhD, University of Maryland
         </td>
         <td>
             <ul>
@@ -817,9 +761,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Ryan Rosenberg</td>
         <td>
-            <ul>
-                <li>Alumnus, University of North Carolina at Chapel Hill</li>
-            </ul>
+            Alumnus, University of North Carolina at Chapel Hill
         </td>
         <td>
             <ul>
@@ -836,9 +778,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Andrew Rout</td>
         <td>
-            <ul>
-                <li>PhD, University of Warwick</li>
-            </ul>
+            PhD, University of Warwick
         </td>
         <td>
             <ul>
@@ -851,9 +791,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Shahar Schwartz</td>
         <td>
-            <ul>
-                <li>Alumnus, University of California, Berkeley</li>
-            </ul>
+            Alumnus, University of California, Berkeley
         </td>
         <td>
             <ul>
@@ -865,9 +803,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Eleanor Settle</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Florida</li>
-            </ul>
+            Alumnus, University of Florida
         </td>
         <td>
             <ul>
@@ -880,9 +816,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Bryanna Shao</td>
         <td>
-            <ul>
-                <li>Vanderbilt University</li>
-            </ul>
+            Vanderbilt University
         </td>
         <td>
             <ul>
@@ -894,9 +828,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Munir Siddiqui</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Maryland</li>
-            </ul>
+            Alumnus, University of Maryland
         </td>
         <td>
             <ul>
@@ -944,9 +876,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Ned Tagtmeier</td>
         <td>
-            <ul>
-                <li>University of Chicago</li>
-            </ul>
+            University of Chicago
         </td>
         <td>
             <ul>
@@ -958,9 +888,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Sophie Torres</td>
         <td>
-            <ul>
-                <li>Alumna, University of Florida</li>
-            </ul>
+            Alumna, University of Florida
         </td>
         <td>
             <ul>
@@ -973,9 +901,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Cody Voight</td>
         <td>
-            <ul>
-                <li>Alumnus, Virginia Commonwealth University</li>
-            </ul>
+            Alumnus, Virginia Commonwealth University
         </td>
         <td>
             <ul>
@@ -991,11 +917,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <!-- W -->
     <tr>
         <td>Eva Wang</td>
-        <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
+        <td></td>
         <td>
             <ul>
                 <li>2023-2024 Liveblog Coordinator</li>
@@ -1021,9 +943,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Harry White</td>
         <td>
-            <ul>
-                <li>Alumnus, Virginia Tech</li>
-            </ul>
+            Alumnus, Virginia Tech
         </td>
         <td>
             <ul>
@@ -1035,11 +955,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <!-- Y -->
     <tr>
         <td>Maxwell Ye</td>
-        <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
+        <td></td>
         <td>
             <ul>
                 <li>2023 ACF Winter Editor</li>
@@ -1051,14 +967,12 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Walter Zhang</td>
         <td>
-            <ul>
-                <li>Brown University</li>
-            </ul>
+            Brown University
         </td>
         <td>
             <ul>
                 <li>2022 ACF Fall Editor</li>
-                <li>2025 ACF Fall Editor</li>
+                <li>2025 ACF Winter Editor</li>
             </ul>
         </td>
     </tr>
@@ -1073,7 +987,7 @@ Provisional members are community members who have ably assisted ACF in the past
 <thead>
 <tr>
     <th class="name">Name</th>
-    <th class="affiliations">Affiliation</th>
+    <th class="affiliations">Affiliations</th>
     <th class="contributions">Contributions</th>
 </tr>
 </thead>
@@ -1083,9 +997,7 @@ Provisional members are community members who have ably assisted ACF in the past
     <tr>
         <td>Tomás Aguilar-Fraga</td>
         <td>
-            <ul>
-                <li>Alumnus, Claremont Colleges</li>
-            </ul>
+            Alumnus, Claremont Colleges
         </td>
         <td>
             <ul>
@@ -1097,51 +1009,23 @@ Provisional members are community members who have ably assisted ACF in the past
     </tr>
     <tr>
         <td>Sameer Apte</td>
+        <td></td>
         <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2023 ACF Nationals Editor</li>
-            </ul>
+            2023 ACF Nationals Editor
         </td>
     </tr>
     <tr>
         <td>Henry Atkins</td>
+        <td></td>
         <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2024 ACF Winter Editor</li>
-            </ul>
-        </td>
-    </tr>
-    <!-- B -->
-    <tr>
-        <td>Emily Bussa</td>
-        <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2025 ACF Nationals Host Logistics Contact</li>
-            </ul>
+            2024 ACF Winter Editor
         </td>
     </tr>
     <!-- C -->
     <tr>
         <td>Benjamin Chapman</td>
         <td>
-            <ul>
-                <li>University of Toronto</li>
-            </ul>
+            University of Toronto
         </td>
         <td>
             <ul>
@@ -1153,37 +1037,27 @@ Provisional members are community members who have ably assisted ACF in the past
     <tr>
         <td>Ophelia Cherry-Pulay</td>
         <td>
-            <ul>
-                <li>USN Quizbowl</li>
-            </ul>
+            USN Quizbowl
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Fall Editor</li>
-            </ul>
+            2024 ACF Fall Editor
         </td>
     </tr>
     <!-- D -->
     <tr>
         <td>Vincent Du</td>
         <td>
-            <ul>
-                <li>University of North Carolina, Chapel Hill</li>
-            </ul>
+            University of North Carolina, Chapel Hill
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Regionals Editor</li>
-            </ul>
+            2024 ACF Regionals Editor
         </td>
     </tr>
     <!-- F -->
     <tr>
         <td>Sean Farrell</td>
         <td>
-            <ul>
-                <li>University of North Florida</li>
-            </ul>
+            University of North Florida
         </td>
         <td>
             <ul>
@@ -1195,36 +1069,24 @@ Provisional members are community members who have ably assisted ACF in the past
     <tr>
         <td>Jeffrey Fung</td>
         <td>
-            <ul>
-                <li>Harvard University</li>
-            </ul>
+            Harvard University
         </td>
         <td>
-            <ul>
-                <li>2023 ACF Fall Editor</li>
-            </ul>
+            2023 ACF Fall Editor
         </td>
     </tr>
     <!-- G -->
     <tr>
         <td>Shourjo Ganguli</td>
+        <td></td>
         <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2023 ACF Fall Editor</li>
-            </ul>
+            2023 ACF Fall Editor
         </td>
     </tr>
     <tr>
         <td>Henry Goff</td>
         <td>
-            <ul>
-                <li>Alumnus, University of North Carolina, Chapel Hill</li>
-            </ul>
+            Alumnus, University of North Carolina, Chapel Hill
         </td>
         <td>
             <ul>
@@ -1235,38 +1097,25 @@ Provisional members are community members who have ably assisted ACF in the past
     </tr>
     <tr>
         <td>Jason Golfinos</td>
+        <td></td>
         <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2024 ACF Nationals Editor</li>
-            </ul>
+            2024 ACF Nationals Editor
         </td>
     </tr>
     <!-- K -->
     <tr>
         <td>Aseem Keyal</td>
         <td>
-            <ul>
-                <li>Alumnus, University of California, Berkeley</li>
-            </ul>
+            Alumnus, University of California, Berkeley
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Nationals Editor</li>
-            </ul>
+            2024 ACF Nationals Editor
         </td>
     </tr>
     <tr>
         <td>Amogh Kulkarni</td>
         <td>
-            <ul>
-                <li>Georgia State</li>
-                <li> </li>
-            </ul>
+            Georgia State
         </td>
         <td>
             <ul>
@@ -1279,169 +1128,114 @@ Provisional members are community members who have ably assisted ACF in the past
     <tr>
         <td>Sky Li</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Toronto</li>
-            </ul>
+            Alumnus, University of Toronto
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Winter Editor</li>
-            </ul>
+            2024 ACF Winter Editor
         </td>
     </tr>
     <!-- M -->
     <tr>
         <td>Daniel Ma</td>
         <td>
-            <ul>
-                <li>Alumnus, Yale University</li>
-            </ul>
+            Alumnus, Yale University
         </td>
         <td>
-            <ul>
-                <li>2022 ACF Fall Editor</li>
-            </ul>
+            2022 ACF Fall Editor
         </td>
     </tr>
     <tr>
         <td>Logan Mathis</td>
+        <td></td>
         <td>
-        </td>
-        <td>
-            <ul>
-                <li>2025 ACF Nationals Assistant Tournament Director</li>
-            </ul>
+            2025 ACF Nationals Assistant Tournament Director
         </td>
     </tr>
     <tr>
         <td>Joel Miles</td>
-        <td>
-            <ul>
-                <li></li>
-            </ul>
-        </td>
-    
-    
+        <td></td>
+        <td></td>
+    </tr>
     <tr>
         <td>Aum Mundhe</td>
         <td>
-            <ul>
-                <li>Alumnus, Rutgers University</li>
-            </ul>
+            Alumnus, Rutgers University
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Fall Editor</li>
-            </ul>
+            2024 ACF Fall Editor
         </td>
     </tr>
     <!-- R -->
     <tr>
         <td>Ryan Ritter</td>
+        <td></td>
         <td>
-            <ul>
-                <li> </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2023 ACF Nationals Assistant Tournament Director</li>
-            </ul>
+            2023 ACF Nationals Assistant Tournament Director
         </td>
     </tr>
     <!-- S -->
     <tr>
         <td>Kuleen Sasse</td>
         <td>
-            <ul>
-                <li>Johns Hopkins University</li>
-            </ul>
+            Johns Hopkins University
         </td>
         <td>
-            <ul>
-                <li>2025 ACF Nationals Assistant Tournament Director</li>
-            </ul>
+            2025 ACF Nationals Assistant Tournament Director
         </td>
     </tr>
     <tr>
         <td>Noah Sheidlower</td>
         <td>
-            <ul>
-                <li>Alumnus, Columbia University</li>
-            </ul>
+            Alumnus, Columbia University
         </td>
         <td>
-            <ul>
-                <li>2025 ACF Regionals Editor</li>
-            </ul>
+            2025 ACF Regionals Editor
         </td>
     </tr>
     <tr>
         <td>Ashish Subramanian</td>
         <td>
-            <ul>
-                <li>Alumnus, Duke University</li>
-            </ul>
+            Alumnus, Duke University
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Regionals Editor</li>
-            </ul>
+            2024 ACF Regionals Editor
         </td>
     </tr>
     <!-- T -->
     <tr>
         <td>Abigail Tan</td>
         <td>
-            <ul>
-                <li>Alumna, University of Cambridge</li>
-            </ul>
+            Alumna, University of Cambridge
         </td>
         <td>
-            <ul>
-                <li>2025 ACF Regionals Editor</li>
-            </ul>
+            2025 ACF Regionals Editor
         </td>
     </tr>
     <!-- W -->
     <tr>
         <td>James Wang</td>
         <td>
-            <ul>
-                <li>University of Ottawa</li>
-            </ul>
+            University of Ottawa
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Fall Editor</li>
-            </ul>
+            2024 ACF Fall Editor
         </td>
     </tr>
     <tr>
         <td>Kevin Wang</td>
         <td>
-            <ul>
-                <li>Alumnus, Amherst College</li>
-            </ul>
+            Alumnus, Amherst College
         </td>
         <td>
-            <ul>
-                <li>2024 ACF Nationals Editor</li>
-            </ul>
+            2024 ACF Nationals Editor
         </td>
     </tr>
     <tr>
         <td>Ben Weiner</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Minnesota</li>
-            </ul>
+            Alumnus, University of Minnesota
         </td>
-        <td>
-            <ul>
-                <li></li>
-            </ul>
-        </td>
+        <td></td>
     </tr>
 </tbody>
 </table>
@@ -1454,7 +1248,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
 <thead>
 <tr>
     <th class="name">Name</th>
-    <th class="affiliations">Affiliation</th>
+    <th class="affiliations">Affiliations</th>
     <th class="contributions">Contributions</th>
 </tr>
 </thead>
@@ -1549,9 +1343,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Rob Carson</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Minnesota</li>
-            </ul>
+            Alumnus, University of Minnesota
         </td>
         <td>
             <ul>
@@ -1657,9 +1449,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Carsten Gehring</td>
         <td>
-            <ul>
-                <li>Alumnus, Carleton College</li>
-            </ul>
+            Alumnus, Carleton College
         </td>
         <td>
             <ul>
@@ -1674,9 +1464,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Ted Gioia</td>
         <td>
-            <ul>
-                <li>Alumnus, Harvard University</li>
-            </ul>
+            Alumnus, Harvard University
         </td>
         <td>
             <ul>
@@ -1709,9 +1497,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Will Holub-Moorman</td>
         <td>
-            <ul>
-                <li>Alumnus, Harvard University</li>
-            </ul>
+            Alumnus, Harvard University
         </td>
         <td>
             <ul>
@@ -1729,9 +1515,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
             </ul>
         </td>
         <td>
-            <ul>
-                <li>2005 ACF Regionals Editor</li>
-            </ul>
+            2005 ACF Regionals Editor
         </td>
     </tr>
     <!-- J -->
@@ -1757,9 +1541,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Dennis Jang</td>
         <td>
-            <ul>
-                <li>Alumnus, Brown University</li>
-            </ul>
+            Alumnus, Brown University
         </td>
         <td>
             <ul>
@@ -1790,9 +1572,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Gautam Kandlikar</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Minnesota</li>
-            </ul>
+            Alumnus, University of Minnesota
         </td>
         <td>
             <ul>
@@ -1806,9 +1586,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Matt Keller</td>
         <td>
-            <ul>
-                <li>Alumnus, Vanderbilt University</li>
-            </ul>
+            Alumnus, Vanderbilt University
         </td>
         <td>
             <ul>
@@ -1820,9 +1598,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Eddie Kim</td>
         <td>
-            <ul>
-                <li>SoCal Quizbowl</li>
-            </ul>
+            SoCal Quizbowl
         </td>
         <td>
             <ul>
@@ -1836,9 +1612,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Matt Lafer</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Michigan</li>
-            </ul>
+            Alumnus, University of Michigan
         </td>
         <td>
             <ul>
@@ -1857,9 +1631,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
             </ul>
         </td>
         <td>
-            <ul>
-                <li>2004 ACF Nationals Editor</li>
-            </ul>
+            2004 ACF Nationals Editor
         </td>
     </tr>
     <tr>
@@ -1885,9 +1657,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Bruce Lou</td>
         <td>
-            <ul>
-                <li>Alumnus, University of California, Berkeley</li>
-            </ul>
+            Alumnus, University of California, Berkeley
         </td>
         <td>
             <ul>
@@ -1935,9 +1705,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Subash Maddipoti</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Chicago</li>
-            </ul>
+            Alumnus, University of Chicago
         </td>
         <td>
             <ul>
@@ -1949,9 +1717,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Jonathan Magin</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Maryland</li>
-            </ul>
+            Alumnus, University of Maryland
         </td>
         <td>
             <ul>
@@ -1970,14 +1736,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Wesley Matthews</td>
         <td>
-            <ul>
-                <li>Alumnus, Indiana University</li>
-            </ul>
+            Alumnus, Indiana University
         </td>
         <td>
-            <ul>
-                <li>2008 ACF Nationals Editor</li>
-            </ul>
+            2008 ACF Nationals Editor
         </td>
     </tr>
     <tr>
@@ -1998,9 +1760,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Ben Miller</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Chicago</li>
-            </ul>
+            Alumnus, University of Chicago
         </td>
         <td>
             <ul>
@@ -2013,9 +1773,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Theresa Nyowheoma</td>
         <td>
-            <ul>
-                <li>Alumna, New York University</li>
-            </ul>
+            Alumna, New York University
         </td>
         <td>
             <ul>
@@ -2035,21 +1793,19 @@ Emeritus members are former ACF full members who have decided to take a step bac
             </ul>
         </td>
         <td>
-            <ul>
-                <li>2004 ACF Nationals Editor</li>
-            </ul>
+            2004 ACF Nationals Editor
         </td>
     </tr>
     <tr>
         <td>Jonathan Pinyan</td>
         <td>
-        Alumnus, Washington University in St. Louis
+            Alumnus, Washington University in St. Louis
         </td>
         <td>
             <ul>
-                <li>2019 ACF Nationals Stats Director</li>
-                <li>2015 ACF Nationals Stats Director</li>
                 <li>2014 ACF Nationals Stats Director</li>
+                <li>2015 ACF Nationals Stats Director</li>
+                <li>2019 ACF Nationals Stats Director</li>
             </ul>
         </td>
     </tr>
@@ -2063,8 +1819,8 @@ Emeritus members are former ACF full members who have decided to take a step bac
                 <li>Alumnus, University of Maryland</li>
             </ul>
         </td>
-    
-    
+        <td></td>
+    </tr>
     <tr>
         <td>Matt Reece</td>
         <td>
@@ -2074,18 +1830,14 @@ Emeritus members are former ACF full members who have decided to take a step bac
             </ul>
         </td>
         <td>
-            <ul>
-                <li>2010 ACF Nationals Editor</li>
-            </ul>
+            2010 ACF Nationals Editor
         </td>
     </tr>
     <!-- S -->
     <tr>
         <td>Max Schindler</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Chicago</li>
-            </ul>
+            Alumnus, University of Chicago
         </td>
         <td>
             <ul>
@@ -2113,9 +1865,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Bernadette Spencer</td>
         <td>
-            <ul>
-                <li>Alumna, University of Minnesota</li>
-            </ul>
+            Alumna, University of Minnesota
         </td>
         <td>
             <ul>
@@ -2131,9 +1881,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Guy Tabachnick</td>
         <td>
-            <ul>
-                <li>Alumnus, Brown University</li>
-            </ul>
+            Alumnus, Brown University
         </td>
         <td>
             <ul>
@@ -2145,9 +1893,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Margaret Tebbe</td>
         <td>
-            <ul>
-                <li>Alumna, University of Pennsylvania</li>
-            </ul>
+            Alumna, University of Pennsylvania
         </td>
         <td>
             <ul>
@@ -2198,9 +1944,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Andrew Wang</td>
         <td>
-            <ul>
-                <li>Alumnus, University of Illinois, Urbana-Champaign</li>
-            </ul>
+            Alumnus, University of Illinois, Urbana-Champaign
         </td>
         <td>
             <ul>
@@ -2214,9 +1958,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Nathan Weiser</td>
         <td>
-            <ul>
-                <li>Alumnus, Stanford University</li>
-            </ul>
+            Alumnus, Stanford University
         </td>
         <td>
             <ul>
@@ -2283,9 +2025,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Jennie Yang</td>
         <td>
-            <ul>
-                <li>Alumna, Stanford University</li>
-            </ul>
+            Alumna, Stanford University
         </td>
         <td>
             <ul>
@@ -2319,9 +2059,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Richard Yu</td>
         <td>
-            <ul>
-                <li>Alumnus, Washington University in St. Louis</li>
-            </ul>
+            Alumnus, Washington University in St. Louis
         </td>
         <td>
             <ul>

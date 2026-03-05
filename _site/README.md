@@ -72,6 +72,50 @@ The static website is built using Jekyll, a Ruby Gem.
   $ bundle exec jekyll serve
   ```
 
+## Updating Members
+
+The ACF membership tables are maintained using JSON files as the source of truth. The JSON files are located in `about/members/` and contain structured data for full, provisional, and emeritus members. The HTML tables in `about/members.md` are generated from these JSON files.
+
+### Workflow for Updating Members
+
+1. **Modify the JSON files manually** in `/about/members/` with new/updated member data. Edit `full.json`, `provisional.json`, or `emeritus.json` as needed. The JSON format is flexible:
+   * `name`: string (member's name)
+   * `affiliations`: list of strings, single string, or empty (affiliations)
+   * `contributions`: list of strings, single string, or empty (contributions)
+
+2. **Run the update members Python script** to regenerate the HTML tables in `about/members.md`:
+
+   ```bash
+   python3 scripts/update_members.py
+   ```
+
+   This script cleans, sorts, and formats the data into proper HTML table rows.
+
+3. **Confirm the new members table is updated and displayed correctly** by checking `about/members.md` and running the Jekyll site locally to verify the changes.
+
+4. **Run the generate member JSON script** to clean and normalize the manually updated JSONs:
+
+   ```bash
+   # install dependencies if you don't already have them
+   pip install markdown beautifulsoup4
+
+   # run the generator from the repository root
+   python3 scripts/generate_members_json.py
+   ```
+
+   This ensures the JSON files are consistent with the current state of the markdown tables.
+
+### Initial Setup
+
+If the JSON files don't exist yet, start by generating them from the existing markdown:
+
+```bash
+pip install markdown beautifulsoup4
+python3 scripts/generate_members_json.py
+```
+
+The scripts will create the `about/members/` directory if it does not yet exist and produce `full.json`, `provisional.json`, and `emeritus.json`.
+
 ## Contributing
 
 [Create an issue](https://github.com/acf-quizbowl/acf-quizbowl.github.io/issues/new/choose) to suggest a new feature/page or discuss errors on the website.
