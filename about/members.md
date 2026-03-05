@@ -46,7 +46,12 @@ ACF’s officers also serve as ACF’s board of directors.
 | Eligibility Committee      | Editor-in-Chief, Head Editors | <eligibility@acf-quizbowl.com> |
 | Misconduct Representatives | Ganon Evans, John Nienajadlo  | <misconduct@acf-quizbowl.com>  |
 
-## Full Members
+## Members
+
+> [!IMPORTANT]
+> If you are an ACF member and the information in any of the tables below is incorrect with respect to your name, affiliations, or contributions, use the [Entry Update Request form](https://forms.gle/ah9XbubXiHTR17Tv5) to notify the Webmaster.
+
+### Full Members
 
 Full members can vote in all ACF elections and on all constitutional amendments.
 
@@ -290,7 +295,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Eve Fleisig</td>
         <td>
             <ul>
-                <li>PhD, University of California, Berkeley</li>
+                <li>Ph.D., University of California, Berkeley</li>
                 <li>Alumnus, Princeton University</li>
             </ul>
         </td>
@@ -494,7 +499,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>John Lawrence</td>
         <td>
             <ul>
-                <li>PhD, University of Chicago</li>
+                <li>Ph.D., University of Chicago</li>
                 <li>Alumnus, Yale University</li>
             </ul>
         </td>
@@ -584,7 +589,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Mitch McCullar</td>
         <td>
             <ul>
-                <li>PhD Student, Penn State University</li>
+                <li>Ph.D. Student, Penn State University</li>
                 <li>Alumnus, University of Illinois</li>
             </ul>
         </td>
@@ -598,7 +603,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Tim Morrison</td>
         <td>
-            PhD Student, Stanford University
+            Ph.D. Student, Stanford University
         </td>
         <td>
             <ul>
@@ -613,7 +618,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Eric Mukherjee</td>
         <td>
             <ul>
-                <li>MD/PhD, University of Pennsylvania</li>
+                <li>MD/Ph.D., University of Pennsylvania</li>
                 <li>Alumnus, Brown University</li>
             </ul>
         </td>
@@ -647,7 +652,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Will Nediger</td>
         <td>
             <ul>
-                <li>PhD, University of Michigan</li>
+                <li>Ph.D., University of Michigan</li>
                 <li>Alumnus, University of Western Ontario</li>
             </ul>
         </td>
@@ -748,7 +753,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Graham Reid</td>
         <td>
-            PhD, University of Maryland
+            Ph.D., University of Maryland
         </td>
         <td>
             <ul>
@@ -778,7 +783,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Andrew Rout</td>
         <td>
-            PhD, University of Warwick
+            Ph.D., University of Warwick
         </td>
         <td>
             <ul>
@@ -841,7 +846,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Adam Silverman</td>
         <td>
             <ul>
-                <li>PhD, Northwestern University</li>
+                <li>Ph.D., Northwestern University</li>
                 <li>Alumnus, Georgia Tech</li>
             </ul>
         </td>
@@ -859,7 +864,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Christopher Sims</td>
         <td>
             <ul>
-                <li>PhD Student, Northwestern University</li>
+                <li>Ph.D. Student, Northwestern University</li>
                 <li>Alumnus, University of Toronto</li>
             </ul>
         </td>
@@ -979,7 +984,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
 </tbody>
 </table>
 
-## Provisional Members
+### Provisional Members
 
 Provisional members are community members who have ably assisted ACF in the past and, if they do so again in the future, may be invited to apply for full membership.
 
@@ -1385,7 +1390,7 @@ Provisional members are community members who have ably assisted ACF in the past
 </tbody>
 </table>
 
-## Emeritus Members
+### Emeritus Members
 
 Emeritus members are former ACF full members who have decided to take a step back from active involvement in ACF.
 
@@ -1439,7 +1444,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>
             <ul>
                 <li>J.D., George Washington University Law School</li>
-                <li>M.A., PhD Candidate (ABD), English Literature, University of Michigan</li>
+                <li>M.A., Ph.D. Candidate (ABD), English Literature, University of Michigan</li>
                 <li>Alumnus, University of Maryland</li>
             </ul>
         </td>
@@ -1473,7 +1478,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Will Butler</td>
         <td>
             <ul>
-                <li>PhD Student, Biology, Georgia Tech</li>
+                <li>Ph.D. Student, Biology, Georgia Tech</li>
                 <li>Alumnus, University of Virginia</li>
             </ul>
         </td>
@@ -1508,7 +1513,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Tommy Casalaspi</td>
         <td>
             <ul>
-                <li>PhD Student, Harvard University</li>
+                <li>Ph.D. Student, Harvard University</li>
                 <li>University of Virginia</li>
             </ul>
         </td>
@@ -1542,7 +1547,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Stephen Eltinge</td>
         <td>
             <ul>
-                <li>PhD, Yale University</li>
+                <li>Ph.D., Yale University</li>
                 <li>Alumnus, MIT</li>
             </ul>
         </td>
@@ -1561,7 +1566,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Andrew Feist</td>
         <td>
             <ul>
-                <li>A.M. and PhD, Duke University</li>
+                <li>A.M. and Ph.D., Duke University</li>
                 <li>Alumnus, University of Central Missouri</li>
             </ul>
         </td>
@@ -1577,7 +1582,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Susan Ferrari</td>
         <td>
             <ul>
-                <li>PhD, Cancer Biology, University of Chicago</li>
+                <li>Ph.D., Cancer Biology, University of Chicago</li>
                 <li>Alumnus, University of Chicago</li>
             </ul>
         </td>
@@ -1701,7 +1706,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Gaurav Kandlikar</td>
         <td>
             <ul>
-                <li>PhD Student, UCLA</li>
+                <li>Ph.D. Student, UCLA</li>
                 <li>Alumnus, University of Minnesota</li>
             </ul>
         </td>
@@ -1771,7 +1776,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Paul Litvak</td>
         <td>
             <ul>
-                <li>PhD, Behavioral Decision Making, Carnegie Mellon University</li>
+                <li>Ph.D., Behavioral Decision Making, Carnegie Mellon University</li>
                 <li>Alumnus, University of Michigan</li>
             </ul>
         </td>
@@ -1834,7 +1839,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Evan Lynch</td>
         <td>
             <ul>
-                <li>PhD Student, University of Southampton</li>
+                <li>Ph.D. Student, University of Southampton</li>
                 <li>Alumnus, University of Cambridge</li>
             </ul>
         </td>
@@ -1933,7 +1938,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Jason Paik</td>
         <td>
             <ul>
-                <li>MD/PhD, Cancer Biology, University of Alabama School of Medicine</li>
+                <li>MD/Ph.D., Cancer Biology, University of Alabama School of Medicine</li>
                 <li>Alumnus, Washington University in St. Louis</li>
             </ul>
         </td>
@@ -1959,7 +1964,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Chris Ray</td>
         <td>
             <ul>
-                <li>PhD Candidate, The Ohio State University</li>
+                <li>Ph.D. Candidate, The Ohio State University</li>
                 <li>MA, University of Chicago</li>
                 <li>Alumnus, University of Maryland</li>
             </ul>
@@ -1970,7 +1975,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Matt Reece</td>
         <td>
             <ul>
-                <li>PhD, Theoretical Physics, Cornell University</li>
+                <li>Ph.D., Theoretical Physics, Cornell University</li>
                 <li>Alumnus, University of Chicago</li>
             </ul>
         </td>
@@ -2051,7 +2056,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Seth Teitler</td>
         <td>
             <ul>
-                <li>PhD, Astrophysics, University of Chicago</li>
+                <li>Ph.D., Astrophysics, University of Chicago</li>
                 <li>Alumnus, University of California, Berkeley</li>
             </ul>
         </td>
@@ -2069,7 +2074,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>
             <ul>
                 <li>Alumnus, University of California, Berkeley</li>
-                <li>PhD, Brown University</li>
+                <li>Ph.D., Brown University</li>
             </ul>
         </td>
         <td>
@@ -2138,7 +2143,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Dwight Wynne</td>
         <td>
             <ul>
-                <li>PhD Candidate, Biomedical Engineering, University of California-Irvine</li>
+                <li>Ph.D. Candidate, Biomedical Engineering, University of California-Irvine</li>
                 <li>Alumnus, University of California-Los Angeles</li>
             </ul>
         </td>
