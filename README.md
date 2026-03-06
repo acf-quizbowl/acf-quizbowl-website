@@ -74,12 +74,13 @@ The static website is built using Jekyll, a Ruby Gem.
 
 ## Updating Members
 
-The ACF membership tables are maintained using JSON files as the source of truth. The JSON files are located in `about/members/` and contain structured data for full, provisional, and emeritus members. The HTML tables in `about/members.md` are generated from these JSON files.
+The ACF membership tables are maintained using a JSON file as the source of truth. The JSON file is located in `about/members.json` and contains structured data for full, provisional, and emeritus members. The HTML tables in `about/members.md` are generated from this JSON file.
 
 ### Workflow for Updating Members
 
-1. **Modify the JSON files manually** in `/about/members/` with new/updated member data. Edit `full.json`, `provisional.json`, or `emeritus.json` as needed. The JSON format is flexible:
+1. **Modify the JSON file manually** in `about/members.json` with new/updated member data. The JSON format is flexible:
    * `name`: string (member's name)
+   * `status`: string ("full", "provisional", or "emeritus")
    * `affiliations`: list of strings, single string, or empty (affiliations)
    * `contributions`: list of strings, single string, or empty (contributions)
 
@@ -93,7 +94,7 @@ The ACF membership tables are maintained using JSON files as the source of truth
 
 3. **Confirm the new members table is updated and displayed correctly** by checking `about/members.md` and running the Jekyll site locally to verify the changes.
 
-4. **Run the generate member JSON script** to clean and normalize the manually updated JSONs:
+4. **Run the generate member JSON script** to clean and normalize the manually updated JSON:
 
    ```bash
    # install dependencies if you don't already have them
@@ -103,18 +104,18 @@ The ACF membership tables are maintained using JSON files as the source of truth
    python3 scripts/generate_members_json.py
    ```
 
-   This ensures the JSON files are consistent with the current state of the markdown tables.
+   This ensures the JSON file is consistent with the current state of the markdown tables.
 
 ### Initial Setup
 
-If the JSON files don't exist yet, start by generating them from the existing markdown:
+If the JSON file doesn't exist yet, start by generating it from the existing markdown:
 
 ```bash
 pip install markdown beautifulsoup4
 python3 scripts/generate_members_json.py
 ```
 
-The scripts will create the `about/members/` directory if it does not yet exist and produce `full.json`, `provisional.json`, and `emeritus.json`.
+The script will create the `about/` directory if it does not yet exist and produce `members.json`.
 
 ## Contributing
 

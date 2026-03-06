@@ -2,7 +2,7 @@
 """Regenerate HTML member tables from JSON and clean/sort entries.
 
 This tool complements the `generate_members_json.py` script by consuming the
-resulting JSON files and rewriting the corresponding HTML tables in
+resulting JSON file and rewriting the corresponding HTML tables in
 `about/members.md`.  It performs the same operations that the previous
 separate scripts did:
 
@@ -19,13 +19,11 @@ Dependencies
 ------------
 None beyond the standard library (json, re, pathlib).
 
-The script expects the JSON files to be named:
+The script expects the JSON file to be named:
 
-    about/members/full.json
-    about/members/provisional.json
-    about/members/emeritus.json
+    about/members.json
 
-If the directory or files are missing a warning is printed and the script
+If the directory or file is missing a warning is printed and the script
 skips them.
 """
 
@@ -37,12 +35,12 @@ from typing import List, Dict, Any
 # constants
 REPO_ROOT = Path(__file__).parent.parent
 MEMBERS_MD = REPO_ROOT / "about" / "members.md"
-JSON_DIR = REPO_ROOT / "about" / "members"
+JSON_DIR = REPO_ROOT / "about"
 
 TABLE_FILES = {
-    "full-member-table": "full.json",
-    "provisional-member-table": "provisional.json",
-    "emeritus-member-table": "emeritus.json",
+    "full-member-table": "full",
+    "provisional-member-table": "provisional",
+    "emeritus-member-table": "emeritus",
 }
 
 
@@ -235,16 +233,21 @@ def update_members_md():
         return
     text = MEMBERS_MD.read_text()
 
-    for table_id, json_file in TABLE_FILES.items():
-        json_path = JSON_DIR / json_file
-        if not json_path.exists():
-            print(f"warning: {json_path} missing, skipping {table_id}")
-            continue
-        with open(json_path, 'r') as jf:
-            entries = json.load(jf)
-            if not isinstance(entries, list):
-                print(f"warning: {json_path} does not contain a list")
-                entries = []
+    json_path = JSON_DIR / "members.json"
+    if not json_path.exists():
+        print(f"warning: {json_path} missing")
+        return
+    with open(json_path, 'r') as jf:
+        all_entries = json.load(jf)
+        if not isinstance(all_entries, list):
+            print(f"warning: {json_path} does not contain a list")
+            return
+
+    for table_id, status in TABLE_FILES.items():
+        entries = [e for e in all_entries if e.get('status') == status]
+        # Remove status from entries for processing
+        for e in entries:
+            e.pop('status', None)
 
         new_body = generate_tbody(entries)
 

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Generate JSON files for the member tables in `about/members.md`.
+"""Generate JSON file for the member tables in `about/members.md`.
 
 This script reads the markdown source, converts it to HTML, and then
-scrapes the three tables (identified by their IDs) to produce one JSON
-file per table in `about/members/`.
+scrapes the three tables (identified by their IDs) to produce a single
+`members.json` file in the `about/` directory with a status field added
+to each entry.
 
 Usage:
     python3 scripts/generate_members_json.py
@@ -67,26 +68,35 @@ def main():
     html = markdown.markdown(md, extensions=['tables'])
     soup = BeautifulSoup(html, 'html.parser')
 
-    outdir = os.path.join(repo_root, 'about', 'members')
+    # JSON now lives in the top-level about directory rather than a
+    # subfolder.  Historically we wrote to `about/members/` but the
+    # file has been moved up one level.
+    outdir = os.path.join(repo_root, 'about')
     os.makedirs(outdir, exist_ok=True)
 
     mapping = {
-        'full-member-table': 'full.json',
-        'provisional-member-table': 'provisional.json',
-        'emeritus-member-table': 'emeritus.json',
+        'full-member-table': 'full',
+        'provisional-member-table': 'provisional',
+        'emeritus-member-table': 'emeritus',
     }
 
-    for table_id, filename in mapping.items():
+    all_data = []
+    for table_id, status in mapping.items():
         table = soup.find('table', id=table_id)
         if table is None:
             print(f"warning: table with id '{table_id}' not found", file=sys.stderr)
             continue
 
         data = table_to_json(table)
-        outpath = os.path.join(outdir, filename)
-        with open(outpath, 'w') as outf:
-            json.dump(data, outf, indent=2, ensure_ascii=False)
-        print(f"wrote {outpath} ({len(data)} records)")
+        # Add status to each entry
+        for entry in data:
+            entry['status'] = status
+        all_data.extend(data)
+
+    outpath = os.path.join(outdir, 'members.json')
+    with open(outpath, 'w') as outf:
+        json.dump(all_data, outf, indent=2, ensure_ascii=False)
+    print(f"wrote {outpath} ({len(all_data)} records)")
 
 
 if __name__ == '__main__':
