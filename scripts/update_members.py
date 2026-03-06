@@ -31,6 +31,7 @@ import json
 import re
 from pathlib import Path
 from typing import List, Dict, Any
+import datetime
 
 # constants
 REPO_ROOT = Path(__file__).parent.parent
@@ -243,6 +244,7 @@ def update_members_md():
             print(f"warning: {json_path} does not contain a list")
             return
 
+    changed = False
     for table_id, status in TABLE_FILES.items():
         entries = [e for e in all_entries if e.get('status') == status]
         # Remove status from entries for processing
@@ -263,11 +265,24 @@ def update_members_md():
             tail = m.group(4)
             return f"{prefix}\n{new_body}\n{suffix}{tail}"
 
+        before = text
         text = pattern.sub(repl, text)
+        if text != before:
+            changed = True
         print(f"replaced table {table_id} ({len(entries)} entries)")
 
-    MEMBERS_MD.write_text(text)
-    print(f"updated {MEMBERS_MD}")
+    if changed:
+        # update frontmatter last_updated to today in 'Month D, YYYY' format
+        today_dt = datetime.date.today()
+        today = today_dt.strftime("%B %-d, %Y")
+        # only modify first occurrence which should be in YAML frontmatter
+        text = re.sub(r"(?m)^(last_updated:\s*)(.+)", rf"\1{today}", text, count=1)
+
+        MEMBERS_MD.write_text(text)
+        print(f"updated {MEMBERS_MD} (last_updated set to {today})")
+    else:
+        # no changes to member data, leave file untouched
+        print(f"no changes detected; {MEMBERS_MD} not updated")
 
 
 if __name__ == '__main__':
