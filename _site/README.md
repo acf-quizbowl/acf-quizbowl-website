@@ -80,7 +80,9 @@ The ACF membership tables are maintained using [a Google Sheets spreadsheet](htt
 
 1. **Update [the Google Sheets spreadsheet](https://docs.google.com/spreadsheets/d/1Byrc19gXCmOYJajB5O-bUYJg-E8GuM6VrYcvkcnbW8Y/)** with new/updated member data. The spreadsheet should have columns: Full Name, First Name, Last Name, Email, Status, Affiliations, Contributions, Skills, Last Activity. Affiliations and Contributions should be newline-separated in their cells.
 
-2. **Run the sync script** to extract data from Google Sheets and update the website files:
+2. If this is the first time you are running the script on your machine, **[follow the directions](#google-service-account) to add a service account key** to your local copy of the repository.
+
+3. **Run the sync script** to extract data from Google Sheets and update the website files:
 
    ```bash
    python3 scripts/sync_from_sheets.py [sheet_id] [--credentials credentials_file]
@@ -93,18 +95,21 @@ The ACF membership tables are maintained using [a Google Sheets spreadsheet](htt
    * Generates `members.xlsx` (Excel spreadsheet).
    * Updates the HTML tables in `about/members.md`.
 
-   If no arguments are provided, it uses default values (sheet ID for ACF Master list and credentials file at `scripts/script-credentials.json`).
+   If no arguments are provided, it uses default values (sheet ID for ACF Master list and credentials file at `scripts/credentials.json`).
 
-3. **Confirm the updates** by checking the generated files and running the Jekyll site locally to verify the changes.
+4. **Confirm the updates** by checking the generated files and running the Jekyll site locally to verify the changes.
 
 ### Google Service Account
 
 The script uses a Google Service Account (`ACF Members Maintenance`) for authentication.
 
+> [!IMPORTANT]
+> To run the script, you need to download a JSON key for the service account to the local copy of this repository on your machine. See the directions below for doing so.
+
 * Name/ID: `acf-members-maintenance`
 * Email: `acf-members-maintenance@acf-members-maintenance.iam.gserviceaccount.com`
 * Project number: `1060389719532`
-* Credentials: [`/scripts/script-credentials.json`](/scripts/script-credentials.json)
+* Credentials: [`/scripts/credentials.json`](/scripts/credentials.json)
 * [Dashboard](https://console.cloud.google.com/home/dashboard?project=acf-members-maintenance)
 * [Cloud hub](https://console.cloud.google.com/cloud-hub/home?project=acf-members-maintenance)
 
@@ -112,14 +117,14 @@ This account has already been set up via the ACF Webmaster account, and you shou
 
 1. **Create or access a Google Cloud Project** with the Google Sheets API enabled.
 
-2. **Create a Service Account** in the Google Cloud Console:
+2. **Modify the existing service account** or **create a Service Account** in the Google Cloud Console:
    * Go to IAM & Admin > Service Accounts.
-   * Create a new service account with appropriate permissions.
-   * Generate a JSON key for the service account.
+   * **Modify the existing service account** or create a new service account with appropriate permissions (add access to the Google Sheets API).
+   * [Generate a JSON key](https://console.cloud.google.com/iam-admin/serviceaccounts/details/107407370347507942413/keys?project=acf-members-maintenance&supportedpurview=project) for the service account. Call it `credentials.json` and save it in `/scripts/`.
 
 3. **Share the Google Sheet** with the service account email (found in the JSON key file under `client_email`).
 
-4. **Place the JSON key file** in the repository at `scripts/script-credentials.json` (or specify a different path with `--credentials`).
+4. **Place the JSON key file** in the repository at `scripts/credentials.json` (or specify a different path with `--credentials`).
 
 5. **Install dependencies**:
 

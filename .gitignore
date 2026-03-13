@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jekyll,wordpress,macos,git,r,nextjs,react
 # Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,wordpress,macos,git,r,nextjs,react
 
+# Google Cloud service account credentials
+/scripts/credentials.json
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
