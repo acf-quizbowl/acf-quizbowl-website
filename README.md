@@ -47,13 +47,13 @@ The static website is built using Jekyll, a Ruby Gem.
 * [Install Jekyll](https://jekyllrb.com/docs/installation/):
 
   ```{bash}
-  gem install jekyll
+  $ gem install jekyll
   ```
 
 * Install [Bundler](https://bundler.io/).
 
   ```{bash}
-  gem install bundler
+  $ gem install bundler
   ```
 
 ### Run Locally
@@ -63,13 +63,13 @@ The static website is built using Jekyll, a Ruby Gem.
 * Install all the Gems in the `Gemfile`:
 
   ```{bash}
-  bundle install
+  $ bundle install
   ```
 
 * Run locally:
 
   ```{bash}
-  bundle exec jekyll serve
+  $ bundle exec jekyll serve
   ```
 
 ## Updating Members
@@ -97,13 +97,14 @@ The ACF membership tables are maintained using [a Google Sheets spreadsheet](htt
 
 3. **Confirm the updates** by checking the generated files and running the Jekyll site locally to verify the changes.
 
-### Google Service Account Setup
+### Google Service Account
 
 The script uses a Google Service Account (`ACF Members Maintenance`) for authentication.
 
 * Name/ID: `acf-members-maintenance`
 * Email: `acf-members-maintenance@acf-members-maintenance.iam.gserviceaccount.com`
 * Project number: `1060389719532`
+* Credentials: [`/scripts/script-credentials.json`](/scripts/script-credentials.json)
 * [Dashboard](https://console.cloud.google.com/home/dashboard?project=acf-members-maintenance)
 * [Cloud hub](https://console.cloud.google.com/cloud-hub/home?project=acf-members-maintenance)
 

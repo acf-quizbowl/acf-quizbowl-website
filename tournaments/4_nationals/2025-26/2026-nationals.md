@@ -15,7 +15,7 @@ last_updated: September 24, 2025
 
 # 2026 ACF Nationals
 
-2026 ACF Nationals will be held at on April 18-19, 2026.
+2026 ACF Nationals will be held at the University of Maryland, College Park (UMD) on April 18-19, 2026.
 
 ## Editors
 
@@ -34,16 +34,6 @@ last_updated: September 24, 2025
 | Munir Siddiqui | Chemistry                                                                                     |
 | Eric Mukherjee | Biology                                                                                       |
 | Henry Atkins   | American Literature, British Literature, World History                                        |
-
-## Site
-
-If you are interested in hosting 2026 ACF Nationals, fill out the [hosting bid form](https://forms.gle/LXfNVnUSi5EzeCtV6) before 11:59 p.m. PT on Saturday, October 11, 2025.
-
-ACF hopes to announce the location for 2026 ACF Nationals by Monday, November 3, 2025.
-
-For any questions or concerns regarding the application process, please reach out to the [Tournament Director](mailto:td@acf-quizbowl.com), Kevin Jiang, and/or [ACF's Site Coordinator](mailto:hosting@acf-quizbowl.com), Jacob Egol.
-
-See ACF's [Hosting Guidelines page](/guidelines/hosting) for more information about hosting ACF Nationals, including a list of benefits to the host institution.
 
 ## Qualification
 
