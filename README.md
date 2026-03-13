@@ -99,7 +99,14 @@ The ACF membership tables are maintained using [a Google Sheets spreadsheet](htt
 
 ### Google Service Account Setup
 
-The script uses a Google Service Account for authentication. To set up or modify the service account:
+The script uses a Google Service Account (`ACF Members Maintenance`) for authentication.
+
+* Name/ID: `acf-members-maintenance`
+* Project number: `1060389719532`
+* [Dashboard](https://console.cloud.google.com/home/dashboard?project=acf-members-maintenance)
+* [Cloud hub](https://console.cloud.google.com/cloud-hub/home?project=acf-members-maintenance)
+
+This account has already been set up via the ACF Webmaster account, and you should not need to modify it for any reason. If for some reason you need to modify its settings or set up a new one in its place:
 
 1. **Create or access a Google Cloud Project** with the Google Sheets API enabled.
 
