@@ -15,14 +15,14 @@ The static website is built using Jekyll, a Ruby Gem.
   * Mac / Linux:
 
     ```{bash}
-    $ rbenv install -l # List latest stable versions
-    $ rbenv install YOUR_CHOSEN_VERSION # Install the version of your choice from the list produced by the previous command
+    rbenv install -l # List latest stable versions
+    rbenv install YOUR_CHOSEN_VERSION # Install the version of your choice from the list produced by the previous command
     ```
 
   * Windows:
 
     ```{bash}
-    $ rbenv install head # Install the latest version
+    rbenv install head # Install the latest version
     ```
 
 * Add Ruby and Gems to your path:
@@ -47,13 +47,13 @@ The static website is built using Jekyll, a Ruby Gem.
 * [Install Jekyll](https://jekyllrb.com/docs/installation/):
 
   ```{bash}
-  $ gem install jekyll
+  gem install jekyll
   ```
 
 * Install [Bundler](https://bundler.io/).
 
   ```{bash}
-  $ gem install bundler
+  gem install bundler
   ```
 
 ### Run Locally
@@ -63,59 +63,62 @@ The static website is built using Jekyll, a Ruby Gem.
 * Install all the Gems in the `Gemfile`:
 
   ```{bash}
-  $ bundle install
+  bundle install
   ```
 
 * Run locally:
 
   ```{bash}
-  $ bundle exec jekyll serve
+  bundle exec jekyll serve
   ```
 
 ## Updating Members
 
-The ACF membership tables are maintained using a JSON file as the source of truth. The JSON file is located in `about/members.json` and contains structured data for full, provisional, and emeritus members. The HTML tables in `about/members.md` are generated from this JSON file.
+The ACF membership tables are maintained using [a Google Sheets spreadsheet](https://docs.google.com/spreadsheets/d/1Byrc19gXCmOYJajB5O-bUYJg-E8GuM6VrYcvkcnbW8Y/) as the source of truth, shared among ACF members. The data is synced to the website via a Python script that generates JSON, Excel, and updates the HTML tables.
 
 ### Workflow for Updating Members
 
-1. **Modify the JSON file manually** in `about/members.json` with new/updated member data. The JSON format is flexible:
-   * `name`: string (member's name)
-   * `status`: string ("full", "provisional", or "emeritus")
-   * `affiliations`: list of strings, single string, or empty (affiliations)
-   * `contributions`: list of strings, single string, or empty (contributions)
+1. **Update [the Google Sheets spreadsheet](https://docs.google.com/spreadsheets/d/1Byrc19gXCmOYJajB5O-bUYJg-E8GuM6VrYcvkcnbW8Y/)** with new/updated member data. The spreadsheet should have columns: Full Name, First Name, Last Name, Email, Status, Affiliations, Contributions, Skills, Last Activity. Affiliations and Contributions should be newline-separated in their cells.
 
-2. **Run the update members Python script** to regenerate the HTML tables in `about/members.md`:
+2. **Run the sync script** to extract data from Google Sheets and update the website files:
 
    ```bash
-   python3 scripts/update_members.py
+   python3 scripts/sync_from_sheets.py [sheet_id] [--credentials credentials_file]
    ```
 
-   This script cleans, sorts, and formats the data into proper HTML table rows.
+   This script:
+   * Authenticates with Google Sheets using a service account.
+   * Reads member data from the specified spreadsheet.
+   * Generates `about/members.json` (JSON format).
+   * Generates `members.xlsx` (Excel spreadsheet).
+   * Updates the HTML tables in `about/members.md`.
 
-3. **Confirm the new members table is updated and displayed correctly** by checking `about/members.md` and running the Jekyll site locally to verify the changes.
+   If no arguments are provided, it uses default values (sheet ID for ACF Master list and credentials file at `scripts/script-credentials.json`).
 
-4. **Run the generate member JSON script** to clean and normalize the manually updated JSON:
+3. **Confirm the updates** by checking the generated files and running the Jekyll site locally to verify the changes.
+
+### Google Service Account Setup
+
+The script uses a Google Service Account for authentication. To set up or modify the service account:
+
+1. **Create or access a Google Cloud Project** with the Google Sheets API enabled.
+
+2. **Create a Service Account** in the Google Cloud Console:
+   * Go to IAM & Admin > Service Accounts.
+   * Create a new service account with appropriate permissions.
+   * Generate a JSON key for the service account.
+
+3. **Share the Google Sheet** with the service account email (found in the JSON key file under `client_email`).
+
+4. **Place the JSON key file** in the repository at `scripts/script-credentials.json` (or specify a different path with `--credentials`).
+
+5. **Install dependencies**:
 
    ```bash
-   # install dependencies if you don't already have them
-   pip install markdown beautifulsoup4
-
-   # run the generator from the repository root
-   python3 scripts/generate_members_json.py
+   pip install gspread google-auth openpyxl
    ```
 
-   This ensures the JSON file is consistent with the current state of the markdown tables.
-
-### Initial Setup
-
-If the JSON file doesn't exist yet, start by generating it from the existing markdown:
-
-```bash
-pip install markdown beautifulsoup4
-python3 scripts/generate_members_json.py
-```
-
-The script will create the `about/` directory if it does not yet exist and produce `members.json`.
+The service account needs read access to the Google Sheet. Ensure the sheet is shared with the service account's email address.
 
 ## Contributing
 

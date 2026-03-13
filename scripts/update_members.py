@@ -32,6 +32,7 @@ import re
 from pathlib import Path
 from typing import List, Dict, Any
 import datetime
+import openpyxl
 
 # constants
 REPO_ROOT = Path(__file__).parent.parent
@@ -48,6 +49,7 @@ TABLE_FILES = {
 # ---------------------------------------------------------------------------
 # contribution-cleaning helpers (from scripts/clean_members.py)
 # ---------------------------------------------------------------------------
+
 
 def expand_year(year_str: str) -> str:
     if "-" not in year_str:
@@ -99,6 +101,7 @@ def parse_sort_key(text: str) -> int:
 # sorting helpers (adapted from scripts/sort_members.py)
 # ---------------------------------------------------------------------------
 
+
 def surname_from_row(row: str) -> str:
     """Extract the surname (last word) from the first <td> in a row."""
     # find first <td>...</td>
@@ -131,6 +134,7 @@ def sort_and_annotate(rows: List[str]) -> str:
 # ---------------------------------------------------------------------------
 # row generation
 # ---------------------------------------------------------------------------
+
 
 def make_row(entry: Dict[str, Any]) -> str:
     """Return a <tr> block for a member entry.
@@ -206,19 +210,14 @@ def make_row(entry: Dict[str, Any]) -> str:
     else:
         contrib_cell = "    <td></td>\n"
 
-    row = (
-        "<tr>\n"
-        f"    <td>{name}</td>\n"
-        + aff_cell
-        + contrib_cell
-        + "</tr>"
-    )
+    row = f"<tr>\n    <td>{name}</td>\n" + aff_cell + contrib_cell + "</tr>"
     return row
 
 
 # ---------------------------------------------------------------------------
 # table replacement
 # ---------------------------------------------------------------------------
+
 
 def generate_tbody(entries: List[Dict[str, Any]]) -> str:
     rows = [make_row(e) for e in entries]
@@ -238,7 +237,7 @@ def update_members_md():
     if not json_path.exists():
         print(f"warning: {json_path} missing")
         return
-    with open(json_path, 'r') as jf:
+    with open(json_path, "r") as jf:
         all_entries = json.load(jf)
         if not isinstance(all_entries, list):
             print(f"warning: {json_path} does not contain a list")
@@ -246,10 +245,10 @@ def update_members_md():
 
     changed = False
     for table_id, status in TABLE_FILES.items():
-        entries = [e for e in all_entries if e.get('status') == status]
+        entries = [e for e in all_entries if e.get("status") == status]
         # Remove status from entries for processing
         for e in entries:
-            e.pop('status', None)
+            e.pop("status", None)
 
         new_body = generate_tbody(entries)
 
@@ -285,5 +284,50 @@ def update_members_md():
         print(f"no changes detected; {MEMBERS_MD} not updated")
 
 
-if __name__ == '__main__':
+def update_members_excel(members: List[Dict[str, Any]], output_path: Path):
+    """Convert members list to Excel spreadsheet."""
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    if ws is not None:
+        ws.title = "Members"
+
+        # Write headers
+        headers = [
+            "Name",
+            "Email",
+            "Status",
+            "Affiliations",
+            "Contributions",
+            "Skills",
+            "Last Activity",
+        ]
+        for col_num, header in enumerate(headers, 1):
+            ws.cell(row=1, column=col_num, value=header)
+
+        # Write data
+        for row_num, member in enumerate(members, 2):
+            name = member.get("name", "")
+            email = member.get("email", "")
+            status = member.get("status", "")
+            affiliations = "\n".join(member.get("affiliations", []))
+            contributions = "\n".join(member.get("contributions", []))
+            skills = member.get("skills", "")
+            last_activity = member.get("last_activity", "")
+
+            ws.cell(row=row_num, column=1, value=name)
+            ws.cell(row=row_num, column=2, value=email)
+            ws.cell(row=row_num, column=3, value=status)
+            ws.cell(row=row_num, column=4, value=affiliations)
+            ws.cell(row=row_num, column=5, value=contributions)
+            ws.cell(row=row_num, column=6, value=skills)
+            ws.cell(row=row_num, column=7, value=last_activity)
+
+        # Save the workbook
+        wb.save(output_path)
+        print(f"Wrote {output_path}")
+    else:
+        print("Filed to find an active worksheet in the workbook.")
+
+
+if __name__ == "__main__":
     update_members_md()

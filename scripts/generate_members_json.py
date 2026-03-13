@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 """Generate JSON file for the member tables in `about/members.md`.
 
+This script is deprecated after the development of `sync_from_sheets.py` and `update_members.py`.
+Therefore, you shouldn't need to run it, but we'll keep it in case its functionality is useful in the future for some reason.
+
 This script reads the markdown source, converts it to HTML, and then
 scrapes the three tables (identified by their IDs) to produce a single
 `members.json` file in the `about/` directory with a status field added
-to each entry.
+to each entry. It also generates an Excel spreadsheet `members.xlsx` in
+the root directory.
 
 Usage:
     python3 scripts/generate_members_json.py
 
 Dependencies:
-    pip install markdown beautifulsoup4
+    pip install markdown beautifulsoup4 openpyxl
 """
 import json
 import os
@@ -18,29 +22,30 @@ import sys
 
 from bs4 import BeautifulSoup
 import markdown
+import openpyxl
 
 
 def table_to_json(table):
     """Convert a BeautifulSoup `<table>` element to a list of dicts."""
     # header row
-    header_cells = table.find('tr').find_all('th')
+    header_cells = table.find("tr").find_all("th")
     headers = [th.get_text(strip=True).lower() for th in header_cells]
 
     rows = []
-    for tr in table.find_all('tr')[1:]:
-        tds = tr.find_all('td')
+    for tr in table.find_all("tr")[1:]:
+        tds = tr.find_all("td")
         if not tds:
             continue
         entry = {}
         for key, td in zip(headers, tds):
-            if key == 'name':
+            if key == "name":
                 # Name is always a string
                 entry[key] = td.get_text(strip=True)
             else:
                 # Affiliations and contributions: always store as a list
-                ul = td.find('ul')
+                ul = td.find("ul")
                 if ul:
-                    items = [li.get_text(strip=True) for li in ul.find_all('li')]
+                    items = [li.get_text(strip=True) for li in ul.find_all("li")]
                     # filter out empty strings
                     items = [i for i in items if i]
                     entry[key] = items
@@ -55,34 +60,34 @@ def table_to_json(table):
 
 
 def main():
-    repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-    md_path = os.path.join(repo_root, 'about', 'members.md')
+    repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+    md_path = os.path.join(repo_root, "about", "members.md")
     if not os.path.isfile(md_path):
         print(f"could not find {md_path}", file=sys.stderr)
         sys.exit(1)
 
-    with open(md_path, 'r') as f:
+    with open(md_path, "r") as f:
         md = f.read()
 
     # convert markdown to HTML so we can take advantage of .. tags
-    html = markdown.markdown(md, extensions=['tables'])
-    soup = BeautifulSoup(html, 'html.parser')
+    html = markdown.markdown(md, extensions=["tables"])
+    soup = BeautifulSoup(html, "html.parser")
 
     # JSON now lives in the top-level about directory rather than a
     # subfolder.  Historically we wrote to `about/members/` but the
     # file has been moved up one level.
-    outdir = os.path.join(repo_root, 'about')
+    outdir = os.path.join(repo_root, "about")
     os.makedirs(outdir, exist_ok=True)
 
     mapping = {
-        'full-member-table': 'full',
-        'provisional-member-table': 'provisional',
-        'emeritus-member-table': 'emeritus',
+        "full-member-table": "full",
+        "provisional-member-table": "provisional",
+        "emeritus-member-table": "emeritus",
     }
 
     all_data = []
     for table_id, status in mapping.items():
-        table = soup.find('table', id=table_id)
+        table = soup.find("table", id=table_id)
         if table is None:
             print(f"warning: table with id '{table_id}' not found", file=sys.stderr)
             continue
@@ -90,14 +95,48 @@ def main():
         data = table_to_json(table)
         # Add status to each entry
         for entry in data:
-            entry['status'] = status
+            entry["status"] = status
         all_data.extend(data)
 
-    outpath = os.path.join(outdir, 'members.json')
-    with open(outpath, 'w') as outf:
+    outpath = os.path.join(outdir, "members.json")
+    with open(outpath, "w") as outf:
         json.dump(all_data, outf, indent=2, ensure_ascii=False)
     print(f"wrote {outpath} ({len(all_data)} records)")
 
+    # Generate Excel spreadsheet
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    if ws is not None:
+        ws.title = "Members"
 
-if __name__ == '__main__':
+        # Write headers
+        headers = ["Name", "Email", "Status", "Affiliations", "Contributions", "Skills", "Last Activity"]
+        for col_num, header in enumerate(headers, 1):
+            ws.cell(row=1, column=col_num, value=header)
+
+        # Write data
+        for row_num, member in enumerate(all_data, 2):
+            name = member.get("name", "")
+            email = member.get("email", "")  # Assuming it might exist, but from data it doesn"t
+            status = member.get("status", "")
+            affiliations = "\n".join(member.get("affiliations", []))
+            contributions = "\n".join(member.get("contributions", []))
+            skills = member.get("skills", "")  # Assuming it might exist
+            last_activity = member.get("last_activity", "")  # Assuming it might exist
+
+            ws.cell(row=row_num, column=1, value=name)
+            ws.cell(row=row_num, column=2, value=email)
+            ws.cell(row=row_num, column=3, value=status)
+            ws.cell(row=row_num, column=4, value=affiliations)
+            ws.cell(row=row_num, column=5, value=contributions)
+            ws.cell(row=row_num, column=6, value=skills)
+            ws.cell(row=row_num, column=7, value=last_activity)
+
+        # Save the workbook
+        excel_path = os.path.join(outdir, "members.xlsx")
+        wb.save(excel_path)
+        print(f"wrote {excel_path} ({len(all_data)} records)")
+
+
+if __name__ == "__main__":
     main()

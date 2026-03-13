@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: August 22, 2025
+last_updated: March 13, 2026
 ---
 
 # Table of Contents
@@ -110,6 +110,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
                 <li>2023 ACF Nationals Assistant Tournament Director</li>
                 <li>2024 ACF Nationals Assistant Tournament Director</li>
                 <li>2025 ACF Nationals Tournament Director</li>
+                <li>2026 ACF President</li>
             </ul>
         </td>
     </tr>
@@ -153,7 +154,9 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     </tr>
     <tr>
         <td>Emily Bussa</td>
-        <td></td>
+        <td>
+            Alum, University of Maryland
+        </td>
         <td>
             <ul>
                 <li>2025 ACF Nationals Host Logistics Contact</li>
@@ -200,25 +203,6 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         </td>
     </tr>
     <!-- D -->
-    <tr>
-        <td>Alex Damisch</td>
-        <td>
-            <ul>
-                <li>M.S., DePaul University</li>
-                <li>Alum, Lawrence University</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>2018-2019, Treasurer</li>
-                <li>2018 ACF Nationals Logistics</li>
-                <li>2018-Present, State of Illinois Liaison</li>
-                <li>2019-2020, Site Coordinator</li>
-                <li>2019 ACF Nationals Editor</li>
-                <li>2020-2021, President</li>
-            </ul>
-        </td>
-    </tr>
     <tr>
         <td>Jordan Davidsen</td>
         <td>
@@ -867,6 +851,18 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         </td>
     </tr>
     <tr>
+        <td>Noah Sheidlower</td>
+        <td>
+            Alum, Columbia University
+        </td>
+        <td>
+            <ul>
+                <li>2025 ACF Regionals Editor</li>
+                <li>2026 ACF Regionals Editor</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>Munir Siddiqui</td>
         <td>
             Alum, University of Maryland
@@ -964,6 +960,18 @@ Full members can vote in all ACF elections and on all constitutional amendments.
             <ul>
                 <li>2023-2024 Liveblog Coordinator</li>
                 <li>2025 ACF Fall Head Editor</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Forrest Weintraub</td>
+        <td>
+            Alum, Columbia University
+        </td>
+        <td>
+            <ul>
+                <li>2025 ACF Fall Editor</li>
+                <li>2026 ACF Regionals Editor</li>
             </ul>
         </td>
     </tr>
@@ -1191,6 +1199,16 @@ Provisional members are community members who have ably assisted ACF in the past
             2025 ACF Winter Editor
         </td>
     </tr>
+    <!-- J -->
+    <tr>
+        <td>Claire Jones</td>
+        <td>
+            University of Chicago
+        </td>
+        <td>
+            2026 ACF Regionals Editor
+        </td>
+    </tr>
     <!-- K -->
     <tr>
         <td>Aseem Keyal</td>
@@ -1199,6 +1217,15 @@ Provisional members are community members who have ably assisted ACF in the past
         </td>
         <td>
             2024 ACF Nationals Editor
+        </td>
+    </tr>
+    <tr>
+        <td>Jay Kim</td>
+        <td>
+            University of Chicago
+        </td>
+        <td>
+            2026 ACF Regionals Editor
         </td>
     </tr>
     <tr>
@@ -1335,15 +1362,6 @@ Provisional members are community members who have ably assisted ACF in the past
         </td>
     </tr>
     <tr>
-        <td>Noah Sheidlower</td>
-        <td>
-            Alum, Columbia University
-        </td>
-        <td>
-            2025 ACF Regionals Editor
-        </td>
-    </tr>
-    <tr>
         <td>Ashish Subramanian</td>
         <td>
             Alum, Duke University
@@ -1386,15 +1404,13 @@ Provisional members are community members who have ably assisted ACF in the past
         <td>
             Alum, University of Minnesota
         </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Forrest Weintraub</td>
         <td>
-            Alum, Columbia University
-        </td>
-        <td>
-            2025 ACF Fall Editor
+            <ul>
+                <li>2022 ACF Fall Tournament Director</li>
+                <li>2023 ACF Regionals Tournament Director</li>
+                <li>2023 ACF Fall Tournament Director</li>
+                <li>2024 ACF Regionals Tournament Director</li>
+            </ul>
         </td>
     </tr>
     <!-- X -->
@@ -1565,6 +1581,25 @@ Emeritus members are former ACF full members who have decided to take a step bac
         </td>
     </tr>
     <!-- D -->
+    <tr>
+        <td>Alex Damisch</td>
+        <td>
+            <ul>
+                <li>M.S., DePaul University</li>
+                <li>Alumna, Lawrence University</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>2018-2019, Treasurer</li>
+                <li>2018 ACF Nationals Logistics</li>
+                <li>2018-Present, State of Illinois Liaison</li>
+                <li>2019-2020, Site Coordinator</li>
+                <li>2019 ACF Nationals Editor</li>
+                <li>2020-2021, President</li>
+            </ul>
+        </td>
+    </tr>
     <tr>
         <td>Trevor Davis</td>
         <td>
@@ -2201,7 +2236,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Annabelle Yang</td>
         <td>
             <ul>
-                <li>MD Candidate, Washington University in St. Louis</li>
+                <li>MD, Washington University in St. Louis</li>
                 <li>Alum, Duke University</li>
             </ul>
         </td>
