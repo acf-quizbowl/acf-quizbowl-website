@@ -102,6 +102,7 @@ The ACF membership tables are maintained using [a Google Sheets spreadsheet](htt
 The script uses a Google Service Account (`ACF Members Maintenance`) for authentication.
 
 * Name/ID: `acf-members-maintenance`
+* Email: `acf-members-maintenance@acf-members-maintenance.iam.gserviceaccount.com`
 * Project number: `1060389719532`
 * [Dashboard](https://console.cloud.google.com/home/dashboard?project=acf-members-maintenance)
 * [Cloud hub](https://console.cloud.google.com/cloud-hub/home?project=acf-members-maintenance)
