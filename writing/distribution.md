@@ -186,7 +186,7 @@ This category may include the history of:
 
 #### European History
 
-Two submitted questions *must* be on the history of continental Europe. Continental European history may include the history of:
+Two submitted questions *must* be on the history of continental Europe, which may include the history of:
 
 * European colonialism around the world
 * European foreign policy
@@ -541,8 +541,6 @@ Topics for this category may include:
   * Podcasts
 * Popular literature
   * Comic books
-* Food
-  * You may also submit questions on food in [Geography](#geography).
 * Video games
 * Online culture
 
