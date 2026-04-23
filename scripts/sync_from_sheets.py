@@ -58,8 +58,8 @@ def main():
     )
     parser.add_argument(
         "--credentials",
-        default=str(Path(__file__).parent / "script-credentials.json"),
-        help="Path to service account credentials JSON file (default: scripts/script-credentials.json)",
+        default=str(Path(__file__).parent / "credentials.json"),
+        help="Path to service account credentials JSON file (default: scripts/credentials.json)",
     )
     args = parser.parse_args()
 
