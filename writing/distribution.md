@@ -113,7 +113,7 @@ This category also includes Classical literature from Ancient Greece and Rome, p
 This category is for questions on *English-language and non-English-language* literature by authors from all geographic regions not listed above, including:
 
 * <mark>Canada</mark>
-* <mark>Mexico</mark>
+* Mexico
 * Central & South America
   * <mark>Caribbean</mark>
 * Africa
