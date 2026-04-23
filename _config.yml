@@ -17,7 +17,7 @@ title: Academic Competition Federation
 tagline: Hi. We’re ACF.
 description: We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. <a href='/tournaments'>Our tournaments</a> reward academic knowledge, encourage learning, and foster the spirit of competition and fair play. # Only use single quotes in HTML tags in the description, double quotes break the rendering
 logo: /logo.png
-thumbnail: /thumbnail_logo.png
+thumbnail: /acf_thumbnail.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://acf-quizbowl.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: acf-quizbowl.github.io # the GitHub repo name for your project

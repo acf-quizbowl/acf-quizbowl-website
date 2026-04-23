@@ -36,32 +36,21 @@
         </div>
 
         <div id="site-desc">
-          <!-- This is where you can link the schedule for ACF Nationals each year. It'll appear above the site description.
-            <a href="https://docs.google.com/spreadsheets/d/1sSHDkE0bHOLmfTs8be_Bi3PqsumuDP-ABJN0qMyqyHg/edit#gid=166353799" style="padding:12px 16px; border-radius:4px; display:inline-block; margin: 0px 10px 10px 0px; background: rgb(2,58,107) !important;
-            background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-            background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-            background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-            color:white;">2024 ACF Nationals Playoffs Schedule →</a>
-            <a href="https://hsquizbowl.org/db/tournaments/8934/" style="padding:12px 16px; border-radius:4px; display:inline-block; margin: 0px 10px 10px 0px; background: rgb(2,58,107) !important;
-            background: -webkit-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-            background: -o-linear-gradient(333deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-            background: linear-gradient(63deg, rgba(2,58,107,1) 0%, rgba(66,136,193,1) 74%, rgba(126,217,253,1) 100%) !important;
-            color:white;">HSQB Stats →</a>
-            <a href="https://hdwhite.org/qb/tournaments/acfnats2024/" style="padding:12px 16px; border-radius:4px; display:inline-block; margin: 0px 10px 10px 0px; background: #D9E9FF">Live Stats →</a>
-            <a href="assets/2024-Nats-Map.pdf" style="padding:12px 16px; border-radius:4px; display:inline-block; margin: 0px 10px 10px 0px; background: #D9E9FF">Nationals Map →</a>
-            <a href="https://drive.google.com/file/d/1W58co87Utv3VZ9nYGncyxXRONwEeqL0N/view" style="padding:12px 16px; border-radius:4px; display:inline-block; margin: 0px 10px 10px 0px; background: #D9E9FF">Program Booklet →</a> -->
           <p class="h3 lh-condensed font-weight-bold mt-2">{{ site.tagline}}</p>
           <p class="h4 lh-condensed font-smoothing col-12">{{ site.description }}</p>
           <div class="clearfix py-1">
             <div class="col-8 sm-width-full left">
               <div class="table">
-                <div class="inline-block mt-3 mr-1">
+                <div class="inline-block mt-3 mr-1" alt="Linktree">
+                  {% include linktree-logo.html %}
+                </div>
+                <div class="inline-block mt-3 mr-1" alt="Twitter">
                   {% include twitter-logo.html %}
                 </div>
-                <div class="inline-block mt-3 mr-1">
+                <div class="inline-block mt-3 mr-1" alt="Facebook">
                   {% include facebook-logo.html %}
                 </div>
-                <div class="inline-block mt-3">
+                <div class="inline-block mt-3" alt="Email">
                   {% include mail-logo.html %}
                 </div>
               </div>
@@ -98,7 +87,10 @@
       <span class="date">April 18-19, 2026</span>
       <h2><a href="/tournaments/nationals/2026">2026 ACF Nationals</a></h2>
       <span class="head-editors">Head edited by Henry Atkins</span>
-      <a href="/tournaments/nationals/">About ACF Nationals →</a>
+      <div style="width: 100%;">
+        <div style="display: inline-block; width: 50%"><a href="/tournaments/nationals/">About ACF Nationals →</a></div>
+        <div style="display: inline-block; width: 25%"><a href="https://nationals.acf-quizbowl.com" alt="Linktree">Linktree →</a></div>
+      </div>
     </div>
   </div>
   </div>
