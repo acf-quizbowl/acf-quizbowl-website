@@ -17,6 +17,8 @@ last_updated: September 24, 2025
 
 2026 ACF Nationals will be held at the University of Maryland, College Park (UMD) on April 18-19, 2026.
 
+A linktree for the tournament is available at [nationals.acf-quizbowl.com](https://nationals.acf-quizbowl.com).
+
 ## Editors
 
 2026 ACF Nationals is head edited by Henry Atkins. The Tournament Director is Kevin Jiang.

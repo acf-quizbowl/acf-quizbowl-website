@@ -8,6 +8,7 @@ The Dr. N. Gordon Carper Lifetime Achievement Award is given to members of the q
 
 ## Winners
 
+* [2026](/carper/2026): Dan Goff and Alejandro López-Lago
 * [2025](/carper/2025): Jordan Brownstein, Kyle Haddad-Fonda, and Selene Koo
 * [2024](/carper/2024): John Lawrence, Raj Bhan, and Dave Hamilton
 * [2023](/carper/2023): Edmund Dickinson and Joe Su
