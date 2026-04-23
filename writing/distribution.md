@@ -282,7 +282,7 @@ Topics for this category may include, *but are not limited to*:
 > [!WARNING]
 > A submission's Other Science questions *must* be materially different from its Biology, Chemistry, and Physics questions.
 > <br>
-> E.g., you should not submit both a Physics tossup on cosmology and an Other Science tossup on astronomy.
+> E.g., *do not* submit both a Physics tossup on cosmology and an Other Science tossup on astronomy.
 > <br>
 > Submitted Other Science questions that are on Biology, Chemistry, or Physics answerlines solely written using clues from Biology, Chemistry, or Physics topics **will be rejected**.
 
@@ -330,8 +330,9 @@ This category is also for other areas of science and technology, including *but 
 
 This category is primarily for **painting and sculpture**.
 
-<!-- This category is also for other visual fine arts topics, including *but not limited to*:
+<!-- This category is also for other visual fine arts topics, including *but not limited to*: -->
 
+<!--
 * Installation art
 * Land art
 * Collage
@@ -339,7 +340,8 @@ This category is primarily for **painting and sculpture**.
 * Art criticism
 * Art history
 * <mark class="red">"Visual"</mark> topics under [Other Fine Arts](#other-fine-arts)
-* <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts) -->
+* <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts)
+-->
 
 > [!WARNING]
 > At least one of the submitted Painting & Sculpture questions *must* be on painting.
@@ -356,8 +358,8 @@ This category is also for other auditory fine arts topics, including *but not li
 * Classical music traditions of non-Western regions (e.g., India, China, Japan)
 * Music theory
 * Musicology
-* <mark class="yellow">"Auditory"</mark> topics under [Other Fine Arts](#other-fine-arts)
-* <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts)
+<!-- * <mark class="yellow">"Auditory"</mark> topics under [Other Fine Arts](#other-fine-arts) -->
+<!-- * <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts) -->
 
 > [!WARNING]
 > At least one of the submitted Classical Music questions *must* be on classical music of the Western world.
