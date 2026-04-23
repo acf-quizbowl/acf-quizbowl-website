@@ -39,6 +39,10 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose ul, .prose ol { padding-left: 40px; }
 .prose img { max-width: 100%; }
 @media (min-width: 100%) { .prose img { max-width: 120%; } }
+.prose mark { border-radius: 5px; background-color: #023B7F; color: white; padding: 1.75px 5px; display: inline; }
+.prose mark.red { background-color: #870e05; color: white; }
+.prose mark.yellow { background-color: #eae315; color: black; }
+.prose mark.green { background-color: #67df65; color: black; }
 .prose blockquote { font-size: 1.15em; line-height: 1.375; padding-left: 20px; margin: 40px 0 40px -16px; border-left: 8px solid #ddd; font-style: italic; color: #4279C1; }
 @media (min-width: 100%) { .prose blockquote { padding-left: 32px; margin: 64px 0 64px -40px; max-width: 110%; } }
 .prose hr { color: #023B7F; border-style: solid; border-width: thin; margin-top: 2em; margin-bottom: -2em; width: 50%; margin-left: 15%; text-align: center; }
@@ -52,6 +56,8 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose table tr th { border-top: 1px solid #023B7F; border-bottom: 1px solid #023B7F; }
 .prose table tbody tr:nth-child(even) { background-color: #f2f2f2; border-bottom: 1px solid #ddd; }
 .prose table.table-multi tbody td { background-color: white; border-bottom: 1px solid #023B7F; }
+.prose table.table-multi tr > td:first-child([style]) { background-color: black; color: white; }
+.prose table.table-multi tr:nth-child(even) > td:not([style]) { background-color: #f2f2f2; }
 .prose table thead tr:first-child th { border-top: 2px solid #023B7F; }
 .prose table tbody tr:last-child { border-bottom: 2px solid #023B7F; }
 .prose table.member-list { width: 100%; }

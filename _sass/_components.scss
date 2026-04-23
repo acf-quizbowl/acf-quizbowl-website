@@ -2,16 +2,16 @@
 
 // Code formatting
 pre {
-    border-left: $spacer-1 solid $color-border;
-    margin: $spacer-3 0;
-    padding-left: 16px;
-    width: (9 / 12 * 100%); // matches col-9
-    overflow-x: auto;
+  border-left: $spacer-1 solid $color-border;
+  margin: $spacer-3 0;
+  padding-left: 16px;
+  width: (9 / 12 * 100%); // matches col-9
+  overflow-x: auto;
 }
 
 code {
-    color: $color-code;
-    padding: 1px 0px;
+  color: $color-code;
+  padding: 1px 0px;
 }
 
 
@@ -26,7 +26,9 @@ code {
     }
   }
 
-  p, ol, ul {
+  p,
+  ol,
+  ul {
     width: 100%;
 
     @media (min-width: $breakpoint-lg) {
@@ -35,18 +37,40 @@ code {
 
   }
 
-  ul, ol {
+  ul,
+  ol {
     padding-left: 40px;
   }
 
   img {
-
     max-width: 100%;
 
     @media (min-width: $breakpoint-lg) {
       max-width: (12 / 10 * 100%); // make image fill width of container on desktop
     }
+  }
 
+  mark {
+    border-radius: 5px;
+    background-color: $color-title;
+    color: white;
+    padding: 1.75px 5px;
+    display: inline;
+
+    &.red {
+      background-color: #870e05;
+      color: white;
+    }
+
+    &.yellow {
+      background-color: #eae315;
+      color: black;
+    }
+
+    &.green {
+      background-color: #67df65;
+      color: black;
+    }
   }
 
   blockquote {
@@ -78,8 +102,9 @@ code {
   }
 
   dl {
-	  margin-left: 1em;
+    margin-left: 1em;
   }
+
   dt {
     font-weight: bold;
     line-height: 1.25;
@@ -105,7 +130,8 @@ code {
       color: $color-title;
     }
 
-    th, td {
+    th,
+    td {
       padding: 6px 8px;
       vertical-align: middle;
     }
@@ -122,17 +148,30 @@ code {
       border-top: 1px solid $color-title;
       border-bottom: 1px solid $color-title;
     }
+
     tbody tr:nth-child(even) {
       background-color: #f2f2f2;
       border-bottom: 1px solid $color-border;
     }
+
     &.table-multi tbody td {
       background-color: white;
       border-bottom: 1px solid $color-title;
     }
+
+    &.table-multi tr>td:first-child([style]) {
+      background-color: black;
+      color: white;
+    }
+
+    &.table-multi tr:nth-child(even)>td:not([style]) {
+      background-color: #f2f2f2;
+    }
+
     thead tr:first-child th {
       border-top: 2px solid $color-title;
     }
+
     tbody tr:last-child {
       border-bottom: 2px solid $color-title;
     }
@@ -150,7 +189,9 @@ code {
     }
 
     &.schedule {
-      th, td {
+
+      th,
+      td {
         text-align: center;
         width: 5em;
       }
@@ -170,12 +211,16 @@ code {
         background-color: #dbdcde;
         border-top: 1px solid $color-title;
       }
+
       tr.subcategory td:first-child {
         padding-left: 2em;
       }
 
-      thead, tbody {
-        th, td {
+      thead,
+      tbody {
+
+        th,
+        td {
           &:nth-child(n+2) {
             text-align: center;
           }
@@ -187,27 +232,34 @@ code {
 
 // specific to pages with table of contents
 .toc {
-  background-color:blue-light;
-  padding:30px;
-  position:fixed;
-  box-sizing:border-box;
-  top:0px;
-  height:100%;
-  width:300px;
-  left:0px;
+  background-color: blue-light;
+  padding: 30px;
+  position: fixed;
+  box-sizing: border-box;
+  top: 0px;
+  height: 100%;
+  width: 300px;
+  left: 0px;
 
-  li { list-style-type: none; margin-bottom:6px; }
-  li:first-child { margin-top:20px; }
+  li {
+    list-style-type: none;
+    margin-bottom: 6px;
+  }
+
+  li:first-child {
+    margin-top: 20px;
+  }
+
   a {
-    color:$blue-dark;
+    color: $blue-dark;
   }
 }
 
 // automatically adds "Table of Contents" title
 .toc:before {
-  content:"Table of Contents";
-  color:$blue-dark;
-  font-weight:bold;
+  content: "Table of Contents";
+  color: $blue-dark;
+  font-weight: bold;
   font-size: $h2-size;
 }
 
@@ -239,21 +291,22 @@ nav {
 /* used for a large link which spans the width of the content */
 .important-link {
   // background-color:$blue-light-2;
-  padding:1em 1.5em;
-  border-radius:4px;
-  margin-bottom:16px;
+  padding: 1em 1.5em;
+  border-radius: 4px;
+  margin-bottom: 16px;
 
   a:first-child {
-    font-weight:bold;
-    margin-bottom:8px;
-    font-size:1.2em;
-    display:block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 1.2em;
+    display: block;
   }
 
   &:nth-child(even) {
-    background-color:$blue-light-2;
+    background-color: $blue-light-2;
   }
+
   &:nth-child(odd) {
-    background-color:$blue-light-3;
+    background-color: $blue-light-3;
   }
 }
