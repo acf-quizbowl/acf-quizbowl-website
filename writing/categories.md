@@ -32,7 +32,7 @@ This page lists the guidelines for each category in the [ACF packet distribution
 ## Literature
 
 <details markdown="1">
-  <summary class="topics">
+  <summary class="diversity">
   Question Diversity
   </summary>
 
