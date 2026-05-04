@@ -10,13 +10,12 @@ last_updated: May 04, 2026
 > [!NOTE]
 > The notation “X/Y” refers to X tossups and Y bonuses (per packet).
 
-This page lists the distributions for three types of submitted packets:
+This page lists the distribution for a **full packet (24/24)**.
 
-* **Full packet (24/24)**
+*In addition to* or *instead of* submission of a full packet, ACF tournaments may provide the option for submission of a:
+
 * Half packet (12/12)
 * Quarter packet (7/7)
-
-*In addition to* or *instead of* submission of a full packet, ACF tournaments may *also* or *instead* provide the option for submission of a **half-packet (12/12)** or a **quarter packet (7/7)**.
 
 The half and quarter packet distribution template, as assigned by the tournament head editor on a team-by-team basis, will be a unique subset of the categories that comprise the full packet distribution.
 
