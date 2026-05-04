@@ -325,7 +325,7 @@ This category may also include questions spanning the history of multiple geogra
 
 This category is for science topics in disciplines other than [Biology](#biology), [Chemistry](#chemistry), and [Physics](#physics).
 
-<details markdown="1">
+<details open markdown="1">
   <summary class="topics">
   Potential Topics
   </summary>
@@ -432,7 +432,7 @@ This category is primarily for **classical music of the Western world**.
 
 This category is primarily for arts topics in disciplines other than [Painting & Sculpture](#painting--sculpture) or [Classical Music](#classical-music).
 
-<details markdown="1">
+<details open markdown="1">
   <summary class="topics">
   Potential Topics
   </summary>
