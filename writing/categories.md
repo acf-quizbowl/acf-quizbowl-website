@@ -59,19 +59,6 @@ This category is primarily for literature by **authors from the continental Unit
 
 This category is for literature by **authors from the United Kingdom and Ireland**.
 
-<details markdown="1">
-  <summary class="regions">
-  Included Geographical Regions
-  </summary>
-
-  * United Kingdom
-    * England
-    * Scotland
-    * Wales
-    * Northern Ireland
-  * Ireland
-</details>
-
 ### European Literature
 
 This category is primarily for literature by **European authors** (generally non-English-language):
@@ -209,7 +196,20 @@ This category is primarily for the **history of the United States**.
 
 ### European History
 
-This category is primarily for the **history of continental Europe**.
+This category is primarily for the **history of Europe**.
+
+<details markdown="1">
+  <summary class="regions">
+  Included Geographical Regions
+  </summary>
+
+  * United Kingdom & Ireland
+  * Western, Southern, & Central Europe
+  * Russia (and Soviet Union)
+  * Scandinavia
+  * Balkan countries
+  * Island territories of the above countries
+</details>
 
 <details markdown="1">
   <summary class="subs">
