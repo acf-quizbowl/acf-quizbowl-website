@@ -8,10 +8,17 @@ redirect_from:
 last_updated: May 04, 2026
 ---
 
+> [!IMPORTANT]
+> * **Reading the entirety of this page before submitting a packet is *not required***.
+> <br>
+> * This is simply a reference guide, so you can just skip to the part(s) on which you need clarification.
+
 This page lists the guidelines for each category in the [ACF packet distribution](/writing/distribution).
 
 * Most of the descriptions include a short list of potential topics that submitted questions may cover.
 * When appropriate, a list of geographical regions spanned by the category is provided.
+* When appropriate, a list of secondary sub-topics spanned by the category is provided.
+* When appropriate, an overview of how submissions in the category should be diverse is provided.
 
 # Table of Contents
 {: .no_toc}
