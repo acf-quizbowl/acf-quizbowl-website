@@ -630,7 +630,7 @@ This category is for events that took place in *recent history* before the date 
 
 ### Other Academic
 
-<details markdown="1">
+<details open markdown="1">
   <summary class="topics">
   Potential Topics
   </summary>
