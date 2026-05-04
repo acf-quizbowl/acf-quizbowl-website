@@ -8,14 +8,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>2023 Carper Award Winners</title>
+  <title>ACF Category Guide</title>
   <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. &lt;a href='/tournaments'&gt;Our tournaments&lt;/a&gt; reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
 
   
   
   <link rel="stylesheet" href="/assets/style.css">
 
-  <link rel="canonical" href="/carper/2023">
+  <link rel="canonical" href="/writing/categories/">
   <link rel="alternate" type="application/rss+xml" title="Academic Competition Federation" href="http://localhost:4000%20/feed.xml">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -125,33 +125,76 @@
 
 
     <div>
-      <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
-  <h1 class="h0 col-9 sm-width-full py-1 mt-3 inline-block" itemprop="name headline">2023 Carper Award Winners</h1>
-  <div class="col-4 sm-width-full mt-1">
-    <p class="mb-3 py-1 bold h4"><time datetime="" itemprop="datePublished"></time></p>
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+
+    @media screen and (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+    }
+  }
+
+  .toc-article {
+    width: 700px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    header,
+    .toc-article {
+      width: calc(100vw - 400px);
+      left: 350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display: none;
+    }
+
+    header,
+    .toc-article {
+      width: 80vw;
+      left: 10vw;
+      margin: auto;
+    }
+  }
+</style>
+
+<article class="container mx-auto px-2">
+  <header>
+    <h1 class="h0 py-1 mt-3">ACF Category Guide</h1>
+    
+    <p class="last-updated">Last updated: May 04, 2026</p>
+    
+  </header>
+  <div class="prose mb-4">
+    
+
   </div>
-
-  <div class="prose" itemprop="articleBody">
-      <p>ACF is pleased to announce that the 2023 Carper Award winners are Edmund Dickinson and Joe Su!</p>
-
-<p>Edmund received the award through the vote of the ACF membership. When Edmund joined the Oxford University Quiz Society in 2007, collegiate quizbowl in the UK was confined to a handful of matches on modified U.S. high-school questions played between Oxford and Cambridge. Fifteen years later, UK student quizbowl has flowered into a stable, active circuit across many more tournaments and schools, which has developed impressive teams, players, and contributors who have made their presence known across the quizbowl world. Edmund has been at the center of the huge collective endeavor that made all this possible. From 2012-2020, he was head editor (and frequently also organizer and tournament director) of the British Student Quiz Championships and led the organization now known as UK Quizbowl. His efforts to “Briticise” question sets by replacing U.S.-centric content with appropriate fare for a British audience has played a huge part in helping popularize the game across the Atlantic. He is also an accomplished player who led Oxford to a dominant 2011 British Student Quiz Championships win and impressive finishes at ICT. Edmund’s central presence as a player, moderator, editor, and organizer has been a constant from quizbowl’s reestablishment in Britain to the thriving circuit of today; simply put, British quizbowl would not exist in its current form without Edmund’s efforts, and I’m very happy ACF chose to recognize him with the Carper Award.</p>
-
-<p>Starting two years ago, ACF has empowered a committee of former Carper winners who are also ACF members to select a second winner each year. This year, the committee recognizes Joe Su. Joe’s efforts to build up college quizbowl in Canada included not only serving as the backbone of the McGill club for years, but also making and sustaining connections between clubs, encouraging teams to play quality events, and crisscrossing the country at his own expense to help direct and keep stats for tournaments. He has served as a prolific writer and editor, establishing the annual Eastern Canada collegiate novice tournament and frequently writing and editing for Canadian/Ontario hybrid events. Joe’s talent as a player shouldn’t be overlooked, either; he was part of a fearsome McGill roster that racked up top-ten finishes at both ACF Nationals and ICT and is among the best Canadian teams ever assembled. With a generation of Canadian players who have excelled at top-level collegiate and open competition, he has also been an important competitive link between the U.S. and Canadian circuits. In no small part because of Joe’s work, the Canadian circuit is now perennially one of the most active in North America, which was almost unthinkable when he first arrived on the scene. I’m glad we are recognizing him for his impressive work.</p>
-
-<p>It’s a happy coincidence that, this year, ACF honors two pioneering circuit builders outside the U.S. We are grateful to the college quizbowl community, particularly our friends on the British and Canadian circuits, for championing both Edmund and Joe as candidates for the Carper Award; your input was crucial in helping us understand the force of their efforts.</p>
-
-  </div>
-
 </article>
 
-<div class="container mx-auto px-2 py-2 clearfix">
-  <!-- Use if you want to show previous and next for all posts. -->
+<script>
+  $(document).ready(function () {
+    $('#full-member-table').DataTable();
+    $('#provisional-member-table').DataTable();
+    $('#emeritus-member-table').DataTable();
+  });
+  $(".menu").click(function () {
+    $(".toc").toggle("slow", function () {
+      // Animation complete.
+    });
+  });
+</script>
 
-
-
-  
-
-</div>
 
     </div>
   </body>

@@ -4,7 +4,7 @@ title: ACF Packet Distribution
 permalink: /writing/distribution/
 redirect_from:
   - /distribution
-last_updated: October 11, 2025
+last_updated: May 04, 2026
 ---
 
 > [!NOTE]
@@ -58,118 +58,181 @@ ACF tournaments may *also* or *instead* provide the option for submission of a *
 |                        **Submitted<br>Packet**                        | **Total**                                    | **24/24**        | **24/24**  | **24/24**           | **24/24**           |
 |                         **Edited<br>Packet**                          | **Total**                                    | **20/20**        | **20/20**  | **20/20**           | **20/20**           |
 
+---
+
+<br>
+
 ## Category Guidelines
 
 ### Literature
 
-A submission's Literature questions should vary in the following attributes:
+<details markdown="1">
+  <summary class="topics">
+  Question Diversity
+  </summary>
 
-* Time period(s)
-* Genre
-  * Novel
-  * Poetry
-  * Drama
-  * Short story
-* Answerline class
-  * Author
-  * Individual work
-  * Character
-  * Common link
+  Submitted Literature questions should vary in the following attributes:
+
+  * Time period(s)
+  * Genre
+    * Novels
+    * Poetry
+    * Drama
+    * Short stories
+  * Answerline class
+    * Authors
+    * Individual works
+    * Characters
+    * Common links
+</details>
 
 #### American Literature
 
-This category is primarily for **literature by authors from the continental United States**.
+This category is primarily for literature by **authors from the continental United States**.
 
-This category may also include:
+<details markdown="1">
+  <summary class="subs">
+  Sub-Topics
+  </summary>
 
-* Literature by Indigenous / Native American authors
-* Non-English-language literature by American authors
+  This category may also include:
+
+  * Literature by Indigenous / Native American authors
+  * Non-English-language literature by American authors
+</details>
 
 #### British Literature
 
-This category is for literature by authors from the following geographic regions:
+This category is for literature by **authors from the United Kingdom and Ireland**.
 
-* United Kingdom
-  * England
-  * Scotland
-  * Wales
-  * Northern Ireland
-* Ireland
+<details markdown="1">
+  <summary class="regions">
+  Included Geographical Regions
+  </summary>
+
+  * United Kingdom
+    * England
+    * Scotland
+    * Wales
+    * Northern Ireland
+  * Ireland
+</details>
 
 #### European Literature
 
-This category is primarily for **questions on literature by European authors** (generally non-English-language), including *but not limited to*:
+This category is primarily for literature by **European authors** (generally non-English-language):
 
-* Western, Southern, & Central Europe
-* Russia (and Soviet Union)
-* Scandinavia
-* Balkan countries
-* Island territories of the above countries
+<details markdown="1">
+  <summary class="regions">
+  Included Geographical Regions
+  </summary>
 
-This category also includes Classical literature from Ancient Greece and Rome, pre-500 CE.
+  * Western, Southern, & Central Europe
+  * Russia (and Soviet Union)
+  * Scandinavia
+  * Balkan countries
+  * Island territories of the above countries
+</details>
+
+<details open markdown="1">
+  <summary class="subs">
+  Sub-Topics
+  </summary>
+
+  This category may also include Classical literature from Ancient Greece and Rome, pre-500 CE.
+</details>
+
+> [!IMPORTANT]
+> * Questions on **Classical literature from Ancient Greece and Rome, pre-500 CE** may be assigned to World Literature or European Literature.
+> <br>
+> * This assignment is the decision of each set's head editor and editing team.
+> <br>
+> * Therefore, teams writing questions on Classical literature may contact the set's editing team for clarification.
 
 #### World Literature
 
-This category is for questions on *English-language and non-English-language* literature by authors from all geographic regions not listed above, including:
+This category is for *English-language and non-English-language* literature by authors from all geographic regions not listed above.
 
-* <mark>Canada</mark>
-* Mexico
-* Central & South America
-  * <mark>Caribbean</mark>
-* Africa
-  * <mark>South Africa</mark>
-* Indian subcontinent
-* Middle East
-  * Israel
-  * Turkey
-* Central, East, & Southeast Asia
-* <mark>Australia</mark>
-* <mark>New Zealand</mark>
-* Polynesia
-* <mark>US territories</mark>
-  * Puerto Rico
+<details markdown="1">
+  <summary class="regions">
+  Included Geographical Regions
+  </summary>
+
+  * <mark>Canada</mark>
+  * Mexico
+  * Central & South America
+    * <mark>Caribbean</mark>
+  * Africa
+    * <mark>South Africa</mark>
+  * Indian subcontinent
+  * Middle East
+    * Israel
+    * Turkey
+  * Central, East, & Southeast Asia
+  * <mark>Australia</mark>
+  * <mark>New Zealand</mark>
+  * Polynesia
+  * <mark>US territories</mark>
+    * Puerto Rico
+</details>
 
 > [!IMPORTANT]
-> Questions on literature by authors from the <mark>highlighted regions</mark>, which is mostly English-language, are generally assigned to World Literature.
+> * Questions on literature by authors from the <mark>highlighted regions</mark> may be assigned to World Literature or European Literature.
 > <br>
-> However, this assignment is ultimately the decision of each set's head editor and editing team. Some head editors may assign one or more of the <mark>highlighted regions</mark> to American Literature or British Literature.
+> * This assignment is the decision of each set's head editor and editing team.
 > <br>
-> Therefore, teams writing questions on literature from the <mark>highlighted regions</mark> are recommended to contact the set's editing team if they would like clarification on this topic.
+> * Therefore, teams writing questions on literature by authors from the <mark>highlighted regions</mark> may contact the set's editing team for clarification.
 
 > [!WARNING]
-> Since literature by authors from the <mark>highlighted regions</mark> is mostly English-language, teams should avoid writing questions on multiple of the <mark>highlighted regions</mark>.
+> * Since literature by authors from the <mark>highlighted regions</mark> is mostly English-language, teams should avoid writing questions on multiple of the <mark>highlighted regions</mark>.
 > <br>
-> E.g., do not submit both an Australian literature tossup and a Canadian literature bonus.
+> * E.g., do not submit both an Australian literature tossup and a Canadian literature bonus.
 
 #### Misc. Literature
 
-This category includes questions on topics that fall under any of the above categories of Literature (American, British, European, World).
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-Hence, you may choose to simply write another question in any of the above categories of Literature.
+  This category includes other areas of literature, such as:
 
-This category is also for other areas of literature, including *but not limited to*:
+  * Non-Classical ancient literature, regardless of geographical region
+  * Nonfiction
+    * Literary theory and criticism
+    * Essays
+    * Biographies
+    * Journalism
+  * Literature spanning multiple geographical regions (and/or time periods) (e.g., common links)
+</details>
 
-* Non-Classical ancient literature, regardless of geographical region
-* Nonfiction
-  * Literary theory and criticism
-  * Essays
-  * Biographies
-  * Journalism
-* Literature spanning multiple geographical regions (and/or time periods) (e.g., common links)
+This category also includes topics that fall under any of the above categories of [Literature](#literature) ([American](#american-literature), [British](#british-literature), [European](#european-literature), [World](#world-literature)).
+
+Hence, **you may choose to simply write another question in any of the above categories of [Literature](#literature).**
+
+---
+
+<br>
 
 ### History
 
-A submission's History questions should vary in the following attributes:
+<details markdown="1">
+  <summary class="diversity">
+  Question Diversity
+  </summary>
 
-* Time period(s)
-* Type
-  * Political
-  * Social
-  * Military
-  * Cultural
-  * Religious
-  * Economic
-  * Intellectual
+  Submitted History questions should vary in the following attributes:
+
+  * Time period(s)
+  * Type
+    * Political
+    * Social
+    * Military
+    * Cultural
+    * Religious
+    * Economic
+    * Intellectual
+</details>
 
 > [!WARNING]
 > Do not write more than half of the required amount of history questions on military history.
@@ -178,32 +241,37 @@ A submission's History questions should vary in the following attributes:
 
 This category is primarily for the **history of the United States**.
 
-This category may include the history of:
+<details markdown="1">
+  <summary class="subs">
+  Sub-Topics
+  </summary>
 
-* Indigenous / Native American peoples of the continental United States
-* American foreign policy
-* American military activity around the world
+  This category may also include the history of:
+
+  * Indigenous / Native American peoples of the continental United States
+  * American foreign policy
+  * American military activity around the world
+</details>
 
 #### European History
 
-Two submitted questions *must* be on the history of continental Europe, which may include the history of:
+This category is primarily for the **history of continental Europe**.
 
-* European colonialism around the world
-* European foreign policy
-* European military activity around the world
+<details markdown="1">
+  <summary class="subs">
+  Sub-Topics
+  </summary>
 
-The other submitted question *must* be on the history of one of the following geographical regions:
+  This category may also include the history of:
 
-* United Kingdom
-  * England
-  * Scotland
-  * Wales
-  * Northern Ireland
-* Ireland
+  * European colonialism around the world
+  * European foreign policy
+  * European military activity around the world
+</details>
 
 #### World History
 
-This category is for questions on the history of all geographic regions not listed above, with the exception of the <mark>highlighted geographic regions</mark> in [Other History](#other-history).
+This category is for the history of all geographic regions not listed above, with the exception of the <mark>highlighted geographic regions</mark> in [Other History](#other-history).
 
 > [!WARNING]
 > Do not write both World History questions on the history of the same continent or region.
@@ -218,279 +286,368 @@ This category is primarily for the following topics:
 
 This category also includes the history of the following geographic regions:
 
+<details open markdown="1">
+  <summary class="regions">
+  Included Geographical Regions
+  </summary>
+
 * <mark class="hl">Canada</mark>
 * <mark class="hl">Australia</mark>
 * <mark class="hl">New Zealand</mark>
+</details>
 
 #### Misc. History
 
-This category includes questions on topics that fall under any of the above categories of History (American, European, World, Other).
+This category includes topics that fall under any of the above categories of [History](#history) ([American](#american-history), [European](#european-history), [World](#world-history), [Other](#other-history)).
 
-Hence, you may choose to simply write another question in any of the above categories of History.
+Hence, **you may choose to simply write another question in any of the above categories of [History](#history).**
 
-This category is also for questions spanning the history of multiple geographical regions and/or time periods (e.g., common links).
+This category may also include questions spanning the history of multiple geographical regions and/or time periods (e.g., **common links**).
+
+---
+
+<br>
 
 ### Science
 
 #### Biology
 
-Topics for this category may include, *but are not limited to*:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Anatomy & physiology
-* Genetics
-* Ecology & evolutionary biology
-* Microbiology
-* Cell & molecular biology
-* Developmental biology
-* Botany
-* Zoology
-* Bioinformatics
-* Biomedical research
-* Bioengineering
+  * Anatomy & physiology
+  * Genetics
+  * Ecology & evolutionary biology
+  * Microbiology
+  * Cell & molecular biology
+  * Developmental biology
+  * Botany
+  * Zoology
+  * Bioinformatics
+  * Biomedical research
+  * Bioengineering
+</details>
 
 #### Chemistry
 
-Topics for this category may include, *but are not limited to*:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Organic & inorganic chemistry
-* Analytical chemistry
-* Biochemistry
-* Physical chemistry
-* Chemical engineering
-* Laboratory techniques
+  * Organic & inorganic chemistry
+  * Analytical chemistry
+  * Biochemistry
+  * Physical chemistry
+  * Chemical engineering
+  * Laboratory techniques
+</details>
 
 #### Physics
 
-Topics for this category may include, *but are not limited to*:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Classical mechanics
-  * Statics
-  * Dynamics
-  * Fluid mechanics
-  * Statistical mechanics
-* Thermodynamics
-* Electromagnetism
-* Relativity
-* Quantum mechanics
-* Atomic physics
-* Molecular physics
-* Optics
-* Acoustics
+  * Classical mechanics
+    * Statics
+    * Dynamics
+    * Fluid mechanics
+    * Statistical mechanics
+  * Thermodynamics
+  * Electromagnetism
+  * Relativity
+  * Quantum mechanics
+  * Atomic physics
+  * Molecular physics
+  * Optics
+  * Acoustics
+</details>
 
 #### Other Science
 
+This category is for science topics in disciplines other than [Biology](#biology), [Chemistry](#chemistry), and [Physics](#physics).
+
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
+
+  * Mathematics
+  * Computer science
+  * Astronomy
+  * Earth science
+  * Engineering
+</details>
+
 > [!WARNING]
-> A submission's Other Science questions *must* be materially different from its Biology, Chemistry, and Physics questions.
+> * Submitted Other Science questions *must* be *materially different* from its [Biology](#biology), [Chemistry](#chemistry), and [Physics](#physics) questions.
 > <br>
-> E.g., *do not* submit both a Physics tossup on cosmology and an Other Science tossup on astronomy.
+> * E.g., do not submit both a [Physics](#physics) tossup on cosmology and an Other Science tossup on astronomy.
 > <br>
-> Submitted Other Science questions that are on Biology, Chemistry, or Physics answerlines solely written using clues from Biology, Chemistry, or Physics topics **will be rejected**.
-
-Topics for this category include:
-
-* Mathematics
-* Computer science
-* Astronomy
-* Earth science
-* Engineering
+> * Submitted Other Science questions that are on [Biology](#biology), [Chemistry](#chemistry), or [Physics](#physics) answerlines and *solely written using clues from [Biology](#biology), [Chemistry](#chemistry), or [Physics](#physics) topics* **may be rejected**.
 
 > [!WARNING]
-> A submission's Other Science questions *must* be on two different topics from the above list.
+> * Submitted Other Science questions *must* be on two different topics from the above list.
 > <br>
-> E.g., writing a Math tossup and an Astronomy bonus is acceptable, but writing both a tossup and bonus on Astronomy is unacceptable.
+> * E.g., writing a Math tossup and an Astronomy bonus is acceptable, but writing both a tossup and bonus on Astronomy is unacceptable.
 
 #### Misc. Science
 
-This category includes questions on topics that fall under any of the above categories of Science ([Biology](#biology), [Chemistry](#chemistry), [Physics](#physics), [Other Science](#other-science)).
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-Hence, you may choose to simply write another question in any of the above categories of Science.
+  * Artificial intelligence
+  * Data analysis
+  * Cybersecurity
+  * Communication
+  * Robotics
+  * Manufacturing
+  * Energy
+  * Infrastructure
+  * Science history
+  * Questions spanning multiple areas of science and technology (e.g., common links)
+</details>
+
+This category also includes topics that fall under any of the above categories of [Science](#science) ([Biology](#biology), [Chemistry](#chemistry), [Physics](#physics), [Other Science](#other-science)).
+
+Hence, **you may choose to simply write another question in any of the above categories of [Science](#science)**.
 
 > [!WARNING]
 > If you choose to write another Other Science question, it *must* be on a different topic than the primary Other Science questions.
 
-This category is also for other areas of science and technology, including *but not limited to*:
+---
 
-* Artificial intelligence
-* Data analysis
-* Cybersecurity
-* Communication
-* Robotics
-* Manufacturing
-* Energy
-* Infrastructure
-* Science history
-* Questions spanning multiple areas of science and technology (e.g., common links)
+<br>
 
 ### Fine Arts
 
 > [!NOTE]
-> Other question producers separate arts into the categories <mark class="red">"Visual Fine Arts"</mark> ("VFA") and <mark class="yellow">"Auditory Fine Arts"</mark> ("AFA"). ACF uses the categories "Painting & Sculpture" and "Classical Music," which are roughly synonymous with the common definitions of <mark class="red">VFA</mark> and <mark class="yellow">AFA</mark>, but *not* identical. Other question producers often separate arts into the categories VFA and AFA.
+> * Other question producers usually separate arts into the categories <mark class="red">"Visual Fine Arts"</mark> ("VFA") and <mark class="yellow">"Auditory Fine Arts"</mark> ("AFA").
+> <br>
+> * ACF uses the categories "[Painting & Sculpture](#painting--sculpture)" and "[Classical Music](#classical-music)," which are roughly synonymous with the common definitions of <mark class="red">VFA</mark> and <mark class="yellow">AFA</mark>, but *not* identical.
 
 #### Painting & Sculpture
 
-This category is primarily for **painting and sculpture**.
+This category is primarily for **painting and sculpture** from around the world.
 
-<!-- This category is also for other visual fine arts topics, including *but not limited to*: -->
+<details markdown="1">
+  <summary class="subs">
+  Sub-Topics
+  </summary>
 
-<!--
-* Installation art
-* Land art
-* Collage
-* Printmaking
-* Art criticism
-* Art history
-* <mark class="red">"Visual"</mark> topics under [Other Fine Arts](#other-fine-arts)
-* <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts)
--->
+  This category may also include:
+
+  * Art history
+  * Art criticism
+</details>
 
 > [!WARNING]
-> At least one of the submitted Painting & Sculpture questions *must* be on painting.
+> * At least one of the submitted Painting & Sculpture questions *must* be on painting.
 > <br>
-> *Do not* submit 2 questions on sculpture or 2 questions on alternate topics.
+> * Do not submit 2 questions on sculpture or 2 questions on alternate topics.
 
 #### Classical Music
 
 This category is primarily for **classical music of the Western world**.
 
-This category is also for other auditory fine arts topics, including *but not limited to*:
+<details markdown="1">
+  <summary class="subs">
+  Sub-Topics
+  </summary>
 
-* Classical music from non-Western regions (e.g., Latin America, China, Japan) written in the Western classical tradition
-* Classical music traditions of non-Western regions (e.g., India, China, Japan)
-* Music theory
-* Musicology
-<!-- * <mark class="yellow">"Auditory"</mark> topics under [Other Fine Arts](#other-fine-arts) -->
-<!-- * <mark class="green">"Audiovisual"</mark> topics under [Other Fine Arts](#other-fine-arts) -->
+  This category may also include:
+
+  * Classical music from non-Western regions (e.g., Latin America, China, Japan) written in the Western classical tradition
+  * Classical music traditions of non-Western regions (e.g., India, China, Japan)
+  * Music theory
+  * Musicology
+</details>
 
 > [!WARNING]
-> At least one of the submitted Classical Music questions *must* be on classical music of the Western world.
+> * At least one of the submitted Classical Music questions *must* be on classical music of the Western world.
 > <br>
-> *Do not* submit 2 questions on alternate topics.
+> * Do not submit 2 questions on alternate topics.
 
 #### Other Fine Arts
 
+This category is primarily for arts topics in disciplines other than [Painting & Sculpture](#painting--sculpture) or [Classical Music](#classical-music).
+
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
+
+  * <mark class="red">Visual</mark>
+    * Architecture
+    * Photography
+    * Video art
+    * Installation art
+    * Fashion
+    * Design
+    * Decorative arts
+    * Book arts
+    * Performance art
+  * <mark class="yellow">Auditory</mark>
+    * Musical theatre
+    * Opera
+    * Dance
+    * Jazz
+    * Non-classical world music
+    * Folk / traditional music
+  * Questions spanning multiple <mark class="red">visual</mark> or <mark class="yellow">auditory</mark> topics
+</details>
+
 > [!WARNING]
-> A submission's Other Fine Arts questions *must* be materially different from its Painting & Sculpture and Classical Music questions.
+> * Submitted Other Fine Arts questions *must* be materially different from its [Painting & Sculpture](#painting--sculpture) and [Classical Music](#classical-music) questions.
 > <br>
-> Submitted Other Fine Arts questions that are on Painting & Sculpture or Classical Music answerlines and are solely written using clues from Painting & Sculpture or Classical Music topics **will be rejected**.
-
-This category includes questions on other <mark class="red">visual</mark>, <mark class="yellow">auditory</mark>, and <mark class="green">audiovisual</mark> topics, including *but not limited to*:
-
-* <mark class="red">Visual</mark>
-  * Architecture
-  * Photography
-  * Fashion
-  * Design
-* <mark class="yellow">Auditory</mark>
-  * Jazz
-  * Non-classical world music
-  * Folk / traditional music
-  * Religious music
-* <mark class="green">Audiovisual</mark>
-  * Film
-  * Dance
-  * Opera
-  * Musical theatre
-  * Performance art
-* Questions spanning multiple <mark class="red">visual</mark>, <mark class="yellow">auditory</mark>, and/or <mark class="green">audiovisual</mark> topics
+> * Submitted Other Fine Arts questions that are on [Painting & Sculpture](#painting--sculpture) and [Classical Music](#classical-music) answerlines and are solely written using clues from Painting & Sculpture or Classical Music topics **may be rejected**.
 
 > [!WARNING]
-> The submitted Other Fine Arts questions *must* vary across <mark class="red">visual</mark>, <mark class="yellow">auditory</mark>, and <mark class="green">audiovisual</mark> topics.
+> * The submitted Other Fine Arts questions *must* vary across <mark class="red">visual</mark> and <mark class="yellow">auditory</mark> topics.
 > <br>
-> *Do not* submit 2 questions on solely <mark class="red">visual</mark> topics or 2 questions on solely <mark class="yellow">auditory</mark> topics.
+> * Do not submit 2 questions on solely <mark class="red">visual</mark> topics or 2 questions on solely <mark class="yellow">auditory</mark> topics.
+
+---
+
+<br>
 
 ### Religion & Mythology
 
 > [!WARNING]
-> The submitted Religion & Mythology questions *must* include at least 1 question and no more than 2 questions on a non-Western topic.
+> * The submitted Religion & Mythology questions *must* include at least 1 question and no more than 2 questions on a non-Western topic.
 > <br>
-> *Do not* submit more than 2 questions on non-Western topics.
+> * Do not submit more than 2 questions on non-Western topics.
 
 #### Religion
 
-Topics for this category may include:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Religious practices
-  * Worship
-  * Rituals
-  * Festivals
-* Religious texts
-* Religious jurisprudence
-* Religious history
-* Theology
-* Comparative religion
+  * Religious practices
+    * Worship
+    * Rituals
+    * Festivals
+  * Religious texts
+  * Religious jurisprudence
+  * Religious history
+  * Theology
+  * Comparative religion
+</details>
 
 > [!WARNING]
-> *Do not* write 2 questions on the same religion.
+> Do not write 2 questions on the same religion.
 
 #### Mythology
 
-This category is for questions on mythological narratives, including *but not limited to*:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Mythological texts
-* Mythological figures
-  * Deities
-  * Heroes
-  * Mortals
-  * Animals
-  * Legendary creatures
-* Folk tales
-* Fables
-* Cryptids
+  * Mythological narratives and texts
+    * Epic poems
+    * Mythological plays
+      * Questions about mythological plays should be submitted as [Literature](#literature) if the questions discuss their literary value or literary techniques rather than the myths presented in the plays.
+    * Creation myths
+    * Folk tales
+    * Fables
+    * Oral traditions
+    * Mythological anthologies or compendiums
+  * Mythological figures
+    * Deities
+    * Heroes
+    * Mortals
+    * Animals
+    * Legendary creatures
+  * Cryptids
+</details>
 
 > [!WARNING]
-> *Do not* write 2 questions on the same mythological system.
+> Do not write 2 questions on the same mythological system.
+
+---
+
+<br>
 
 ### Social Science & Philosophy
 
 #### Social Science
 
-Topics for this category may include, in rough order of frequency:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Economics
-* Psychology
-* Linguistics
-* Anthropology
-* Sociology
-* Political science
-* Law
-  * Questions on individual Supreme Court cases are more suited for [History](#history).
-* Social criticism
-* Gender studies
-* Finance
-* Geography (as an academic discipline)
-* Criminology
-* Management
+  * Economics
+  * Psychology
+  * Linguistics
+  * Anthropology
+  * Sociology
+  * Political science
+  * Law
+    * Questions on individual Supreme Court cases are better suited for [History](#history).
+  * Social criticism
+  * Gender studies
+  * Finance
+  * Geography (as an academic discipline)
+  * Criminology
+  * Management
+</details>
 
 > [!WARNING]
-> A submission's Social Science questions *must* be on two different fields of study.
+> * Submitted Social Science questions *must* be on two different fields of study.
 > <br>
-> Make sure that the clues are primarily drawn from the academic literature in these fields.
+> * Make sure that the clues are primarily drawn from the academic literature in these fields.
 
 #### Philosophy
 
-Topics for this category may include:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Aesthetics
-* Epistemology
-* Ethics
-* Logic
-* Metaphysics
-* Theology
-* Political philosophy
-* Philosophy of mind
+  * Aesthetics
+  * Epistemology
+  * Ethics
+  * Logic
+  * Metaphysics
+  * Political philosophy
+  * Philosophy of religion
+  * Philosophy of language
+  * Philosophy of mind
+  * Philosophy of science
+</details>
 
-A submission's Philosophy questions should vary across movements / time periods in philosophical history, including *but not limited to*:
+<details markdown="1">
+  <summary class="diversity">
+  Question Diversity
+  </summary>
 
-* Ancient philosophy (primarily Greco-Roman)
-* Medieval philosophy
-* Early Modern philosophy
-* 19th-century philosophical movements (German idealism, pragmatism, etc.)
-* "Analytic" tradition
-* "Continental" tradition
-* Non-Western philosophical traditions (Indian, Chinese, Islamic, African, etc.)
+  Submitted Philosophy questions should vary across movements and time periods in philosophical history, including *but not limited to*:
+
+  * Greco-Roman philosophy
+  * Medieval philosophy
+  * Early Modern philosophy
+  * 19th-century philosophical movements (German idealism, pragmatism, etc.)
+  * "Analytic" tradition
+  * "Continental" tradition
+  * Non-Western philosophical traditions (Indian, Chinese, Islamic, African, etc.)
+</details>
 
 > [!WARNING]
-> A submission's Philosophy questions *must* be on *two different* movements / time periods in philosophical history.
+> Submitted Philosophy questions *must* be on *two different* movements / time periods in philosophical history.
+
+---
+
+<br>
 
 ### Other
 
@@ -500,49 +657,63 @@ A submission's Philosophy questions should vary across movements / time periods 
 
 #### Geography
 
-Topics for this category may include:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Physical geography
-* Cultural geography
-* Political geography
+  * Physical geography
+  * Cultural geography
+  * Political geography
+</details>
 
 #### Current Events
 
-This category is for questions on events that took place in *recent history* before the date on which the set is first played *and* would likely be considered important or having staying power several years afterwards.
+This category is for events that took place in *recent history* before the date on which the set is first played *and* would likely be considered important or having staying power several years afterwards.
 
-> [!WARNING]
+> [!NOTE]
 > The definition of "recent history" is set at the editing team's discretion. Hence, it may range as far back as 10 or 20 years.
 
 #### Other Academic
 
-This category includes questions on topics that fall under any of the above categories.
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-Hence, you may choose to simply write another question in any of the above categories.
+  This category may include other areas of academic study, including:
 
-This category is also for other areas of academic study, including *but not limited to*:
+  * Miscellaneous thought
+  * General knowledge
+  * History of science
+  * Interdisciplinary common links on academic subjects
+</details>
 
-* Miscellaneous thought
-* General knowledge
-* Interdisciplinary common links on academic subjects
-* History of science
+This category also includes topics that fall under any of the above categories.
+
+Hence, **you may choose to simply write another question in any of the above categories**.
 
 > [!WARNING]
-> An ACF Regionals or Nationals submission's Other Academic questions *may not* include [popular culture](#popular-culture) topics, since the set itself does not include popular culture.
+> Submissions for Regionals and Nationals *must not* include [popular culture](#popular-culture) topics in Other Academic questions, since those sets do not include popular culture.
 
 #### Popular Culture
 
-Topics for this category may include:
+<details markdown="1">
+  <summary class="topics">
+  Potential Topics
+  </summary>
 
-* Popular music
-* Sports
-* Film
-* Television
-* Online media
-  * Podcasts
-* Popular literature
-  * Comic books
-* Video games
-* Online culture
+  * Popular music
+  * Sports
+  * Film
+  * Television
+  * Online media
+    * Podcasts
+  * Popular literature
+    * Comic books
+  * Video games
+  * Online culture
+</details>
 
 > [!WARNING]
-> An ACF Regionals or Nationals submission *must* not include any questions on popular culture.
+> Submissions for Regionals and Nationals *must* not include any questions on popular culture.

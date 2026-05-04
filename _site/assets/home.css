@@ -44,7 +44,7 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose mark.green { background-color: #67df65; color: black; }
 .prose blockquote { font-size: 1.15em; line-height: 1.375; padding-left: 20px; margin: 40px 0 40px -16px; border-left: 8px solid #ddd; font-style: italic; color: #4279C1; }
 @media (min-width: 100%) { .prose blockquote { padding-left: 32px; margin: 64px 0 64px -40px; max-width: 110%; } }
-.prose hr { color: #023B7F; border-style: solid; border-width: thin; margin-top: 2em; margin-bottom: -2em; width: 50%; margin-left: 15%; text-align: center; }
+.prose hr { color: #023B7F; border-style: solid; border-width: medium; margin-top: 2em; margin-bottom: -2em; text-align: center; }
 .prose dl { margin-left: 1em; }
 .prose dt { font-weight: bold; line-height: 1.25; }
 .prose dd { margin-bottom: 0.5em; }
@@ -88,6 +88,28 @@ nav { width: 100%; height: 60px; margin: 0 auto; position: sticky; }
 .important-link a:first-child { font-weight: bold; margin-bottom: 8px; font-size: 1.2em; display: block; }
 .important-link:nth-child(even) { background-color: #d9eaff; }
 .important-link:nth-child(odd) { background-color: #d9f1fc; }
+
+details:not([open]) { margin-bottom: 20px; /* Adjust spacing as needed */ }
+
+/* Optional: remove margin if you want it to collapse completely */
+details[open] { margin-bottom: 20px; }
+
+/* Style the details container */
+details { border: 2px solid #ccc; border-radius: 8px; /* Rounded corners */ overflow: hidden; /* Ensures corners are rounded */ margin-bottom: 15px; }
+
+/* Style the summary (clickable part) */
+details summary { background-color: #d9eaff; /* Different background for header */ padding: 10px; font-weight: bold; cursor: pointer; }
+details summary.topics { background-color: #b2de55; }
+details summary.diversity { background-color: #dab5eb; }
+details summary.regions { background-color: #9b7343; color: white; }
+details summary.related { background-color: #5c5174; color: white; }
+details summary.subs { background-color: #39856a; color: white; }
+
+/* Custom indicator for open/closed */
+/* Style the body (content part) */
+details .content { background-color: #ffffff; /* Different background for body */ padding: 15px; border-top: 1px solid #ccc; }
+
+details p { padding-left: 20px; }
 
 /* Type utilities */
 .h0 { font-size: 1.65em; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }

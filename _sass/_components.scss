@@ -93,11 +93,9 @@ code {
   hr {
     color: $color-title;
     border-style: solid;
-    border-width: thin;
+    border-width: medium;
     margin-top: 2em;
     margin-bottom: -2em;
-    width: 50%;
-    margin-left: 15%;
     text-align: center;
   }
 
@@ -309,4 +307,74 @@ nav {
   &:nth-child(odd) {
     background-color: $blue-light-3;
   }
+}
+
+details:not([open]) {
+  margin-bottom: 20px; /* Adjust spacing as needed */
+}
+
+/* Optional: remove margin if you want it to collapse completely */
+details[open] {
+  margin-bottom: 20px;
+}
+
+/* Style the details container */
+details {
+  border: 2px solid #ccc;
+  border-radius: 8px; /* Rounded corners */
+  overflow: hidden; /* Ensures corners are rounded */
+  margin-bottom: 15px;
+}
+
+/* Style the summary (clickable part) */
+details summary {
+  background-color: $blue-light-2; /* Different background for header */
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  // list-style: none; /* Hides default triangle */
+
+  &.topics {
+    background-color: #b2de55;
+  }
+
+  &.diversity {
+    background-color: #dab5eb;
+  }
+
+  &.regions {
+    background-color: #9b7343;
+    color: white;
+  }
+
+  &.related {
+    background-color: #5c5174;
+    color: white;
+  }
+
+  &.subs {
+    background-color: #39856a;
+    color: white;
+  }
+}
+
+/* Custom indicator for open/closed */
+// details summary::after {
+//   content: '+';
+//   float: right;
+// }
+
+// details[open] summary::after {
+//   content: '-';
+// }
+
+/* Style the body (content part) */
+details .content {
+  background-color: #ffffff; /* Different background for body */
+  padding: 15px;
+  border-top: 1px solid #ccc;
+}
+
+details p {
+  padding-left: 20px;
 }
