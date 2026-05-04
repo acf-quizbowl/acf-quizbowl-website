@@ -8,10 +8,14 @@ redirect_from:
 last_updated: May 04, 2026
 ---
 
+## How to use this guide
+
 > [!IMPORTANT]
 > * **Reading the entirety of this page before submitting a packet is *not required***.
 > <br>
 > * This is simply a reference guide, so you can just skip to the part(s) on which you need clarification.
+> <br>
+> * However, do note that submissions that adhere to these guidelines well are significantly more likely to be used in the final set.
 
 This page lists the guidelines for each category in the [ACF packet distribution](/writing/distribution).
 
