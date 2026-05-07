@@ -43,6 +43,8 @@ code { color: #4279C1; padding: 1px 0px; }
 .prose mark.red { background-color: #870e05; color: white; }
 .prose mark.yellow { background-color: #eae315; color: black; }
 .prose mark.green { background-color: #67df65; color: black; }
+.prose mark.orange { background-color: #cd5e14; }
+.prose mark.cyan { background-color: #47e1ab; color: black; }
 .prose blockquote { font-size: 1.15em; line-height: 1.375; padding-left: 20px; margin: 40px 0 40px -16px; border-left: 8px solid #ddd; font-style: italic; color: #4279C1; }
 @media (min-width: 100%) { .prose blockquote { padding-left: 32px; margin: 64px 0 64px -40px; max-width: 110%; } }
 .prose hr { color: #023B7F; border-style: solid; border-width: medium; margin-top: 2em; margin-bottom: -2em; text-align: center; }

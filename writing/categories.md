@@ -15,14 +15,19 @@ last_updated: May 04, 2026
 > <br>
 > * This is simply a reference guide, so you can just skip to the part(s) on which you need clarification.
 > <br>
-> * However, do note that submissions that adhere to these guidelines well are significantly more likely to be used in the final set.
+> * Submissions that adhere to these guidelines well are significantly more likely to be used in the final set.
 
-This page lists the guidelines for each category in the [ACF packet distribution](/writing/distribution).
+This page lists the guidelines for each category in the [ACF packet distribution](/writing/distribution). When appropriate, these lists are provided:
 
-* Most of the descriptions include a short list of potential topics that submitted questions may cover.
-* When appropriate, a list of geographical regions spanned by the category is provided.
-* When appropriate, a list of secondary sub-topics spanned by the category is provided.
-* When appropriate, an overview of how submissions in the category should be diverse is provided.
+* A list of potential / suggested topics that submitted questions may cover
+* Geographical regions spanned by the category
+* Secondary sub-topics spanned by the category
+* How submissions in the category should be diverse
+
+> [!IMPORTANT]
+> * **The lists of potential topics, geographical regions, or sub-topics are NOT exhaustive.**
+> <br>
+> * The lists of potential topics are simply suggestions for submission writers to take into account when conceptualizing questions.
 
 # Table of Contents
 {: .no_toc}
@@ -83,7 +88,6 @@ This category is primarily for literature by **European authors** (generally non
   * Russia (and Soviet Union)
   * Scandinavia
   * Balkan countries
-  * Island territories of the above countries
 </details>
 
 <details open markdown="1">
@@ -105,38 +109,38 @@ This category is primarily for literature by **European authors** (generally non
 
 This category is for *English-language and non-English-language* literature by authors from all geographic regions not listed above.
 
-<details markdown="1">
+<details open markdown="1">
   <summary class="regions">
   Included Geographical Regions
   </summary>
 
-  * <mark>Canada</mark>
+  * <mark class="orange">Canada</mark>
   * Mexico
   * Central & South America
-    * <mark>Caribbean</mark>
+    * <mark class="orange">Caribbean</mark>
   * Africa
-    * <mark>South Africa</mark>
+    * <mark class="orange">South Africa</mark>
   * Indian subcontinent
   * Middle East
     * Israel
     * Turkey
   * Central, East, & Southeast Asia
-  * <mark>Australia</mark>
-  * <mark>New Zealand</mark>
+  * <mark class="orange">Australia</mark>
+  * <mark class="orange">New Zealand</mark>
   * Polynesia
-  * <mark>US territories</mark>
+  * <mark class="orange">US territories</mark>
     * Puerto Rico
 </details>
 
 > [!IMPORTANT]
-> * Questions on literature by authors from the <mark>highlighted regions</mark> may be assigned to World Literature or European Literature.
+> * Questions on literature by authors from the <mark class="orange">highlighted regions</mark> may be assigned to World Literature or European Literature.
 > <br>
 > * This assignment is the decision of each set's head editor and editing team.
 > <br>
-> * Therefore, teams writing questions on literature by authors from the <mark>highlighted regions</mark> may contact the set's editing team for clarification.
+> * Therefore, teams writing questions on literature by authors from the <mark class="orange">highlighted regions</mark> may contact the set's editing team for clarification.
 
 > [!WARNING]
-> * Since literature by authors from the <mark>highlighted regions</mark> is mostly English-language, teams should avoid writing questions on multiple of the <mark>highlighted regions</mark>.
+> * Since literature by authors from the <mark class="orange">highlighted regions</mark> is mostly English-language, teams should avoid writing questions on multiple of the <mark class="orange">highlighted regions</mark>.
 > <br>
 > * E.g., do not submit both an Australian literature tossup and a Canadian literature bonus.
 
@@ -207,7 +211,7 @@ This category is primarily for the **history of the United States**.
 
 ### European History
 
-This category is primarily for the **history of Europe**.
+This category is primarily for the **history of Europe**, *including* the United Kingdom and Ireland.
 
 <details markdown="1">
   <summary class="regions">
@@ -236,7 +240,7 @@ This category is primarily for the **history of Europe**.
 
 ### World History
 
-This category is for the history of all geographic regions not listed above, with the exception of the <mark>highlighted geographic regions</mark> in [Other History](#other-history).
+This category is for the history of all geographic regions not listed above, with the exception of the <mark class="cyan">highlighted geographic regions</mark> in [Other History](#other-history).
 
 > [!WARNING]
 > Do not write both World History questions on the history of the same continent or region.
@@ -256,9 +260,9 @@ This category also includes the history of the following geographic regions:
   Included Geographical Regions
   </summary>
 
-* <mark class="hl">Canada</mark>
-* <mark class="hl">Australia</mark>
-* <mark class="hl">New Zealand</mark>
+* <mark class="cyan">Canada</mark>
+* <mark class="cyan">Australia</mark>
+* <mark class="cyan">New Zealand</mark>
 </details>
 
 ### Misc. History
@@ -320,11 +324,13 @@ This category may also include questions spanning the history of multiple geogra
   * Classical mechanics
     * Statics
     * Dynamics
-    * Fluid mechanics
+    * Continuum mechanics (Solids, fluids, and plasmas)
     * Statistical mechanics
   * Thermodynamics
   * Electromagnetism
   * Relativity
+  * Particle physics / high energy physics
+  * Condensed matter physics
   * Quantum mechanics
   * Atomic physics
   * Molecular physics
@@ -659,7 +665,7 @@ This category also includes topics that fall under any of the above categories.
 Hence, **you may choose to simply write another question in any of the above categories**.
 
 > [!WARNING]
-> Submissions for Regionals and Nationals *must not* include [popular culture](#popular-culture) topics in Other Academic questions, since those sets do not include popular culture.
+> Submissions for Regionals and Nationals *must* not include [popular culture](#popular-culture) topics in Other Academic questions, since those sets do not include popular culture.
 
 ### Popular Culture
 
