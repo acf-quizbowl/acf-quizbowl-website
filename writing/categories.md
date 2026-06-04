@@ -5,7 +5,7 @@ permalink: /writing/categories/
 redirect_from:
   - /distribution/categories
   - /categories
-last_updated: May 04, 2026
+last_updated: June 04, 2026
 ---
 
 ## How to use this guide

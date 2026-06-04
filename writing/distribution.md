@@ -4,7 +4,7 @@ title: ACF Packet Distributions
 permalink: /writing/distribution/
 redirect_from:
   - /distribution
-last_updated: May 04, 2026
+last_updated: June 04, 2026
 ---
 
 > [!NOTE]
