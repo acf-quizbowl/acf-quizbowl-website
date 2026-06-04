@@ -133,7 +133,7 @@ This category is for *English-language and non-English-language* literature by a
 </details>
 
 > [!IMPORTANT]
-> * Questions on literature by authors from the <mark class="orange">highlighted regions</mark> may be assigned to World Literature or European Literature.
+> * Questions on literature by authors from the <mark class="orange">highlighted regions</mark> may be assigned to World Literature or British Literature.
 > <br>
 > * This assignment is the decision of each set's head editor and editing team.
 > <br>
