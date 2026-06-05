@@ -577,9 +577,9 @@ Were the top scorer (highest overall PPG) on a team that finished in the top 15%
 
 <script>
   $(document).ready(function () {
-    $('#full-member-table').DataTable();
-    $('#provisional-member-table').DataTable();
-    $('#emeritus-member-table').DataTable();
+    $('#full-member-table').DataTable({ ordering: false });
+    $('#provisional-member-table').DataTable({ ordering: false });
+    $('#emeritus-member-table').DataTable({ ordering: false });
   });
   $(".menu").click(function () {
     $(".toc").toggle("slow", function () {
@@ -587,8 +587,6 @@ Were the top scorer (highest overall PPG) on a team that finished in the top 15%
     });
   });
 </script>
-
-
     </div>
   </body>
 

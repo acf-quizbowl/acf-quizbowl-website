@@ -266,9 +266,9 @@ ACF's list of player bans. You must be logged into the hsquizbowl forums to view
 
 <script>
   $(document).ready(function () {
-    $('#full-member-table').DataTable();
-    $('#provisional-member-table').DataTable();
-    $('#emeritus-member-table').DataTable();
+    $('#full-member-table').DataTable({ ordering: false });
+    $('#provisional-member-table').DataTable({ ordering: false });
+    $('#emeritus-member-table').DataTable({ ordering: false });
   });
   $(".menu").click(function () {
     $(".toc").toggle("slow", function () {
@@ -276,8 +276,6 @@ ACF's list of player bans. You must be logged into the hsquizbowl forums to view
     });
   });
 </script>
-
-
     </div>
   </body>
 

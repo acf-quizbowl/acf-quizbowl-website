@@ -210,9 +210,9 @@
 
 <script>
   $(document).ready(function () {
-    $('#full-member-table').DataTable();
-    $('#provisional-member-table').DataTable();
-    $('#emeritus-member-table').DataTable();
+    $('#full-member-table').DataTable({ ordering: false });
+    $('#provisional-member-table').DataTable({ ordering: false });
+    $('#emeritus-member-table').DataTable({ ordering: false });
   });
   $(".menu").click(function () {
     $(".toc").toggle("slow", function () {
@@ -220,8 +220,6 @@
     });
   });
 </script>
-
-
     </div>
   </body>
 
