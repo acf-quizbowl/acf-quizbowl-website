@@ -33,10 +33,10 @@ ACF’s officers also serve as ACF’s board of directors.
 
 | Head Editor     | Tournament         | Contact                      |
 | --------------- | ------------------ | ---------------------------- |
-| Noah Chin       | 2025 ACF Fall      | <fall@acf-quizbowl.com>      |
-| Ben Chapman     | 2025 ACF Winter    | <winter@acf-quizbowl.com>    |
-| Shahar Schwartz | 2026 ACF Regionals | <regionals@acf-quizbowl.com> |
-| Eve Fleisig     | 2026 ACF Nationals | <nationals@acf-quizbowl.com> |
+| Noah Chin       | 2026 ACF Fall      | <fall@acf-quizbowl.com>      |
+| Ben Chapman     | 2026 ACF Winter    | <winter@acf-quizbowl.com>    |
+| Shahar Schwartz | 2027 ACF Regionals | <regionals@acf-quizbowl.com> |
+| Eve Fleisig     | 2027 ACF Nationals | <nationals@acf-quizbowl.com> |
 
 ## Other Contacts
 
