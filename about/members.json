@@ -965,9 +965,11 @@
     "last_activity": ""
   },
   {
-    "name": "Arthur Ramsey",
-    "email": "",
-    "affiliations": [],
+    "name": "Arthur Ramsay",
+    "email": "aramsay@pac-nsc.org",
+    "affiliations": [
+      "Alum, SUNY Empire State College"
+    ],
     "contributions": [
       "2026 ACF Nationals Assistant Tournament Director"
     ],
@@ -1034,7 +1036,7 @@
     "name": "Benjamin Chapman",
     "email": "benlukechapman@gmail.com",
     "affiliations": [
-      "University of Toronto"
+      "Alum, University of Toronto"
     ],
     "contributions": [
       "2024 ACF Fall Editor",

@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 4, 2026
+last_updated: June 9, 2026
 ---
 
 # Table of Contents
@@ -963,7 +963,7 @@ Provisional members are community members who have ably assisted ACF in the past
     <tr>
         <td>Benjamin Chapman</td>
         <td>
-            University of Toronto
+            Alum, University of Toronto
         </td>
         <td>
             <ul>
@@ -1202,8 +1202,10 @@ Provisional members are community members who have ably assisted ACF in the past
         </td>
     </tr>
     <tr>
-        <td>Arthur Ramsey</td>
-        <td></td>
+        <td>Arthur Ramsay</td>
+        <td>
+            Alum, SUNY Empire State College
+        </td>
         <td>
             2026 ACF Nationals Assistant Tournament Director
         </td>
