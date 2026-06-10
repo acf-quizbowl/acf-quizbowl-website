@@ -425,7 +425,7 @@ This category is primarily for **painting and sculpture** from around the world.
 
 ### Classical Music
 
-This category is primarily for **classical music of the Western world**.
+This category is primarily for **classical music and opera of the Western world**.
 
 <details markdown="1">
   <summary class="subs">
@@ -466,7 +466,6 @@ This category is primarily for arts topics in disciplines other than [Painting &
     * Performance art
   * <mark class="yellow">Auditory</mark>
     * Musical theatre
-    * Opera
     * Dance
     * Jazz
     * Non-classical world music

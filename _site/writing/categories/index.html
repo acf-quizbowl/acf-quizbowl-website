@@ -62,6 +62,7 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
             <a class="dropdown-item" href="/about">About</a>
+            <a class="dropdown-item" href="https://links.acf-quizbowl.com">Linktree</a>
             <a class="dropdown-item" href="/members">Members</a>
             <a class="dropdown-item" href="/constitution">Constitution</a>
             <a class="dropdown-item" href="/carper">Carper Award</a>
@@ -793,7 +794,7 @@
 </h3>
                     
 
-<p>This category is primarily for <strong>classical music of the Western world</strong>.</p>
+<p>This category is primarily for <strong>classical music and opera of the Western world</strong>.</p>
 
 <details>
   <summary class="subs">
@@ -849,7 +850,6 @@
 <mark class="yellow">Auditory</mark>
       <ul>
         <li>Musical theatre</li>
-        <li>Opera</li>
         <li>Dance</li>
         <li>Jazz</li>
         <li>Non-classical world music</li>
@@ -1157,9 +1157,9 @@
 
 <script>
   $(document).ready(function () {
-    $('#full-member-table').DataTable();
-    $('#provisional-member-table').DataTable();
-    $('#emeritus-member-table').DataTable();
+    $('#full-member-table').DataTable({ ordering: false });
+    $('#provisional-member-table').DataTable({ ordering: false });
+    $('#emeritus-member-table').DataTable({ ordering: false });
   });
   $(".menu").click(function () {
     $(".toc").toggle("slow", function () {
@@ -1167,8 +1167,6 @@
     });
   });
 </script>
-
-
     </div>
   </body>
 
