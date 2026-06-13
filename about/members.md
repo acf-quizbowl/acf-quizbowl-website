@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 9, 2026
+last_updated: June 12, 2026
 ---
 
 # Table of Contents
@@ -1138,6 +1138,15 @@ Provisional members are community members who have ably assisted ACF in the past
         </td>
     </tr>
     <!-- M -->
+    <tr>
+        <td>Daniel Ma</td>
+        <td>
+            Alum, Yale University
+        </td>
+        <td>
+            2022 ACF Fall Editor
+        </td>
+    </tr>
     <tr>
         <td>Logan Mathis</td>
         <td></td>
