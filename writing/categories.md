@@ -129,7 +129,7 @@ This category is for *English-language and non-English-language* literature by a
   * <mark class="orange">New Zealand</mark>
   * Polynesia
   * <mark class="orange">US territories</mark>
-    * Puerto Rico
+    * <mark class="orange">Puerto Rico</mark>
 </details>
 
 > [!IMPORTANT]

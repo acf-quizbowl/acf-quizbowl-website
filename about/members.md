@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 12, 2026
+last_updated: June 14, 2026
 ---
 
 # Table of Contents
@@ -514,6 +514,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
                 <li>2020-21, Treasurer</li>
                 <li>2020 ACF Regionals Head Editor</li>
                 <li>2024-25, President</li>
+                <li>2025 ACF Nationals Program Designer</li>
             </ul>
         </td>
     </tr>

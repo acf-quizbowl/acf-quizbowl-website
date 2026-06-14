@@ -20,7 +20,7 @@ Please find a link to our past program booklets below:
 * [2026 ACF Nationals](https://drive.google.com/file/d/1jpw2OOwJySTag1wo5iDKCn_ca6HqBlQ5/)
   * Designed by Caroline Mao
 * [2025 ACF Nationals](https://www.figma.com/proto/Zb27KmNc9yFIxRxzTEdVLc/)
-  * Designed by Ivvone Zhou
+  * Designed by JinAh Kim
 * [2024 ACF Nationals](https://drive.google.com/file/d/1W58co87Utv3VZ9nYGncyxXRONwEeqL0N/)
   * Designed by Ivvone Zhou and Ashish Subramanian
 * [2023 ACF Nationals](https://drive.google.com/file/d/1fV9K6vTazrlP4BESBacLQ6zpXXNIK0Ev/)
