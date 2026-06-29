@@ -8,14 +8,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>2021 Carper Award Winners</title>
+  <title>2026 ACF Winter</title>
   <meta name="description" content="We produce four high-quality collegiate quizbowl tournaments each year. Our organization is completely student and volunteer-run, by quizbowl players, for quizbowl players. &lt;a href='/tournaments'&gt;Our tournaments&lt;/a&gt; reward academic knowledge, encourage learning, and foster the spirit of competition and fair play.">
 
   
   
   <link rel="stylesheet" href="/assets/style.css">
 
-  <link rel="canonical" href="/carper/2021">
+  <link rel="canonical" href="/tournaments/winter/2026/">
   <link rel="alternate" type="application/rss+xml" title="Academic Competition Federation" href="http://localhost:4000%20/feed.xml">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -126,34 +126,75 @@
 
 
     <div>
-      <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
-  <h1 class="h0 col-9 sm-width-full py-1 mt-3 inline-block" itemprop="name headline">2021 Carper Award Winners</h1>
-  <div class="col-4 sm-width-full mt-1">
-    <p class="mb-3 py-1 bold h4"><time datetime="" itemprop="datePublished"></time></p>
+      <style type="text/css">
+  /* smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+
+    @media screen and (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+    }
+  }
+
+  .toc-article {
+    width: 700px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    header,
+    .toc-article {
+      width: calc(100vw - 400px);
+      left: 350px;
+    }
+  }
+
+  @media only screen and (max-width: 880px) {
+    .toc {
+      display: none;
+    }
+
+    header,
+    .toc-article {
+      width: 80vw;
+      left: 10vw;
+      margin: auto;
+    }
+  }
+</style>
+
+<article class="container mx-auto px-2">
+  <header>
+    <h1 class="h0 py-1 mt-3">2026 ACF Winter</h1>
+    
+    <p class="last-updated">Last updated: June 27, 2026</p>
+    
+  </header>
+  <div class="prose mb-4">
+    <p><strong>ACF Winter</strong> is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.</p>
+
   </div>
-
-  <div class="prose" itemprop="articleBody">
-      <p>ACF is pleased to announce that the 2021 Carper Award winners are Matt Bollinger and Jim Dendy!</p>
-
-<p>Matt received the award via the ACF membership’s vote. His accomplishments are too manifold to describe in a tidy capsule, but it’s worth reminding everyone how central he has been to college quizbowl since he enrolled at Virginia. Matt is one of the most talented, diligent, and prolific writers and editors of the last decade, and the sets he has produced, such as Chicago Open 2013 and ACF Nationals 2017, are accomplishments that anyone would be proud of. The way Matt writes has been very influential on me and many other writers, and with good reason; his questions are creative yet always playable, challenging yet always anchored in things worth knowing, an example of how high you can reach with your feet still firmly on the ground. He has also gladly shouldered large portions of ACF’s administrative burdens over the years, acting as both communications director and chief editor for the organization. Of course, he is one of the most fearsome, determined, and decorated players ever to pick up a buzzer. Matt is a titan of the game, and I’m so happy that ACF has chosen to recognize him for his accomplishments.</p>
-
-<p>Starting two years ago, ACF has empowered a committee of former Carper winners who are also ACF members to select a second winner each year. This year, the committee recognizes Jim Dendy. During Jim’s playing career for Georgia Tech in the late 1980s and early 1990s, he was not only an all-time great player, but one of the game’s true visionaries and pioneers. We take for granted that quizbowl questions are meant to reward the most knowledgeable players and ensure a fair test of knowledge between teams. But the game was not always like that! Back when most formats put jokes and gimmicks above fair competition, Jim saw that quizbowl could be a much better game with quality questions, and he set about creating standards make that vision real. He was the main advocate of the standard 30-point bonus and an early proponent of pyramidality and the academically rigorous feel of questions that we all know today. (As I write this, I’m trying to get my head around how many 30-point bonuses have been written since the 1990s, and how each of them owes its structure to Jim. That alone is an amazing thing to consider.) He put those standards into practice at the ACF Nationals tournaments he edited in the mid-1990s, and the tournament exploded in popularity as a result. He also produced undergraduate tournaments that helped expand the game beyond its ancestral Georgian heartland. Several of Jim’s teammates and co-editors wrote to us recommending him for the award, and they all emphasized how his vision and hard work laid the foundation for what college quizbowl has become. I’m glad we’re able to recognize Jim for that vision and work.</p>
-
-<p>We will celebrate Matt and Jim – as well as last year’s winners, Alex Damisch and Mike Sorice – when circumstances permit. For now, please join me in congratulating them for their accomplishments and thanking them for their great work!</p>
-
-  </div>
-
 </article>
 
-<div class="container mx-auto px-2 py-2 clearfix">
-  <!-- Use if you want to show previous and next for all posts. -->
-
-
-
-  
-
-</div>
-
+<script>
+  $(document).ready(function () {
+    $('#full-member-table').DataTable({ ordering: false });
+    $('#provisional-member-table').DataTable({ ordering: false });
+    $('#emeritus-member-table').DataTable({ ordering: false });
+  });
+  $(".menu").click(function () {
+    $(".toc").toggle("slow", function () {
+      // Animation complete.
+    });
+  });
+</script>
     </div>
   </body>
 

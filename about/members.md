@@ -3,7 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 nav_order: 1.2
-last_updated: June 14, 2026
+last_updated: June 25, 2026
 ---
 
 # Table of Contents
@@ -245,7 +245,8 @@ Full members can vote in all ACF elections and on all constitutional amendments.
             <ul>
                 <li>2022 ACF Nationals Assistant Tournament Director</li>
                 <li>2023-24, Communications Officer</li>
-                <li>2023 ACF Nationals Liveblogging/On-site Communications Coordinator</li>
+                <li>2023 ACF Nationals Liveblog Coordinator</li>
+                <li>2023 ACF Nationals On-site Communications Coordinator</li>
             </ul>
         </td>
     </tr>
@@ -618,7 +619,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Mitch McCullar</td>
         <td>
             <ul>
-                <li>Ph.D. Student, Penn State University</li>
+                <li>Alum, Penn State University</li>
                 <li>Alum, University of Illinois</li>
             </ul>
         </td>
@@ -632,7 +633,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
     <tr>
         <td>Tim Morrison</td>
         <td>
-            Ph.D. Student, Stanford University
+            Ph.D., Stanford University
         </td>
         <td>
             <ul>
@@ -804,7 +805,7 @@ Full members can vote in all ACF elections and on all constitutional amendments.
         <td>Christopher Sims</td>
         <td>
             <ul>
-                <li>Ph.D. Student, Northwestern University</li>
+                <li>Ph.D., Northwestern University</li>
                 <li>Alum, University of Toronto</li>
             </ul>
         </td>
@@ -1359,7 +1360,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>
             <ul>
                 <li>J.D., George Washington University Law School</li>
-                <li>M.A., Ph.D. Candidate (ABD), English Literature, University of Michigan</li>
+                <li>M.A., Ph.D. Candidate (ABD), University of Michigan</li>
                 <li>Alum, University of Maryland</li>
             </ul>
         </td>
@@ -1737,7 +1738,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Paul Litvak</td>
         <td>
             <ul>
-                <li>Ph.D., Behavioral Decision Making, Carnegie Mellon University</li>
+                <li>Ph.D., Carnegie Mellon University</li>
                 <li>Alum, University of Michigan</li>
             </ul>
         </td>
@@ -1941,7 +1942,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Jason Paik</td>
         <td>
             <ul>
-                <li>MD/Ph.D., Cancer Biology, University of Alabama School of Medicine</li>
+                <li>MD/Ph.D., University of Alabama School of Medicine</li>
                 <li>Alum, Washington University in St. Louis</li>
             </ul>
         </td>
@@ -2021,7 +2022,10 @@ Emeritus members are former ACF full members who have decided to take a step bac
     <tr>
         <td>Ryan Rosenberg</td>
         <td>
-            Alum, University of North Carolina at Chapel Hill
+            <ul>
+                <li>New York University</li>
+                <li>Alum, University of North Carolina at Chapel Hill</li>
+            </ul>
         </td>
         <td>
             <ul>
@@ -2252,7 +2256,7 @@ Emeritus members are former ACF full members who have decided to take a step bac
         <td>Dwight Wynne</td>
         <td>
             <ul>
-                <li>Ph.D. Candidate, Biomedical Engineering, University of California-Irvine</li>
+                <li>Ph.D. Candidate, University of California-Irvine</li>
                 <li>Alum, University of California-Los Angeles</li>
             </ul>
         </td>

@@ -5,12 +5,12 @@ permalink: /tournaments/winter/
 nav_order: 2.5
 redirect_from:
   - /winter
-last_updated: August 21, 2025
+last_updated: June 27, 2026
 ---
 
 **ACF Winter** is a medium-difficulty tournament (halfway between ACF Fall and ACF Regionals). It is meant for players with a variety of experiences: from players in their first semester of college quizbowl, to players who have been to ACF Nationals. ACF Winter was revived in 2020; the original iterations of ACF Winter were held in 2009 and 2010.
 
-**[2025 ACF Winter](2025)**
+**[2026 ACF Winter](2026)**
 
 ## Past Tournaments
 
@@ -18,6 +18,7 @@ Sample questions from previous iterations of ACF Winter are on the [Collegiate Q
 
 Announcements and information about previous iterations of ACF Winter are archived below:
 
+* [2025 ACF Winter](2025)
 * [2024 ACF Winter](2024)
 * [2023 ACF Winter](2023)
 * [2022 ACF Winter](2022)

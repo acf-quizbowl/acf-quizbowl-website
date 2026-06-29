@@ -309,7 +309,6 @@ def update_members_excel(members: List[Dict[str, Any]], output_path: Path):
             "Affiliations",
             "Contributions",
             "Skills",
-            "Last Activity",
         ]
         for col_num, header in enumerate(headers, 1):
             ws.cell(row=1, column=col_num, value=header)
@@ -322,7 +321,6 @@ def update_members_excel(members: List[Dict[str, Any]], output_path: Path):
             affiliations = "\n".join(member.get("affiliations", []))
             contributions = "\n".join(member.get("contributions", []))
             skills = member.get("skills", "")
-            last_activity = member.get("last_activity", "")
 
             ws.cell(row=row_num, column=1, value=name)
             ws.cell(row=row_num, column=2, value=email)
@@ -330,7 +328,6 @@ def update_members_excel(members: List[Dict[str, Any]], output_path: Path):
             ws.cell(row=row_num, column=4, value=affiliations)
             ws.cell(row=row_num, column=5, value=contributions)
             ws.cell(row=row_num, column=6, value=skills)
-            ws.cell(row=row_num, column=7, value=last_activity)
 
         # Save the workbook
         wb.save(output_path)

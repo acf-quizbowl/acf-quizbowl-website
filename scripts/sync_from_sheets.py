@@ -8,7 +8,7 @@ updates the Markdown file using the same logic as update_members.py.
 Usage:
     python3 scripts/sync_from_sheets.py [sheet_id] [--credentials credentials_file]
 
-The spreadsheet should have columns: Name, Email, Status, Affiliations, Contributions, Skills, Last Activity
+The spreadsheet should have columns: Name, Email, Status, Affiliations, Contributions, Skills
 Affiliations and Contributions should be newline-separated in their cells.
 
 Dependencies:
@@ -99,7 +99,6 @@ def main():
         "Affiliations",
         "Contributions",
         "Skills",
-        "Last Activity",
     ]
     headers_set = set(headers)
     required_headers_set = set(required_headers)
@@ -132,7 +131,6 @@ def main():
             if c.strip()
         ]
         skills = row[headers_dict["Skills"]].strip()  # Not used
-        last_activity = row[headers_dict["Last Activity"]].strip()  # Not used
 
         member = {
             "name": name,
@@ -141,7 +139,6 @@ def main():
             "contributions": contributions,
             "status": status,
             "skills": skills,
-            "last_activity": last_activity,
         }
         members.append(member)
 

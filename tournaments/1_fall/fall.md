@@ -5,7 +5,7 @@ permalink: /tournaments/fall/
 nav_order: 2.5
 redirect_from:
   - /fall
-last_updated: August 21, 2025
+last_updated: June 27, 2026
 ---
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, over 200 teams compete on ACF Fall each year, making it the most widely-played set in the college calendar.
