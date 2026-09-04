@@ -72,6 +72,58 @@ The static website is built using Jekyll, a Ruby Gem.
   $ bundle exec jekyll serve
   ```
 
+## Creating Tournament Pages
+
+Use [`scripts/create_tournament_page.py`](scripts/create_tournament_page.py) to create tournament pages from the reusable templates. The script updates the tournament index and the matching date on the home page as well as creating the new tournament document.
+
+### 1. Configure tournaments
+
+Open `scripts/create_tournament_page.py` and edit the `TOURNAMENTS` dictionary. Uncomment the entries you want to create; leave other entries commented out. Each active entry needs these values:
+
+```python
+"fall": {
+    "year": 2027,
+    "date": "October 16, 2027",
+    "head_editors": "Name",
+    "forums_url": "https://hsquizbowl.org/forums/viewtopic.php?t=12345",
+    "mirror_forums_ready": False,
+},
+```
+
+The fields mean:
+
+* `year`: the calendar year in the tournament’s title and filename.
+* `date`: the tournament date displayed in the tournament page and home-page panel.
+* `head_editors`: the head editor name or names displayed on the tournament page.
+* `forums_url`: the main HSQB announcement URL. It must contain a numeric `t=` topic ID.
+* `mirror_forums_ready`: set to `True` only when mirror forum topics exist. With `False`, mirror sites are plain `__SITE__` placeholders; with `True`, they retain numbered HSQB forum links.
+
+The script supplies stable folder names, slugs, and academic-year rules automatically. Fall and Winter 2027 are stored in `2027-28`; Regionals and Nationals 2027 are stored in `2026-27`. In generated templates, `__PREVIOUS_YEAR__` means the set year minus one for Fall/Winter and minus two for Regionals/Nationals.
+
+### 2. Preview the changes
+
+Run a dry run before creating anything:
+
+```bash
+python3 scripts/create_tournament_page.py --dry-run
+```
+
+The dry run prints each document and index it would update, plus a checklist of the remaining placeholders to fill in. Numbered families are grouped, so mirror placeholders appear as `__MIRROR_FORUMS_NUMBER_X__` and deadline fields as `__MONTH_X__` or `__DAY_X__`.
+
+### 3. Create the pages
+
+Run the script without arguments to process every entry in `TOURNAMENTS`:
+
+```bash
+python3 scripts/create_tournament_page.py
+```
+
+The script creates the tournament Markdown file, adds its link to the corresponding tournament index, and updates the matching date on the home page. The script refuses to overwrite an existing tournament page.
+
+### 4. Update the newly-generated pages
+
+After creation, open the printed file path and replace every remaining `__PLACEHOLDER__`. In particular, fill in the category editors, registration and hosting details, packet deadlines, and mirror site names/forum topic numbers. The source `*_template.md` files are excluded from the published Jekyll site; generated tournament pages are published normally.
+
 ## Updating Members
 
 The ACF membership tables are maintained using [a Google Sheets spreadsheet](https://docs.google.com/spreadsheets/d/1Byrc19gXCmOYJajB5O-bUYJg-E8GuM6VrYcvkcnbW8Y/) as the source of truth, shared among ACF members. The data is synced to the website via a Python script that generates JSON, Excel, and updates the HTML tables.

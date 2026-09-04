@@ -61,7 +61,7 @@ ACF Regionals uses the [standard ACF distribution](/writing/distribution).
 |         ^^         | Shorthanded<br>(1–2 players) | −$75                                 | −$45                                | −$30                                 |
 |  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way  | −$10 per 200 miles traveled one-way | N/A                                  |
 |         ^^         | Buzzer(s)                    | −$10 per buzzer                      | −$10 per buzzer                     | N/A                                  |
-|         ^^         | Staffer(s)                   | −$25 per staffer                     | −$25 per staffer                    | N/A                                  |
+|         ^^         | Staffer(s)                   | −$25 per staffer with a functional laptop                     | −$25 per staffer with a functional laptop                    | N/A                                  |
 | **Fee / Discount** | Packet submission            | [-$75 to +$75](#submission-schedule) | N/A                                 | [-$75 to +$75](#submission-schedule) |
 
 The new to quizbowl discount is for schools that have not sent a team to any regular collegiate academic tournament since September 1, 2024, and have no one on the team(s) claiming this discount who played those tournaments for another school. Exclusively novice tournaments do not count as regular collegiate academic tournaments.

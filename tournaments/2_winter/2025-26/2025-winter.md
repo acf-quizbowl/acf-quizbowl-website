@@ -63,7 +63,7 @@ The fee structure for ACF Winter is taken from [ACF's hosting guidelines](/hosti
 |         ^^         | Shorthanded<br>(1–2 players) | −$75                                 | −$45                                | −$30                                 |
 |  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way  | −$10 per 200 miles traveled one-way | N/A                                  |
 |         ^^         | Buzzer(s)                    | −$10 per buzzer                      | −$10 per buzzer                     | N/A                                  |
-|         ^^         | Staffer(s)                   | −$25 per staffer                     | −$25 per staffer                    | N/A                                  |
+|         ^^         | Staffer(s)                   | −$25 per staffer with a functional laptop                     | −$25 per staffer with a functional laptop                    | N/A                                  |
 | **Fee / Discount** | Packet submission            | [-$50 to +$30](#submission-schedule) | N/A                                 | [-$50 to +$30](#submission-schedule) |
 
 > [!NOTE]

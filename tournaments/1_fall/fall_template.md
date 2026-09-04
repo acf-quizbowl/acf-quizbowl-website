@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2026 ACF Fall
-permalink: /tournaments/fall/2026/
+title: __YEAR__ ACF Fall
+permalink: /tournaments/fall/__YEAR__/
 nav_order: 2
-last_updated: September 4, 2026
+last_updated: __LAST_UPDATED__
 ---
 
 **ACF Fall** is the premier easy tournament in college quizbowl. Designed as an introduction to college quizbowl for novices and players with limited high school quizbowl experience, it is the most widely-played set in the college calendar.
@@ -13,44 +13,44 @@ last_updated: September 4, 2026
 * A markdown unordered list which will be replaced by the ToC, excluding the "Contents header" from above
 {:toc}
 
-# 2026 ACF Fall
+# __YEAR__ ACF Fall
 
-[2026 ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?t=30232) will be held on October 17, 2026.
+[__YEAR__ ACF Fall](https://hsquizbowl.org/forums/viewtopic.php?t=__ANNOUNCEMENT_FORUMS_NUMBER__) will be held on __DATE__.
 
 ## Editors
 
-2026 ACF Fall is head edited by Noah Chin. The subject breakdown by editor is:
+__YEAR__ ACF Fall is head edited by __HEAD_EDITORS__. The subject breakdown by editor is:
 
-| Category                                                          | Editor                                                                         |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [American Literature](/writing/categories#american-literature)    | Nick Smemoe                                                                    |
-| [British Literature](/writing/categories#british-literature)      | Lucia Gellert                                                                  |
-| [European Literature](/writing/categories#european-literature)    | Nick Smemoe                                                                    |
-| [World Literature](/writing/categories#world-literature)          | Lucia Gellert                                                                  |
-| [American History](/writing/categories#american-history)          | Ilyas Choukri                                                                  |
-| [European History](/writing/categories#european-history)          | Joey Sun                                                                       |
-| [World History](/writing/categories#world-history)                | Noah Chin                                                                      |
-| [Other History](/writing/categories#other-history)                | Abhinav Rachakonda                                                             |
-| [Biology](/writing/categories#biology)                            | Ilyas Choukri                                                                  |
-| [Chemistry](/writing/categories#chemistry)                        | Shiva Tegulla                                                                  |
-| [Physics](/writing/categories#physics)                            | Jeremy Cummings                                                                |
-| [Other Science](/writing/categories#other-science)                | Tai Belke (Math, Computer Science)<br>Shiva Tegulla (Earth Science, Astronomy) |
-| [Painting & Sculpture](/writing/categories#painting\-\-sculpture) | Shiva Tegulla                                                                  |
-| [Classical Music](/writing/categories#classical-music)            | Jeremy Cummings<br>Tai Belke (Opera)                                           |
-| [Other Fine Arts](/writing/categories#other-fine-arts)            | Tai Belke                                                                      |
-| [Religion](/writing/categories#religion)                          | Abhinav Rachakonda                                                             |
-| [Mythology](/writing/categories#mythology)                        | Yihong Chen                                                                    |
-| [Social Science](/writing/categories#social-science)              | Rohan Jain                                                                     |
-| [Philosophy](/writing/categories#philosophy)                      | Rohan Jain                                                                     |
-| [Geography](/writing/categories#geography)                        | Tai Belke                                                                      |
-| [Current Events](/writing/categories#current-events)              | Abhinav Rachakonda                                                             |
-| [Other Academic](/writing/categories#other-academic)              | Abhinav Rachakonda                                                             |
-| [Popular Culture](/writing/categories#popular-culture)            | Abhinav Rachakonda                                                             |
+| Category                                                          | Editor     |
+| ----------------------------------------------------------------- | ---------- |
+| [American Literature](/writing/categories#american-literature)    | __EDITOR__ |
+| [British Literature](/writing/categories#british-literature)      | __EDITOR__ |
+| [European Literature](/writing/categories#european-literature)    | __EDITOR__ |
+| [World Literature](/writing/categories#world-literature)          | __EDITOR__ |
+| [American History](/writing/categories#american-history)          | __EDITOR__ |
+| [European History](/writing/categories#european-history)          | __EDITOR__ |
+| [World History](/writing/categories#world-history)                | __EDITOR__ |
+| [Other History](/writing/categories#other-history)                | __EDITOR__ |
+| [Biology](/writing/categories#biology)                            | __EDITOR__ |
+| [Chemistry](/writing/categories#chemistry)                        | __EDITOR__ |
+| [Physics](/writing/categories#physics)                            | __EDITOR__ |
+| [Other Science](/writing/categories#other-science)                | __EDITOR__ |
+| [Painting & Sculpture](/writing/categories#painting\-\-sculpture) | __EDITOR__ |
+| [Classical Music](/writing/categories#classical-music)            | __EDITOR__ |
+| [Other Fine Arts](/writing/categories#other-fine-arts)            | __EDITOR__ |
+| [Religion](/writing/categories#religion)                          | __EDITOR__ |
+| [Mythology](/writing/categories#mythology)                        | __EDITOR__ |
+| [Social Science](/writing/categories#social-science)              | __EDITOR__ |
+| [Philosophy](/writing/categories#philosophy)                      | __EDITOR__ |
+| [Geography](/writing/categories#geography)                        | __EDITOR__ |
+| [Current Events](/writing/categories#current-events)              | __EDITOR__ |
+| [Other Academic](/writing/categories#other-academic)              | __EDITOR__ |
+| [Popular Culture](/writing/categories#popular-culture)            | __EDITOR__ |
 
 ## Hosting
 
 > [!IMPORTANT]
-> If you are interested in hosting a mirror of ACF Fall, fill out the [hosting bid form](https://docs.google.com/forms/d/e/1FAIpQLSfmkchzHlpRMgKVd88FvU9Jb2n2O3vxOcg7uns-hRBZDto7Gg/) before August 16, 2026 at 11:59 Pacific Time.
+> If you are interested in hosting a mirror of ACF Fall, fill out the [hosting bid form](__HOSTING_FORM_URL__) before __HOSTING_DEADLINE__ at 11:59 Pacific Time.
 
 Once host bids are evaluated, the Site Coordinator will post a registration form and a list of confirmed sites in a reply to the HSQB announcement. For further information about the requirements and procedures for hosting ACF tournaments, please see [ACF’s Hosting Guidelines](/guidelines/hosting).
 
@@ -59,7 +59,7 @@ If you have any questions about hosting ACF Winter or the host bid process, plea
 ## Registration
 
 > [!IMPORTANT]
-> To register a team for ACF Fall, please fill out the central [registration form](https://docs.google.com/forms/d/e/1FAIpQLSf0AjS41Z6JR9s0Y8g0_2WX0dWpqBEdROmjIr8EeKagtC4mfQ/) once available. If possible, teams should register for the site that is geographically closest to them and/or is in the region where they would normally play. Registration will close on Sunday, October 11 at 11:59 PM Pacific Time.
+> To register a team for ACF Fall, please fill out the central [registration form](__REGISTRATION_URL__) once available. If possible, teams should register for the site that is geographically closest to them and/or is in the region where they would normally play. Registration will close on __REGISTRATION_DEADLINE__ at 11:59 PM Pacific Time.
 
 ## Distribution
 
@@ -78,7 +78,7 @@ See the [ACF distribution table](/writing/distribution).
 |        ^^        | Staffer(s)                   | −$25 per staffer with a functional laptop |
 |        ^^        | Packet submission            | -$60 to -$5                               |
 
-*\*The new to quizbowl discount is intended for schools that have not sent a team to any mainstream collegiate academic quizbowl tournament** since September 1, 2025, and that have no players who competed in such tournaments during that same period.*
+*\*The new to quizbowl discount is intended for schools that have not sent a team to any mainstream collegiate academic quizbowl tournament** since September 1, __PREVIOUS_YEAR__, and that have no players who competed in such tournaments during that same period.*
 
 *\*\*“Mainstream collegiate academic quizbowl tournaments” include all ACF tournaments, NAQT SCT and ICT, and any housewritten collegiate academic invitational or open tournaments. Novice collegiate tournaments with strict eligibility requirements, pop culture or “hybrid” tournaments, and HCASC do not count towards this definition.*
 
@@ -92,13 +92,13 @@ Hosts will bill teams as soon as possible once teams register. Teams should pay 
 ### Submission Schedule
 
 {: .table-multi}
-| Submission Deadline | Half Packet Discount / Fee | Quarter-packet Discount / Fee |
-| ------------------- | -------------------------- | ----------------------------- |
-| July 05, 2026       | −$60                       | −$30                          |
-| July 19, 2026       | −$40                       | −$20                          |
-| August 09, 2026     | −$30                       | −$15                          |
-| August 30, 2026     | −$20                       | −$10                          |
-| September 13, 2026  | −$10                       | −$5                           |
+| Submission Deadline             | Half Packet Discount / Fee | Quarter-packet Discount / Fee |
+| ------------------------------- | -------------------------- | ----------------------------- |
+| __MONTH_1__ __DAY_1__, __YEAR__ | −$60                       | −$30                          |
+| __MONTH_2__ __DAY_2__, __YEAR__ | −$40                       | −$20                          |
+| __MONTH_3__ __DAY_3__, __YEAR__ | −$30                       | −$15                          |
+| __MONTH_4__ __DAY_4__, __YEAR__ | −$20                       | −$10                          |
+| __MONTH_5__ __DAY_5__, __YEAR__ | −$10                       | −$5                           |
 
 In addition to the above discounts, teams may earn a −$20 quality discount (−$10 for a quarter-packet) if the questions in their submission are particularly polished and usable. Each team may submit a maximum of one half-packet, which may earn up to a –$80 maximum discount.
 
@@ -106,7 +106,7 @@ In addition to the above discounts, teams may earn a −$20 quality discount (�
 
 Contact [fall@acf-quizbowl.com](mailto:fall@acf-quizbowl.com) to request a packet distribution. Before writing, review ACF’s [packet submission guidelines](/guidelines/packet-sub), [distribution overview](/writing/distribution/), and [category guide](/writing/categories).
 
-If you would like to submit a half-packet or quarter-packet for ACF Fall, please fill out the [interest form](https://docs.google.com/forms/d/1HlCeWaTG9DIfgnw_QkuO5gsdfRqV_a6WszzW-RADw58/) once available to request a distribution. ACF will respond with a template specifying which questions you have been assigned to write. Please keep in mind the following information:
+If you would like to submit a half-packet or quarter-packet for ACF Fall, please fill out the [interest form](__INTEREST_FORM__) once available to request a distribution. ACF will respond with a template specifying which questions you have been assigned to write. Please keep in mind the following information:
 
 * Before writing, review ACF’s [packet submission guidelines](/guidelines/packet-sub), [distribution overview](/writing/distribution/), and [category guide](/writing/categories).
 * Please see [these questions](https://drive.google.com/file/d/1k3iR74eKPeNdoXxJRSZ-Ko-I1s-G7kBX/view) from 2023 ACF Fall for examples of target difficulty and style. All answers should generally emphasize playability over creativity; aim for creative and interesting clues with straightforward answerlines. For bonuses, aim for easy parts to have 90% conversion, medium parts to have 50% conversion, and hard parts to have 10% conversion.
@@ -130,7 +130,7 @@ ACF Fall uses the official ACF [Gameplay Rules](/rules/rules).
 
 ACF Fall uses the official ACF [Eligibility Rules](/rules/eligibility).
 
-In general, teams whose players are all attending the same college/university and taking at least one class for credit during the current academic year are eligible to play ACF Fall. However, ACF also enforces further eligibility guidelines for ACF Fall to make it more accessible to new teams and players. Players are not eligible to play ACF Fall if, at any point, they:
+In general, teams whose players are all attending the same college/university and taking at least one class for credit during the current academic year are eligible to play ACF Fall. However, ACF also enforces further eligibility guidelines for ACF Fall to make it more accessible to new teams and players. Players are not eligible to play ACF Fall if, *at any point*, they:
 
 * Scored more than 60 PPG in the prelims of ACF Fall, OR
 * Were the top scorer (highest overall PPG) on a team that finished in the top 15% of the field, rounded up, at ACF Fall, OR
@@ -148,30 +148,25 @@ ACF is willing to provide the ACF Fall question set for designated high-school-o
 
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites.
 
-| Region                 | Site                      |
-| ---------------------- | ------------------------- |
-| Northeast              | MIT                       |
-| Upstate NY             | N/A                       |
-| Upper Mid-Atlantic     | Rutgers                   |
-| Lower Mid-Atlantic     | Maryland                  |
-| Southeast              | Auburn                    |
-| Florida                | Florida Tech              |
-| Great Lakes            | Ohio State                |
-| Midwest (East)         | Illinois Urbana-Champaign |
-| Midwest (West)         | Missouri – Columbia       |
-| North                  | Minnesota                 |
-| South Central          | Murray State College      |
-| Northwest              | Washington (online)       |
-| Mountain West          | N/A                       |
-| Northern California    | UC Berkeley               |
-| Southern California    | Claremont                 |
-| Eastern Canada (East)  | Ottawa                    |
-| Eastern Canada (West)  | Waterloo                  |
-| United Kingdom (North) | Edinburgh                 |
-| United Kingdom (South) | Imperial                  |
-| Overflow               |                           |
-| High-School (Illinois) | Rockford Auburn HS        |
-| High-School (Georgia)  | Georgia Tech              |
+| Region              | Site                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| Northeast           | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_1__)  |
+| Upstate NY          | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_2__)  |
+| Upper Mid-Atlantic  | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_3__)  |
+| Lower Mid-Atlantic  | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_4__)  |
+| Southeast           | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_5__)  |
+| Florida             | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_6__)  |
+| Great Lakes         | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_7__)  |
+| Midwest             | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_8__)  |
+| North               | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_9__)  |
+| South Central       | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_10__) |
+| Northwest           | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_11__) |
+| Mountain West       | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_12__) |
+| Northern California | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_13__) |
+| Southern California | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_14__) |
+| Eastern Canada      | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_15__) |
+| United Kingdom      | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_16__) |
+| Overflow            | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_17__) |
 
 ## Past Tournaments
 

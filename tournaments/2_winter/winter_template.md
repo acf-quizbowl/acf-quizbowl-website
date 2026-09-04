@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2026 ACF Winter
-permalink: /tournaments/winter/2026/
+title: __YEAR__ ACF Winter
+permalink: /tournaments/winter/__YEAR__/
 nav_order: 2.5
-last_updated: September 4, 2026
+last_updated: __LAST_UPDATED__
 ---
 
 **ACF Winter** is a medium-difficulty tournament, halfway between ACF Fall and ACF Regionals, for players with a variety of college quizbowl experience.
@@ -13,44 +13,44 @@ last_updated: September 4, 2026
 * A markdown unordered list which will be replaced by the ToC, excluding the "Contents header" from above
 {:toc}
 
-# 2026 ACF Winter
+# __YEAR__ ACF Winter
 
-[2026 ACF Winter](https://hsquizbowl.org/forums/viewtopic.php?t=30250) will be held on November 14, 2026.
+[__YEAR__ ACF Winter](https://hsquizbowl.org/forums/viewtopic.php?t=__ANNOUNCEMENT_FORUMS_NUMBER__) will be held on __DATE__.
 
 ## Editors
 
-2026 ACF Winter is head edited by Ben Chapman. The subject breakdown by editor is:
+__YEAR__ ACF Winter is head edited by __HEAD_EDITORS__. The subject breakdown by editor is:
 
-| Category                                                          | Editor          |
-| ----------------------------------------------------------------- | --------------- |
-| [American Literature](/writing/categories#american-literature)    | Emily Bussa     |
-| [British Literature](/writing/categories#british-literature)      | Jamie Burchett  |
-| [European Literature](/writing/categories#european-literature)    | Emily Bussa     |
-| [World Literature](/writing/categories#world-literature)          | Raymond Chen    |
-| [American History](/writing/categories#american-history)          | Nicolas Edwards |
-| [European History](/writing/categories#european-history)          | Sky Li          |
-| [World History](/writing/categories#world-history)                | Alan Lee        |
-| [Other History](/writing/categories#other-history)                | Nicolas Edwards |
-| [Biology](/writing/categories#biology)                            | Raymond Chen    |
-| [Chemistry](/writing/categories#chemistry)                        | Geoffrey Wu     |
-| [Physics](/writing/categories#physics)                            | Geoffrey Wu     |
-| [Other Science](/writing/categories#other-science)                | Geoffrey Wu     |
-| [Painting & Sculpture](/writing/categories#painting\-\-sculpture) | Aum Mundhe      |
-| [Classical Music](/writing/categories#classical-music)            | Sky Li          |
-| [Other Fine Arts](/writing/categories#other-fine-arts)            | Jamie Burchett  |
-| [Religion](/writing/categories#religion)                          | Sky Li          |
-| [Mythology](/writing/categories#mythology)                        | Andy Yu         |
-| [Social Science](/writing/categories#social-science)              | Rayton Lin      |
-| [Philosophy](/writing/categories#philosophy)                      | Aum Mundhe      |
-| [Geography](/writing/categories#geography)                        | Ben Chapman     |
-| [Current Events](/writing/categories#current-events)              | Alan Lee        |
-| [Other Academic](/writing/categories#other-academic)              | Aum Mundhe      |
-| [Popular Culture](/writing/categories#popular-culture)            | Jamie Burchett  |
+| Category                                                          | Editor     |
+| ----------------------------------------------------------------- | ---------- |
+| [American Literature](/writing/categories#american-literature)    | __EDITOR__ |
+| [British Literature](/writing/categories#british-literature)      | __EDITOR__ |
+| [European Literature](/writing/categories#european-literature)    | __EDITOR__ |
+| [World Literature](/writing/categories#world-literature)          | __EDITOR__ |
+| [American History](/writing/categories#american-history)          | __EDITOR__ |
+| [European History](/writing/categories#european-history)          | __EDITOR__ |
+| [World History](/writing/categories#world-history)                | __EDITOR__ |
+| [Other History](/writing/categories#other-history)                | __EDITOR__ |
+| [Biology](/writing/categories#biology)                            | __EDITOR__ |
+| [Chemistry](/writing/categories#chemistry)                        | __EDITOR__ |
+| [Physics](/writing/categories#physics)                            | __EDITOR__ |
+| [Other Science](/writing/categories#other-science)                | __EDITOR__ |
+| [Painting & Sculpture](/writing/categories#painting\-\-sculpture) | __EDITOR__ |
+| [Classical Music](/writing/categories#classical-music)            | __EDITOR__ |
+| [Other Fine Arts](/writing/categories#other-fine-arts)            | __EDITOR__ |
+| [Religion](/writing/categories#religion)                          | __EDITOR__ |
+| [Mythology](/writing/categories#mythology)                        | __EDITOR__ |
+| [Social Science](/writing/categories#social-science)              | __EDITOR__ |
+| [Philosophy](/writing/categories#philosophy)                      | __EDITOR__ |
+| [Geography](/writing/categories#geography)                        | __EDITOR__ |
+| [Current Events](/writing/categories#current-events)              | __EDITOR__ |
+| [Other Academic](/writing/categories#other-academic)              | __EDITOR__ |
+| [Popular Culture](/writing/categories#popular-culture)            | __EDITOR__ |
 
 ## Hosting
 
 > [!IMPORTANT]
-> If you are interested in hosting a mirror of ACF Winter, fill out the [hosting bid form](https://docs.google.com/forms/d/e/1FAIpQLSdDE9W787h9j-qMJ83-UC4_UKiBuP6I0yIB6XoTd9y02i9OJw/) before September 13, 2026 at 11:59 Pacific Time.
+> If you are interested in hosting a mirror of ACF Winter, fill out the [hosting bid form](__HOSTING_FORM_URL__) before __HOSTING_DEADLINE__ at 11:59 Pacific Time.
 
 Once host bids are evaluated, the Site Coordinator will post a registration form and a list of confirmed sites in a reply to the HSQB announcement. For further information about the requirements and procedures for hosting ACF tournaments, please see [ACF’s Hosting Guidelines](/guidelines/hosting).
 
@@ -59,7 +59,7 @@ If you have any questions about hosting ACF Winter or the host bid process, plea
 ## Registration
 
 > [!IMPORTANT]
-> To register a team for ACF Winter, please fill out the central [registration form]() once available. If possible, teams should register for the site that is geographically closest to them and/or is in the region where they would normally play. Registration will close on a date TBA at 11:59 PM Pacific Time.
+> To register a team for ACF Winter, please fill out the central [registration form](__REGISTRATION_URL__) once available. If possible, teams should register for the site that is geographically closest to them and/or is in the region where they would normally play. Registration will close on __REGISTRATION_DEADLINE__ at 11:59 PM Pacific Time.
 
 ## Distribution
 
@@ -79,7 +79,7 @@ See the [ACF distribution table](/writing/distribution).
 |         ^^         | Staffer(s)                   | −$25 per staffer with a functional laptop |
 | **Fee / Discount** | Packet submission            | ± amount as applicable                    |
 
-*\*The new to quizbowl discount is intended for schools that have not sent a team to any mainstream collegiate academic quizbowl tournament** since September 1, 2025, and that have no players who competed in such tournaments during that same period.*
+*\*The new to quizbowl discount is intended for schools that have not sent a team to any mainstream collegiate academic quizbowl tournament** since September 1, __PREVIOUS_YEAR__, and that have no players who competed in such tournaments during that same period.*
 
 *\*\*“Mainstream collegiate academic quizbowl tournaments” include all ACF tournaments, NAQT SCT and ICT, and any housewritten collegiate academic invitational or open tournaments. Novice collegiate tournaments with strict eligibility requirements, pop culture or “hybrid” tournaments, and HCASC do not count towards this definition.*
 
@@ -88,22 +88,22 @@ Hosts will bill teams as soon as possible once teams register. Teams should pay 
 ## Packet Submission
 
 > [!IMPORTANT]
-> Any team that includes at least two people who played a mainstream collegiate academic quizbowl tournament (see above definition)—including as a high school student—before September 1, 2025, is required to submit a half-packet or pay an opt-out fee. Discounts and penalties for early or late submissions will be assessed according to the following schedule. All listed deadlines are at 11:59 PM Pacific Time.
+> Any team that includes at least two people who played a mainstream collegiate academic quizbowl tournament (see above definition)—including as a high school student—before September 1, __PREVIOUS_YEAR__, is required to submit a half-packet or pay an opt-out fee. Discounts and penalties for early or late submissions will be assessed according to the following schedule. All listed deadlines are at 11:59 PM Pacific Time.
 
 ### Submission Schedule
 
-| Submission Deadline | Packet Discount / Fee |
-| ------------------- | --------------------- |
-| July 26, 2026       | -$50                  |
-| August 23, 2026     | -$40                  |
-| September 06, 2026  | -$30                  |
-| September 13, 2026  | -$20                  |
-| September 20, 2026  | -$10                  |
-| September 27, 2026  | $0                    |
-| October 4, 2026     | +$10                  |
-| October 11, 2026    | +$20                  |
-| October 18, 2026    | +$30                  |
-| Opt-out fee         | $50                   |
+| Submission Deadline             | Packet Discount / Fee |
+| ------------------------------- | --------------------- |
+| __MONTH_1__ __DAY_1__, __YEAR__ | -$50                  |
+| __MONTH_2__ __DAY_2__, __YEAR__ | -$40                  |
+| __MONTH_3__ __DAY_3__, __YEAR__ | -$30                  |
+| __MONTH_4__ __DAY_4__, __YEAR__ | -$20                  |
+| __MONTH_5__ __DAY_5__, __YEAR__ | -$10                  |
+| __MONTH_6__ __DAY_6__, __YEAR__ | $0                    |
+| __MONTH_7__ __DAY_7__, __YEAR__ | +$10                  |
+| __MONTH_8__ __DAY_8__, __YEAR__ | +$20                  |
+| __MONTH_9__ __DAY_9__, __YEAR__ | +$30                  |
+| Opt-out fee                     | $50                   |
 
 ### Packet Distribution & Authorship
 
@@ -137,25 +137,25 @@ ACF is willing to provide the ACF Winter question set for designated high-school
 
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites.
 
-| Region              | Site |
-| ------------------- | ---- |
-| Northeast           | TBA  |
-| Upstate NY          | TBA  |
-| Upper Mid-Atlantic  | TBA  |
-| Lower Mid-Atlantic  | TBA  |
-| Southeast           | TBA  |
-| Florida             | TBA  |
-| Great Lakes         | TBA  |
-| Midwest             | TBA  |
-| North               | TBA  |
-| South Central       | TBA  |
-| Northwest           | TBA  |
-| Mountain West       | TBA  |
-| Northern California | TBA  |
-| Southern California | TBA  |
-| Eastern Canada      | TBA  |
-| United Kingdom      | TBA  |
-| Overflow            | TBA  |
+| Region              | Site                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| Northeast           | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_1__)  |
+| Upstate NY          | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_2__)  |
+| Upper Mid-Atlantic  | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_3__)  |
+| Lower Mid-Atlantic  | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_4__)  |
+| Southeast           | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_5__)  |
+| Florida             | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_6__)  |
+| Great Lakes         | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_7__)  |
+| Midwest             | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_8__)  |
+| North               | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_9__)  |
+| South Central       | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_10__) |
+| Northwest           | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_11__) |
+| Mountain West       | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_12__) |
+| Northern California | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_13__) |
+| Southern California | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_14__) |
+| Eastern Canada      | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_15__) |
+| United Kingdom      | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_16__) |
+| Overflow            | [__SITE__](https://hsquizbowl.org/forums/viewtopic.php?t=__MIRROR_FORUMS_NUMBER_17__) |
 
 ## Past Tournaments
 

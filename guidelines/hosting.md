@@ -5,7 +5,7 @@ permalink: /guidelines/hosting/
 redirect_from:
   - /hosting
   - /hosting-guidelines
-last_updated: December 14, 2025
+last_updated: September 14, 2026
 ---
 
 <!-- need to rewrite so "host team" is not ambiguous with club vs. competing house team -->
@@ -167,31 +167,31 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 ##### ACF Winter & ACF Regionals
 
 {: .table-multi}
-|                    | Type                         | Team Amount                         | Host Share                          | ACF Share              |
-| :----------------: | ---------------------------- | ----------------------------------- | ----------------------------------- | ---------------------- |
-|      **Fee**       | Base                         | $150                                | $80                                 | $70                    |
-|         ^^         | Opt-out                      | amount as applicable                | N/A                                 | amount as applicable   |
-|                    | New to quizbowl              | −$100                               | −$30                                | −$70                   |
-|         ^^         | Shorthanded<br>(1–2 players) | −$75                                | −$45                                | −$30                   |
-|  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A                    |
-|         ^^         | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A                    |
-|         ^^         | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A                    |
-| **Fee / Discount** | Packet submission            | ± amount as applicable              | N/A                                 | ± amount as applicable |
+|                    | Type                         | Team Amount                               | Host Share                                | ACF Share              |
+| :----------------: | ---------------------------- | ----------------------------------------- | ----------------------------------------- | ---------------------- |
+|      **Fee**       | Base                         | $150                                      | $80                                       | $70                    |
+|         ^^         | Opt-out                      | amount as applicable                      | N/A                                       | amount as applicable   |
+|                    | New to quizbowl              | −$100                                     | −$30                                      | −$70                   |
+|         ^^         | Shorthanded<br>(1–2 players) | −$75 per team                             | −$45                                      | −$30                   |
+|  ^^ **Discounts**  | Travel                       | −$10 per 200 miles traveled one-way       | −$10 per 200 miles traveled one-way       | N/A                    |
+|         ^^         | Buzzer(s)                    | −$10 per buzzer                           | −$10 per buzzer                           | N/A                    |
+|         ^^         | Staffer(s)                   | −$25 per staffer with a functional laptop | −$25 per staffer with a functional laptop | N/A                    |
+| **Fee / Discount** | Packet submission            | ± amount as applicable                    | N/A                                       | ± amount as applicable |
 
 <br>
 
 ##### ACF Fall
 
 {: .table-multi}
-|                  | Type                         | Team Amount                         | Host Share                          | ACF Share   |
-| :--------------: | ---------------------------- | ----------------------------------- | ----------------------------------- | ----------- |
-|     **Fee**      | Base                         | $120                                | $60                                 | $60         |
-|                  | New to quizbowl              | −$80                                | −$20                                | −$60        |
-|        ^^        | Shorthanded<br>(1–2 players) | −$60                                | −$40                                | −$20        |
-| ^^ **Discounts** | Travel                       | −$10 per 200 miles traveled one-way | −$10 per 200 miles traveled one-way | N/A         |
-|        ^^        | Buzzer(s)                    | −$10 per buzzer                     | −$10 per buzzer                     | N/A         |
-|        ^^        | Staffer(s)                   | −$25 per staffer                    | −$25 per staffer                    | N/A         |
-|        ^^        | Packet submission            | -$60 to -$5                         | N/A                                 | -$60 to -$5 |
+|                  | Type                         | Team Amount                               | Host Share                                | ACF Share   |
+| :--------------: | ---------------------------- | ----------------------------------------- | ----------------------------------------- | ----------- |
+|     **Fee**      | Base                         | $120                                      | $60                                       | $60         |
+|                  | New to quizbowl              | −$80                                      | −$20                                      | −$60        |
+|        ^^        | Shorthanded<br>(1–2 players) | −$60                                      | −$40                                      | −$20        |
+| ^^ **Discounts** | Travel                       | −$10 per 200 miles traveled one-way       | −$10 per 200 miles traveled one-way       | N/A         |
+|        ^^        | Buzzer(s)                    | −$10 per buzzer                           | −$10 per buzzer                           | N/A         |
+|        ^^        | Staffer(s)                   | −$25 per staffer with a functional laptop | −$25 per staffer with a functional laptop | N/A         |
+|        ^^        | Packet submission            | -$60 to -$5                               | N/A                                       | -$60 to -$5 |
 
 > [!NOTE]
 >
