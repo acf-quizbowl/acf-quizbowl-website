@@ -187,7 +187,7 @@ ACF encourages all hosts to run their tournaments digitally in order to be envir
 | :--------------: | ---------------------------- | ----------------------------------------- | ----------------------------------------- | ----------- |
 |     **Fee**      | Base                         | $120                                      | $60                                       | $60         |
 |                  | New to quizbowl              | −$80                                      | −$20                                      | −$60        |
-|        ^^        | Shorthanded<br>(1–2 players) | −$60                                      | −$40                                      | −$20        |
+|        ^^        | Shorthanded<br>(1–2 players) | −$60 per team                             | −$40                                      | −$20        |
 | ^^ **Discounts** | Travel                       | −$10 per 200 miles traveled one-way       | −$10 per 200 miles traveled one-way       | N/A         |
 |        ^^        | Buzzer(s)                    | −$10 per buzzer                           | −$10 per buzzer                           | N/A         |
 |        ^^        | Staffer(s)                   | −$25 per staffer with a functional laptop | −$25 per staffer with a functional laptop | N/A         |

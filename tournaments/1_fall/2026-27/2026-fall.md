@@ -72,7 +72,7 @@ See the [ACF distribution table](/writing/distribution).
 | :--------------: | ---------------------------- | ----------------------------------------- |
 |     **Fee**      | Base                         | $120                                      |
 |                  | New to quizbowl              | −$80                                      |
-|        ^^        | Shorthanded<br>(1–2 players) | −$60                                      |
+|        ^^        | Shorthanded<br>(1–2 players) | −$60 per team                             |
 | ^^ **Discounts** | Travel                       | −$10 per 200 miles traveled one-way       |
 |        ^^        | Buzzer(s)                    | −$10 per buzzer                           |
 |        ^^        | Staffer(s)                   | −$25 per staffer with a functional laptop |
