@@ -50,7 +50,7 @@ last_updated: September 4, 2026
 ## Hosting
 
 > [!IMPORTANT]
-> If you are interested in hosting a mirror of ACF Winter, fill out the [hosting bid form](https://docs.google.com/forms/d/e/1FAIpQLSdDE9W787h9j-qMJ83-UC4_UKiBuP6I0yIB6XoTd9y02i9OJw/) before September 13, 2026 at 11:59 Pacific Time.
+> If you are interested in hosting a mirror of ACF Winter, fill out the [hosting bid form](https://docs.google.com/forms/d/e/1FAIpQLSdDE9W787h9j-qMJ83-UC4_UKiBuP6I0yIB6XoTd9y02i9OJw/viewform) before September 13, 2026 at 11:59 Pacific Time.
 
 Once host bids are evaluated, the Site Coordinator will post a registration form and a list of confirmed sites in a reply to the HSQB announcement. For further information about the requirements and procedures for hosting ACF tournaments, please see [ACF’s Hosting Guidelines](/guidelines/hosting).
 
