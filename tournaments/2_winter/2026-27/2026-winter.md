@@ -3,7 +3,7 @@ layout: page
 title: 2026 ACF Winter
 permalink: /tournaments/winter/2026/
 nav_order: 2.5
-last_updated: September 4, 2026
+last_updated: November 10, 2026
 ---
 
 **ACF Winter** is a medium-difficulty tournament, halfway between ACF Fall and ACF Regionals, for players with a variety of college quizbowl experience.
@@ -137,25 +137,25 @@ ACF is willing to provide the ACF Winter question set for designated high-school
 
 Mirrors will by default be regional. ACF reserves the right to move teams and staffers between sites.
 
-| Region              | Site |
-| ------------------- | ---- |
-| Northeast           | TBA  |
-| Upstate NY          | TBA  |
-| Upper Mid-Atlantic  | TBA  |
-| Lower Mid-Atlantic  | TBA  |
-| Southeast           | TBA  |
-| Florida             | TBA  |
-| Great Lakes         | TBA  |
-| Midwest             | TBA  |
-| North               | TBA  |
-| South Central       | TBA  |
-| Northwest           | TBA  |
-| Mountain West       | TBA  |
-| Northern California | TBA  |
-| Southern California | TBA  |
-| Eastern Canada      | TBA  |
-| United Kingdom      | TBA  |
-| Overflow            | TBA  |
+| Region              | Site                                                                                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Northeast           | [MIT](https://hsquizbowl.org/forums/viewtopic.php?t=30653)                                                                                        |
+| Upstate NY          | [University of Rochester](https://hsquizbowl.org/forums/viewtopic.php?t=30564)                                                                    |
+| Upper Mid-Atlantic  | [Columbia](https://hsquizbowl.org/forums/viewtopic.php?t=30573) (online)                                                                          |
+| Lower Mid-Atlantic  | [Duke](https://hsquizbowl.org/forums/viewtopic.php?t=30583)                                                                                       |
+| Southeast           | [Tennessee Tech](https://hsquizbowl.org/forums/viewtopic.php?t=30565)                                                                             |
+| Florida             | [University of Florida](https://hsquizbowl.org/forums/viewtopic.php?t=30571)                                                                      |
+| Great Lakes         | [Michigan](https://hsquizbowl.org/forums/viewtopic.php?t=30582)                                                                                   |
+| Midwest             | [Northwestern](https://hsquizbowl.org/forums/viewtopic.php?t=30589)                                                                               |
+| North               | [Minnesota](https://hsquizbowl.org/forums/viewtopic.php?t=30575)                                                                                  |
+| South Central       | [Texas – Austin](https://hsquizbowl.org/forums/viewtopic.php?t=30580)                                                                             |
+| Northwest           | [British Columbia](https://hsquizbowl.org/forums/viewtopic.php?t=30579)                                                                           |
+| Mountain West       | N/A                                                                                                                                               |
+| Northern California | [UC Berkeley](https://hsquizbowl.org/forums/viewtopic.php?t=30567)                                                                                |
+| Southern California | [Claremont](https://hsquizbowl.org/forums/viewtopic.php?t=30563)                                                                                  |
+| Eastern Canada      | [Toronto](https://hsquizbowl.org/forums/viewtopic.php?t=30574)                                                                                    |
+| United Kingdom      | [Durham (North)](https://hsquizbowl.org/forums/viewtopic.php?t=30570), [Southampton (South)](https://hsquizbowl.org/forums/viewtopic.php?t=30566) |
+| Overflow            | N/A                                                                                                                                               |
 
 ## Past Tournaments
 
